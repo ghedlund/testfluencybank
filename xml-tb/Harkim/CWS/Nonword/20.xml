@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="20" Mediatypes="audio"
+            DesignType="cross"
+            ActivityType="tests"
+            GroupType="CWS"
+      PID="11312/a-00005431-1"
+      Version="2.20.0"
+      Lang="eng"
+      Corpus="Hakim"
+      >
+  <Participants>
+    <participant
+      id="INV"
+      role="Investigator"
+      language="eng"
+
+    />
+    <participant
+      id="CHI"
+      role="Target_Child"
+      language="eng"
+      age="P8Y03M"
+      sex="male"
+
+    />
+  </Participants>
+  <comment type="Warning">does not represent fluency or articulation</comment>
+  <comment type="Types">cross, tests, CWS</comment>
+  <u who="INV" uID="u0">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="comments">explains task to child .</a>
+  </u>
+  <u who="CHI" uID="u1">
+    <w formType="neologism">gop<mor type="mor"><mw><pos><c>neo</c></pos><stem>gop</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="0.000"
+      end="67.315"
+      unit="s"
+    />
+    <a type="comments">trial word .</a>
+  </u>
+  <u who="CHI" uID="u2">
+    <w formType="neologism">squimber<mor type="mor"><mw><pos><c>neo</c></pos><stem>squimber</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="67.315"
+      end="72.992"
+      unit="s"
+    />
+    <a type="comments">trial word .</a>
+  </u>
+  <u who="CHI" uID="u3">
+    <w formType="neologism">allonic<mor type="mor"><mw><pos><c>neo</c></pos><stem>allonic</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="72.992"
+      end="79.679"
+      unit="s"
+    />
+    <a type="comments">trial word [+stut]</a>
+  </u>
+  <u who="CHI" uID="u4">
+    <w formType="neologism">pennel<mor type="mor"><mw><pos><c>neo</c></pos><stem>pennel</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="79.679"
+      end="86.065"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u5">
+    <w formType="neologism">loddenapish<mor type="mor"><mw><pos><c>neo</c></pos><stem>loddenapish</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="86.065"
+      end="94.563"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u6">
+    <w formType="neologism">commerine<mor type="mor"><mw><pos><c>neo</c></pos><stem>commerine</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="94.563"
+      end="101.111"
+      unit="s"
+    />
+  </u>
+  <u who="INV" uID="u7">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="comments">reminds child to speak up .</a>
+  </u>
+  <u who="CHI" uID="u8">
+    <w formType="neologism">bannow<mor type="mor"><mw><pos><c>neo</c></pos><stem>bannow</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="101.111"
+      end="108.309"
+      unit="s"
+    />
+  </u>
+  <u who="INV" uID="u9">
+    <w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="1" head="3" relation="SUBJ"/></mor></w>
+    <w>are<mor type="mor"><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw><gra type="gra" index="2" head="3" relation="AUX"/></mor></w>
+    <w>doing<mor type="mor"><mw><pos><c>part</c></pos><stem>do</stem><mk type="sfx">PRESP</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w>
+    <w>really<mor type="mor"><mw><pos><c>adv</c></pos><stem>real</stem><mk type="sfxf">dadj</mk><mk type="sfx">LY</mk></mw><gra type="gra" index="4" head="5" relation="JCT"/></mor></w>
+    <w>good<mor type="mor"><mw><pos><c>adj</c></pos><stem>good</stem></mw><gra type="gra" index="5" head="3" relation="JCT"/></mor></w>
+    <w>though<mor type="mor"><mw><pos><c>adv</c></pos><stem>though</stem></mw><gra type="gra" index="6" head="5" relation="JCT"/></mor></w>
+    <w>very<mor type="mor"><mw><pos><c>adv</c></pos><stem>very</stem></mw><gra type="gra" index="7" head="8" relation="JCT"/></mor></w>
+    <w>good<mor type="mor"><mw><pos><c>adj</c></pos><stem>good</stem></mw><gra type="gra" index="8" head="5" relation="JCT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="9" head="3" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u10">
+    <w formType="neologism">barrazon<mor type="mor"><mw><pos><c>neo</c></pos><stem>barrazon</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="108.309"
+      end="115.334"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u11">
+    <w formType="neologism">commeecitate<mor type="mor"><mw><pos><c>neo</c></pos><stem>commeecitate</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="115.334"
+      end="121.220"
+      unit="s"
+    />
+    <a type="comments">word final stress [+err] .</a>
+  </u>
+  <u who="CHI" uID="u12">
+    <w formType="neologism">ballop<mor type="mor"><mw><pos><c>neo</c></pos><stem>ballop</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="121.220"
+      end="127.454"
+      unit="s"
+    />
+    <a type="comments">[+err] .</a>
+  </u>
+  <u who="CHI" uID="u13">
+    <w formType="neologism">rubid<mor type="mor"><mw><pos><c>neo</c></pos><stem>rubid</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="127.454"
+      end="134.409"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u14">
+    <w formType="neologism">pristoractional<mor type="mor"><mw><pos><c>neo</c></pos><stem>pristoractional</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="134.409"
+      end="143.441"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u15">
+    <w formType="neologism">penneriful<mor type="mor"><mw><pos><c>neo</c></pos><stem>penneriful</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="143.441"
+      end="150.396"
+      unit="s"
+    />
+    <a type="comments">word final stress [+stut] .</a>
+  </u>
+  <u who="CHI" uID="u16">
+    <w formType="neologism">altupatory<mor type="mor"><mw><pos><c>neo</c></pos><stem>altupatory</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="150.396"
+      end="157.025"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u17">
+    <w formType="neologism">detratapillic<mor type="mor"><mw><pos><c>neo</c></pos><stem>detratapillic</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="157.025"
+      end="165.291"
+      unit="s"
+    />
+    <a type="comments">[+stut] .</a>
+  </u>
+  <u who="CHI" uID="u18">
+    <w formType="neologism">voltularity<mor type="mor"><mw><pos><c>neo</c></pos><stem>voltularity</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="165.291"
+      end="173.012"
+      unit="s"
+    />
+    <a type="comments">[+stut]</a>
+  </u>
+  <u who="CHI" uID="u19">
+    <w formType="neologism">perplisteronk<mor type="mor"><mw><pos><c>neo</c></pos><stem>perplisteronk</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="173.012"
+      end="178.271"
+      unit="s"
+    />
+    <a type="comments">word final stress .</a>
+  </u>
+  <u who="CHI" uID="u20">
+    <w formType="neologism">diller<mor type="mor"><mw><pos><c>neo</c></pos><stem>diller</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="178.271"
+      end="184.900"
+      unit="s"
+    />
+    <a type="comments">[+stut] .</a>
+  </u>
+  <u who="CHI" uID="u21">
+    <w formType="neologism">glistow<mor type="mor"><mw><pos><c>neo</c></pos><stem>glistow</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="184.900"
+      end="191.170"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u22">
+    <w formType="neologism">defermication<mor type="mor"><mw><pos><c>neo</c></pos><stem>defermication</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="191.170"
+      end="199.959"
+      unit="s"
+    />
+    <a type="comments">[+stut] .</a>
+  </u>
+  <u who="INV" uID="u23">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="comments">phone rings and interrupts session .</a>
+  </u>
+  <u who="CHI" uID="u24">
+    <w formType="neologism">thickery<mor type="mor"><mw><pos><c>neo</c></pos><stem>thickery</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="199.959"
+      end="229.518"
+      unit="s"
+    />
+  </u>
+  <u who="INV" uID="u25">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="comments">accidentally replays former words .</a>
+  </u>
+  <u who="CHI" uID="u26">
+    <w formType="neologism">brasterer<mor type="mor"><mw><pos><c>neo</c></pos><stem>brasterer</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="229.518"
+      end="257.997"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u27">
+    <w formType="neologism">blonterstaping<mor type="mor"><mw><pos><c>neo</c></pos><stem>blonterstaping</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="257.997"
+      end="265.973"
+      unit="s"
+    />
+    <a type="comments">word final stress [+err] .</a>
+  </u>
+  <u who="INV" uID="u28">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="comments">child interrupts session .</a>
+  </u>
+  <u who="CHI" uID="u29">
+    <w formType="neologism">contramponist<mor type="mor"><mw><pos><c>neo</c></pos><stem>contramponist</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="265.973"
+      end="304.309"
+      unit="s"
+    />
+  </u>
+  <u who="INV" uID="u30">
+    <w>try<mor type="mor"><mw><pos><c>v</c></pos><stem>try</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w>
+    <w>to<mor type="mor"><mw><pos><c>inf</c></pos><stem>to</stem></mw><gra type="gra" index="2" head="3" relation="INF"/></mor></w>
+    <w>say<mor type="mor"><mw><pos><c>v</c></pos><stem>say</stem></mw><gra type="gra" index="3" head="1" relation="COMP"/></mor></w>
+    <w>them<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>them</stem></mw><gra type="gra" index="4" head="3" relation="OBJ"/></mor></w>
+    <w>clear<mor type="mor"><mw><pos><c>adv</c></pos><stem>clear</stem></mw><gra type="gra" index="5" head="3" relation="JCT"/></mor></w>
+    <w>but<mor type="mor"><mw><pos><c>conj</c></pos><stem>but</stem></mw><gra type="gra" index="6" head="9" relation="LINK"/></mor></w>
+    <w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="7" head="9" relation="SUBJ"/></mor></w>
+    <w>are<mor type="mor"><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw><gra type="gra" index="8" head="9" relation="AUX"/></mor></w>
+    <w>doing<mor type="mor"><mw><pos><c>part</c></pos><stem>do</stem><mk type="sfx">PRESP</mk></mw><gra type="gra" index="9" head="1" relation="CJCT"/></mor></w>
+    <w>great<mor type="mor"><mw><pos><c>adj</c></pos><stem>great</stem></mw><gra type="gra" index="10" head="9" relation="PRED"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="11" head="1" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u31">
+    <w formType="neologism">tafflest<mor type="mor"><mw><pos><c>neo</c></pos><stem>tafflest</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="304.309"
+      end="326.879"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u32">
+    <w formType="neologism">woogalamic<mor type="mor"><mw><pos><c>neo</c></pos><stem>woogalamic</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="326.879"
+      end="334.100"
+      unit="s"
+    />
+    <a type="comments">[+err] .</a>
+  </u>
+  <u who="CHI" uID="u33">
+    <w formType="neologism">bannifer<mor type="mor"><mw><pos><c>neo</c></pos><stem>bannifer</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="334.100"
+      end="340.091"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u34">
+    <w formType="neologism">fenneriser<mor type="mor"><mw><pos><c>neo</c></pos><stem>fenneriser</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="340.091"
+      end="346.546"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u35">
+    <w formType="neologism">stopograttic<mor type="mor"><mw><pos><c>neo</c></pos><stem>stopograttic</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="346.546"
+      end="354.441"
+      unit="s"
+    />
+    <a type="comments">word final stress .</a>
+  </u>
+  <u who="CHI" uID="u36">
+    <w formType="neologism">skiticult<mor type="mor"><mw><pos><c>neo</c></pos><stem>skiticult</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="354.441"
+      end="360.316"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u37">
+    <w formType="neologism">empliforvent<mor type="mor"><mw><pos><c>neo</c></pos><stem>empliforvent</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="360.316"
+      end="369.139"
+      unit="s"
+    />
+    <a type="comments">[+err] .</a>
+  </u>
+  <u who="CHI" uID="u38">
+    <w formType="neologism">penneriful<mor type="mor"><mw><pos><c>neo</c></pos><stem>penneriful</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="369.139"
+      end="374.271"
+      unit="s"
+    />
+    <a type="comments">[+stut] .</a>
+  </u>
+  <u who="CHI" uID="u39">
+    <w formType="neologism">woogalamic<mor type="mor"><mw><pos><c>neo</c></pos><stem>woogalamic</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="374.271"
+      end="383.106"
+      unit="s"
+    />
+    <a type="comments">word final stress [+err] .</a>
+  </u>
+  <u who="CHI" uID="u40">
+    <w formType="neologism">perplisteronk<mor type="mor"><mw><pos><c>neo</c></pos><stem>perplisteronk</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="383.106"
+      end="390.478"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u41">
+    <w formType="neologism">contramponist<mor type="mor"><mw><pos><c>neo</c></pos><stem>contramponist</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="390.478"
+      end="395.053"
+      unit="s"
+    />
+    <a type="comments">word final stress [+err] .</a>
+  </u>
+  <u who="CHI" uID="u42">
+    <w formType="neologism">underbrantuand<mor type="mor"><mw><pos><c>neo</c></pos><stem>underbrantuand</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="395.053"
+      end="403.911"
+      unit="s"
+    />
+    <a type="comments">[+err] .</a>
+  </u>
+  <u who="CHI" uID="u43">
+    <w formType="neologism">commeecitate<mor type="mor"><mw><pos><c>neo</c></pos><stem>commeecitate</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="403.911"
+      end="410.912"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u44">
+    <w formType="neologism">trumpetine<mor type="mor"><mw><pos><c>neo</c></pos><stem>trumpetine</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="410.912"
+      end="417.414"
+      unit="s"
+    />
+    <a type="comments">[+err] .</a>
+  </u>
+  <u who="INV" uID="u45">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="comments">asks child to repeat .</a>
+  </u>
+  <u who="CHI" uID="u46">
+    <w formType="neologism">fenneriser<mor type="mor"><mw><pos><c>neo</c></pos><stem>fenneriser</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="417.414"
+      end="441.957"
+      unit="s"
+    />
+    <a type="comments">word final stress [+err] .</a>
+  </u>
+  <u who="CHI" uID="u47">
+    <w formType="neologism">confrantually<mor type="mor"><mw><pos><c>neo</c></pos><stem>confrantually</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="441.957"
+      end="450.003"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u48">
+    <w formType="neologism">blonterstaping<mor type="mor"><mw><pos><c>neo</c></pos><stem>blonterstaping</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="450.003"
+      end="456.504"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u49">
+    <w formType="neologism">hampent<mor type="mor"><mw><pos><c>neo</c></pos><stem>hampent</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="456.504"
+      end="462.832"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u50">
+    <w formType="neologism">prindle<mor type="mor"><mw><pos><c>neo</c></pos><stem>prindle</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="462.832"
+      end="470.785"
+      unit="s"
+    />
+    <a type="comments">[+err] [+stut]</a>
+  </u>
+  <u who="CHI" uID="u51">
+    <w formType="neologism">loddenapish<mor type="mor"><mw><pos><c>neo</c></pos><stem>loddenapish</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="470.785"
+      end="477.762"
+      unit="s"
+    />
+    <a type="comments">word final stress [+err] .</a>
+  </u>
+  <u who="CHI" uID="u52">
+    <w formType="neologism">sladding<mor type="mor"><mw><pos><c>neo</c></pos><stem>sladding</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="477.762"
+      end="483.985"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u53">
+    <w formType="neologism">frescovent<mor type="mor"><mw><pos><c>neo</c></pos><stem>frescovent</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="483.985"
+      end="492.193"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u54">
+    <w formType="neologism">sepretennial<mor type="mor"><mw><pos><c>neo</c></pos><stem>sepretennial</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="492.193"
+      end="499.461"
+      unit="s"
+    />
+  </u>
+  <u who="INV" uID="u55">
+    <e><action/></e>
+    <t type="p"></t>
+
+    <a type="comments">child needs tape repeated .</a>
+  </u>
+  <u who="CHI" uID="u56">
+    <w formType="neologism">doppelate<mor type="mor"><mw><pos><c>neo</c></pos><stem>doppelate</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="499.461"
+      end="549.814"
+      unit="s"
+    />
+  </u>
+  <u who="INV" uID="u57">
+    <w>good<mor type="mor"><mw><pos><c>adj</c></pos><stem>good</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <w>we<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>we</stem></mw><gra type="gra" index="2" head="5" relation="SUBJ"/></mor></w>
+    <w>are<mor type="mor"><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw><gra type="gra" index="3" head="5" relation="AUX"/></mor></w>
+    <w>almost<mor type="mor"><mw><pos><c>adv</c></pos><stem>almost</stem></mw><gra type="gra" index="4" head="5" relation="JCT"/></mor></w>
+    <w>done<mor type="mor"><mw><pos><c>part</c></pos><stem>do</stem><mk type="sfxf">PASTP</mk></mw><gra type="gra" index="5" head="1" relation="CMOD"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="1" relation="PUNCT"/></mor></t>
+
+  </u>
+  <u who="CHI" uID="u58">
+    <w formType="neologism">glistering<mor type="mor"><mw><pos><c>neo</c></pos><stem>glistering</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="549.814"
+      end="555.282"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u59">
+    <w formType="neologism">stopograttic<mor type="mor"><mw><pos><c>neo</c></pos><stem>stopograttic</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="555.282"
+      end="563.966"
+      unit="s"
+    />
+  </u>
+  <u who="CHI" uID="u60">
+    <w formType="neologism">versatrationist<mor type="mor"><mw><pos><c>neo</c></pos><stem>versatrationist</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="563.966"
+      end="572.836"
+      unit="s"
+    />
+    <a type="comments">[+err] .</a>
+  </u>
+  <u who="CHI" uID="u61">
+    <w formType="neologism">empliforvent<mor type="mor"><mw><pos><c>neo</c></pos><stem>empliforvent</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="572.836"
+      end="578.966"
+      unit="s"
+    />
+    <a type="comments">word final stress .</a>
+  </u>
+  <u who="CHI" uID="u62">
+    <w formType="neologism">reutterpation<mor type="mor"><mw><pos><c>neo</c></pos><stem>reutterpation</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media
+      start="578.966"
+      end="586.478"
+      unit="s"
+    />
+  </u>
+</CHAT>
