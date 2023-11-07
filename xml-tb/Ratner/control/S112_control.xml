@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<CHAT xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.talkbank.org/ns/talkbank"
+      xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd"
+      Media="S112_control" Mediatypes="video notrans"
+            DesignType="long"
+            ActivityType="toyplay"
+            GroupType="TD"
+      PID="11312/a-00015819-1"
+      Version="2.20.0"
+      Lang="eng"
+      Options="dummy"
+      Corpus="Ratner"
+      >
+  <Participants>
+    <participant
+      id="PAR"
+      role="Participant"
+      language="eng"
+
+    />
+    <participant
+      id="INV"
+      role="Investigator"
+      language="eng"
+
+    />
+  </Participants>
+  <comment type="Generic">This is a dummy file to permit playback from the TalkBank browser. Please use the slider at the left to control media playback.</comment>
+  <comment type="Types">long, toyplay, TD</comment>
+</CHAT>
