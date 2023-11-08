@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="UMD-CMU" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <mediaLocation>205EE_frog_y2</mediaLocation>
+  <participants>
+    <participant id="CHI">
+      <role>Child</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <languages>eng</languages>
+    </participant>
+    <participant id="INV">
+      <role>Investigator</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
+  </userTiers>
+  <transcript>
+    <comment type="Transcriber">
+      <tierData><tw>Kimberly_Harrity</tw></tierData>
+    </comment>
+    <comment type="Types">
+      <tierData><tw>cross,</tw><tw>narrative,</tw><tw>CWS</tw></tierData>
+    </comment>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w>the</w><w>frog</w><k type="retracing with correction"/></g>
+          <w>the</w>
+          <w>boy</w>
+          <w>had</w>
+          <w>a</w>
+          <w>frog</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.000" end="4.473" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>have</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>mhm</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>he</w>
+          <w>went</w>
+          <w>to</w>
+          <w>sleep</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="4.473" end="7.229" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>sleep</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="LINK"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="INF"/>
+          <gra index="5" head="3" relation="COMP"/>
+          <gra index="6" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>mhm</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>when</w>
+          <w>he</w>
+          <w>woke</w>
+          <w>up</w>
+          <w>the</w>
+          <w>frog</w>
+          <w>was</w>
+          <w>gone</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="7.229" end="11.209" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>conj</c></pos><stem>when</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>wake</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>up</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfxf">PASTP</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="9" relation="LINK"/>
+          <gra index="2" head="4" relation="LINK"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="9" relation="CJCT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="9" relation="SUBJ"/>
+          <gra index="8" head="9" relation="AUX"/>
+          <gra index="9" head="0" relation="ROOT"/>
+          <gra index="10" head="9" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>yeah</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="11.209" end="11.844" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>yeah</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>he</w>
+          <w>look</w>
+          <w>everywhere</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="11.844" end="13.914" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>look</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>everywhere</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="JCT"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>he</w>
+          <w>wasn't</w>
+          <w>there</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="13.914" end="16.466" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>n</c></pos><stem>there</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="NEG"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>he</w>
+          <w>went</w>
+          <w>out_of</w>
+          <w>the</w>
+          <w>house</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="16.466" end="18.470" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>out_of</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>house</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="JCT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="POBJ"/>
+          <gra index="6" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>he</w>
+          <w>checked</w>
+          <t type="trail off"/>
+        </u>
+      </orthography>
+      <segment start="18.470" end="20.151" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>check</stem><mk type="sfx">PAST</mk></mw></mor>
+          <mor><mt type="trail off"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="LINK"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>dog</w>
+          <w>went</w>
+          <w>up</w>
+          <w>and</w>
+          <w>he</w>
+          <w>broke</w>
+          <w>the</w>
+          <w>jar</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="20.151" end="23.741" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>dog</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>up</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>break</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>jar</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="JCT"/>
+          <gra index="4" head="6" relation="LINK"/>
+          <gra index="5" head="6" relation="SUBJ"/>
+          <gra index="6" head="2" relation="CJCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="OBJ"/>
+          <gra index="9" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>mhm</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="23.741" end="24.641" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w><ca-delimiter type="begin" label="repeated-segment"/>h<ca-delimiter type="end" label="repeated-segment"/>he</w>
+          <w>said</w>
+          <w>where</w>
+          <w>are</w>
+          <w>you</w>
+          <g><w>dog</w><k type="retracing with correction"/></g>
+          <w>frog</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="24.641" end="30.121" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>say</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="2" relation="COMP"/>
+          <gra index="5" head="6" relation="MOD"/>
+          <gra index="6" head="4" relation="PRED"/>
+          <gra index="7" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w>and</w><k type="retracing with correction"/></g>
+          <w>and</w>
+          <w>then</w>
+          <w>knock</w>
+          <w>on</w>
+          <w>the</w>
+          <w>beehive</w>
+          <w>hard</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="30.121" end="34.094" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>knock</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>beehive</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>hard</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="LINK"/>
+          <gra index="2" head="3" relation="JCT"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="JCT"/>
+          <gra index="5" head="6" relation="DET"/>
+          <gra index="6" head="4" relation="POBJ"/>
+          <gra index="7" head="3" relation="JCT"/>
+          <gra index="8" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w>and</w><w>then</w><w>the</w><k type="retracing"/></g>
+          <g><w>and</w><w>then</w><w>the</w><w>bee</w><w untranscribed="unintelligible">xxx</w><k type="retracing with correction"/></g>
+          <w>and</w>
+          <w>the</w>
+          <w>bee</w>
+          <w>went</w>
+          <w>after</w>
+          <w>the</w>
+          <w>dog</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="34.094" end="42.875" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>bee</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>after</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>dog</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <w>he</w>
+          <w>chased</w>
+          <w>the</w>
+          <w>dog</w>
+          <g><w>and</w><w type="fragment">bo</w><k type="retracing with correction"/></g>
+          <w>and</w>
+          <w>the</w>
+          <w>boy</w>
+          <w>fell</w>
+          <w>down</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="42.875" end="47.058" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>chase</stem><mk type="sfx">PAST</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>dog</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>fall</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>down</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="6" relation="DET"/>
+          <gra index="6" head="4" relation="OBJ"/>
+          <gra index="7" head="10" relation="LINK"/>
+          <gra index="8" head="9" relation="DET"/>
+          <gra index="9" head="10" relation="SUBJ"/>
+          <gra index="10" head="6" relation="CMOD"/>
+          <gra index="11" head="10" relation="JCT"/>
+          <gra index="12" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>the</w>
+          <w>boy</w>
+          <w>got</w>
+          <w>on</w>
+          <g><w>the</w><k type="retracing"/></g>
+          <g><w>the</w><k type="retracing"/></g>
+          <w>the</w>
+          <w>boy</w>
+          <w>hold</w>
+          <w>on</w>
+          <w>to</w>
+          <w>the</w>
+          <w>stick</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="47.058" end="56.515" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>get</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>hold</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>stick</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="JCT"/>
+          <gra index="5" head="7" relation="DET"/>
+          <gra index="6" head="7" relation="MOD"/>
+          <gra index="7" head="4" relation="POBJ"/>
+          <gra index="8" head="3" relation="JCT"/>
+          <gra index="9" head="3" relation="JCT"/>
+          <gra index="10" head="11" relation="DET"/>
+          <gra index="11" head="9" relation="POBJ"/>
+          <gra index="12" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>the</w>
+          <w>stick</w>
+          <w>is</w>
+          <w>in</w>
+          <w>the</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="56.515" end="60.335" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>stick</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="JCT"/>
+          <gra index="5" head="4" relation="POBJ"/>
+          <gra index="6" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>he</w>
+          <w>carried</w>
+          <w>him</w>
+          <w>on</w>
+          <w>his</w>
+          <w>neck</w>
+          <g><w>and</w><w>they</w><w>fell</w><w>in</w><k type="retracing"/></g>
+          <w>and</w>
+          <w>they</w>
+          <w>fell</w>
+          <w>in</w>
+          <w>a</w>
+          <w>puddle</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="60.335" end="66.603" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>carry</stem><mk type="sfx">PAST</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>obj</subc></pos><stem>him</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>neck</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>they</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>fall</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>puddle</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="LINK"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="OBJ"/>
+          <gra index="5" head="3" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="10" relation="LINK"/>
+          <gra index="9" head="10" relation="SUBJ"/>
+          <gra index="10" head="3" relation="CJCT"/>
+          <gra index="11" head="10" relation="JCT"/>
+          <gra index="12" head="13" relation="DET"/>
+          <gra index="13" head="11" relation="POBJ"/>
+          <gra index="14" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w>and</w><k type="retracing"/></g>
+          <w>and</w>
+          <w>he</w>
+          <w>said</w>
+          <w>to</w>
+          <w>be</w>
+          <w>quiet</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="66.603" end="70.590" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>say</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>quiet</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="LINK"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="INF"/>
+          <gra index="5" head="3" relation="COMP"/>
+          <gra index="6" head="5" relation="PRED"/>
+          <gra index="7" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <w>he</w>
+          <w>jumped</w>
+          <w>over</w>
+          <w>the</w>
+          <w>fence</w>
+          <w>and</w>
+          <w>there</w>
+          <w>a</w>
+          <w>family</w>
+          <w type="omission">of</w>
+          <w>frog<replacement><w>frogs</w></replacement></w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="70.590" end="73.141" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>jump</stem><mk type="sfx">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>over</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>fence</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>there</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>family</stem></mw></mor>
+          <mor><mw><pos><c>0prep</c></pos><stem>of</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="4" relation="CONJ"/>
+          <gra index="9" head="8" relation="COORD"/>
+          <gra index="10" head="11" relation="DET"/>
+          <gra index="11" head="9" relation="POBJ"/>
+          <gra index="12" head="11" relation="NJCT"/>
+          <gra index="13" head="12" relation="POBJ"/>
+          <gra index="14" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w>the</w><w>pet</w><k type="retracing with correction"/></g>
+          <w type="filler">um</w>
+          <w>the</w>
+          <w>little</w>
+          <w>frog</w>
+          <w>wants</w>
+          <w>to</w>
+          <w>be</w>
+          <w>the</w>
+          <w>little</w>
+          <w>boy's</w>
+          <w>pet</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="75.141" end="82.777" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>want</stem><mk type="sfx">3S</mk></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>little</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>boy</stem><mk type="sfxf">dn</mk><mk type="sfx">POSS</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>pet</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="DET"/>
+          <gra index="2" head="3" relation="MOD"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="6" relation="INF"/>
+          <gra index="6" head="4" relation="COMP"/>
+          <gra index="7" head="10" relation="DET"/>
+          <gra index="8" head="10" relation="MOD"/>
+          <gra index="9" head="10" relation="MOD"/>
+          <gra index="10" head="6" relation="PRED"/>
+          <gra index="11" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>the</w>
+          <w>end</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>end</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>great</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adj</c></pos><stem>great</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>that</w>
+          <w>was</w>
+          <w>such</w>
+          <w>an</w>
+          <w>interesting</w>
+          <w>story</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="82.777" end="87.824" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw></mor>
+          <mor><mw><pos><c>qn</c></pos><stem>such</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>interesting</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>story</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="6" relation="QUANT"/>
+          <gra index="4" head="6" relation="DET"/>
+          <gra index="5" head="6" relation="MOD"/>
+          <gra index="6" head="2" relation="PRED"/>
+          <gra index="7" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>thank</w>
+          <w>you</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="87.824" end="89.430" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>thank</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="OBJ"/>
+          <gra index="3" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>great</w>
+          <w>job</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adj</c></pos><stem>great</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>job</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="MOD"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>alright</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="89.430" end="91.589" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>alright</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <g><w>can</w><w>I</w><w>have</w><w>the</w><k type="retracing with correction"/></g>
+          <w>did</w>
+          <w>you</w>
+          <w>like</w>
+          <w>the</w>
+          <w>story</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="91.589" end="93.416" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>like</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>story</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <w>it</w>
+          <w>was</w>
+          <w>an</w>
+          <w>interesting</w>
+          <w>story</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="93.416" end="95.069" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>yeah</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>interesting</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>story</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="COM"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="6" relation="DET"/>
+          <gra index="5" head="6" relation="MOD"/>
+          <gra index="6" head="3" relation="PRED"/>
+          <gra index="7" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>now</w>
+          <w>I</w>
+          <w>know</w>
+          <w>it</w>
+          <w>much</w>
+          <w>better</w>
+          <w>because_of</w>
+          <w>you</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="95.069" end="97.406" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>now</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>know</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>much</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>good</stem><mk type="sfxf">CP</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>because_of</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="OBJ"/>
+          <gra index="6" head="4" relation="JCT"/>
+          <gra index="7" head="4" relation="JCT"/>
+          <gra index="8" head="4" relation="JCT"/>
+          <gra index="9" head="8" relation="POBJ"/>
+          <gra index="10" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV">
+      <orthography>
+        <u>
+          <w>so</w>
+          <w>thank</w>
+          <w>you</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="97.406" end="98.405" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c></pos><stem>so</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>thank</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="JCT"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="OBJ"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+  </transcript>
+</session>
