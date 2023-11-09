@@ -1,0 +1,4629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="EllisWeismer" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <mediaLocation>12076</mediaLocation>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <group>LT</group>
+      <sex>male</sex>
+      <age>P2Y6M</age>
+      <languages>eng</languages>
+      <other>pc</other>
+    </participant>
+    <participant id="FAT">
+      <role>Father</role>
+      <sex>male</sex>
+      <languages>eng</languages>
+    </participant>
+    <participant id="MOT">
+      <role>Mother</role>
+      <sex>female</sex>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Word intervals" type="chat" excludeFromAlignment="false"/>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
+    <td tierName="Actions" type="default" excludeFromAlignment="true"/>
+    <td tierName="Comments" type="default" excludeFromAlignment="true"/>
+  </userTiers>
+  <transcript>
+    <comment type="Transcriber">
+      <tierData><tw>Jaira_Billups</tw></tierData>
+    </comment>
+    <comment type="Types">
+      <tierData><tw>long,</tw><tw>toyplay,</tw><tw>LT</tw></tierData>
+    </comment>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>is</w>
+          <w>that</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="0.050" end="1.060" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="0.050" end="0.710" unit="s"/>
+          <w>is</w>
+          <internal-media start="0.710" end="0.840" unit="s"/>
+          <w>that</w>
+          <internal-media start="0.840" end="1.060" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PRED"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w type="fragment">ho</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="1.265" end="3.335" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w type="fragment">ho</w>
+          <internal-media start="1.265" end="3.335" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>horse</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="3.506" end="4.326" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>horse</w>
+          <internal-media start="3.506" end="4.326" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>horse</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="4.911" end="5.711" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>horse</w>
+          <internal-media start="4.911" end="5.711" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="7.188" end="7.878" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>no</w>
+          <internal-media start="7.188" end="7.878" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>horse</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="9.730" end="10.880" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>horse</w>
+          <internal-media start="9.730" end="10.880" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="11.641" end="12.561" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="11.641" end="12.561" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>vocalizations</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="15.611" end="16.761" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="15.611" end="16.761" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>makes</tw><tw>chicken</tw><tw>noises</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="18.293" end="19.623" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="18.293" end="19.623" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>vocalizations</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>you</w>
+          <w>threw</w>
+          <w>the</w>
+          <w>chicken</w>
+          <w>out</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="21.528" end="23.398" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>you</w>
+          <internal-media start="21.528" end="22.218" unit="s"/>
+          <w>threw</w>
+          <internal-media start="22.248" end="22.568" unit="s"/>
+          <w>the</w>
+          <internal-media start="22.568" end="22.688" unit="s"/>
+          <w>chicken</w>
+          <internal-media start="22.688" end="23.028" unit="s"/>
+          <w>out</w>
+          <internal-media start="23.028" end="23.398" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>throw</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>chicken</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>out</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="OBJ"/>
+          <gra index="5" head="2" relation="JCT"/>
+          <gra index="6" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>cock_a_doodle_doo</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="25.262" end="25.592" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cock_a_doodle_doo</w>
+          <internal-media start="25.262" end="25.592" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>cock_a_doodle_doo</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>Luke</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="30.117" end="30.747" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>Luke</w>
+          <internal-media start="30.117" end="30.747" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Luke</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="31.119" end="31.879" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="31.119" end="31.879" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>makes</tw><tw>pig</tw><tw>noises</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>what<p type="pause"/>'d</w>
+          <w>you</w>
+          <w>do</w>
+          <w>with</w>
+          <w>the</w>
+          <w>horse</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="34.992" end="44.662" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what<p type="pause"/>'d</w>
+          <internal-media start="34.992" end="35.322" unit="s"/>
+          <w>you</w>
+          <internal-media start="35.402" end="36.152" unit="s"/>
+          <w>do</w>
+          <internal-media start="36.402" end="36.712" unit="s"/>
+          <w>with</w>
+          <internal-media start="40.022" end="40.172" unit="s"/>
+          <w>the</w>
+          <internal-media start="43.862" end="44.292" unit="s"/>
+          <w>horse</w>
+          <internal-media start="44.292" end="44.662" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw><mor-post><mw><pos><c>mod</c></pos><stem>genmod</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>with</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="OBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>horse</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="45.490" end="46.780" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>horse</w>
+          <internal-media start="45.490" end="46.780" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="47.386" end="47.616" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>yeah</w>
+          <internal-media start="47.386" end="47.616" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>yeah</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>what<p type="pause"/>'d</w>
+          <w>you</w>
+          <w>do</w>
+          <w>with</w>
+          <w>the</w>
+          <w>horsie</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="47.949" end="48.489" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what<p type="pause"/>'d</w>
+          <internal-media start="47.949" end="48.079" unit="s"/>
+          <w>you</w>
+          <internal-media start="48.079" end="48.119" unit="s"/>
+          <w>do</w>
+          <internal-media start="48.119" end="48.179" unit="s"/>
+          <w>with</w>
+          <internal-media start="48.179" end="48.269" unit="s"/>
+          <w>the</w>
+          <internal-media start="48.269" end="48.279" unit="s"/>
+          <w>horsie</w>
+          <internal-media start="48.279" end="48.489" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw><mor-post><mw><pos><c>mod</c></pos><stem>genmod</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>with</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem><mk type="sfx">DIM</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="OBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>pumpkins</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="50.876" end="51.306" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>pumpkins</w>
+          <internal-media start="50.876" end="51.306" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>pumpkin</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>here's</w>
+          <w>some</w>
+          <w>pumpkins</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="51.351" end="52.691" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>here's</w>
+          <internal-media start="51.351" end="51.471" unit="s"/>
+          <w>some</w>
+          <internal-media start="52.021" end="52.241" unit="s"/>
+          <w>pumpkins</w>
+          <internal-media start="52.241" end="52.691" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>exist</subc></pos><stem>here</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>qn</c></pos><stem>some</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>pumpkin</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="QUANT"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>pumpkins</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="53.729" end="54.289" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>pumpkins</w>
+          <internal-media start="53.729" end="54.289" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>pumpkin</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>pumpkins</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="54.428" end="55.468" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="54.428" end="54.478" unit="s"/>
+          <w>pumpkins</w>
+          <internal-media start="55.298" end="55.468" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>pumpkin</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>sheep</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="58.251" end="58.671" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>sheep</w>
+          <internal-media start="58.251" end="58.671" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>sheep</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>yeah</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="59.453" end="59.533" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>yeah</w>
+          <internal-media start="59.453" end="59.533" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>yeah</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="67.781" end="68.381" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="67.781" end="68.381" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="71.545" end="72.235" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="71.545" end="72.235" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>the</w>
+          <w>cow</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="72.400" end="73.210" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="72.400" end="73.160" unit="s"/>
+          <w>the</w>
+          <internal-media start="73.160" end="73.170" unit="s"/>
+          <w>cow</w>
+          <internal-media start="73.170" end="73.210" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="75.139" end="75.199" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cow</w>
+          <internal-media start="75.139" end="75.199" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>the</w>
+          <w>cow</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="75.906" end="77.226" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="75.906" end="76.576" unit="s"/>
+          <w>the</w>
+          <internal-media start="76.606" end="76.716" unit="s"/>
+          <w>cow</w>
+          <internal-media start="76.846" end="77.226" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>that's</w>
+          <w>the</w>
+          <w>fence</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="79.436" end="80.096" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>that's</w>
+          <internal-media start="79.436" end="79.646" unit="s"/>
+          <w>the</w>
+          <internal-media start="79.696" end="79.816" unit="s"/>
+          <w>fence</w>
+          <internal-media start="79.816" end="80.096" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>fence</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <e><happening>sound:horse</happening></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><happening>sound:horse</happening></e>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="90.052" end="90.252" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="90.052" end="90.252" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>vocalizations</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="91.905" end="92.995" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="91.905" end="92.995" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>makes</tw><tw>horse</tw><tw>sounds</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="98.508" end="99.408" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="98.508" end="99.408" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>makes</tw><tw>growling</tw><tw>sound</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>dad</w>
+          <w>doing</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="100.182" end="100.792" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what's</w>
+          <internal-media start="100.182" end="100.482" unit="s"/>
+          <w>dad</w>
+          <internal-media start="100.622" end="100.712" unit="s"/>
+          <w>doing</w>
+          <internal-media start="100.712" end="100.792" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw><mor-post><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>n</c></pos><stem>dad</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>do</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="SUBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="MOD"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="126.381" end="126.611" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cow</w>
+          <internal-media start="126.381" end="126.611" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="128.441" end="128.481" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cow</w>
+          <internal-media start="128.441" end="128.481" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>horse</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="131.236" end="131.906" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>horse</w>
+          <internal-media start="131.236" end="131.906" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cows</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="136.235" end="136.325" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cows</w>
+          <internal-media start="136.235" end="136.325" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cows</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="139.640" end="139.790" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cows</w>
+          <internal-media start="139.640" end="139.790" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cows</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="141.242" end="141.432" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cows</w>
+          <internal-media start="141.242" end="141.432" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cows</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="142.042" end="142.132" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cows</w>
+          <internal-media start="142.042" end="142.132" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cows</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="143.624" end="143.724" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cows</w>
+          <internal-media start="143.624" end="143.724" unit="s"/>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cows</w>
+          <w>out</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="146.103" end="147.253" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cows</w>
+          <internal-media start="146.103" end="146.353" unit="s"/>
+          <w>out</w>
+          <internal-media start="147.013" end="147.253" unit="s"/>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>out</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="NJCT"/>
+          <gra index="3" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>out</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="152.053" end="152.543" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>out</w>
+          <internal-media start="152.053" end="152.543" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c></pos><stem>out</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>moo</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="160.362" end="160.872" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>moo</w>
+          <internal-media start="160.362" end="160.872" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>moo</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w type="omission">what</w>
+          <w type="omission">is</w>
+          <w>that</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="167.233" end="167.773" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w type="omission">what</w>
+          <internal-media start="167.233" end="167.493" unit="s"/>
+          <w type="omission">is</w>
+          <internal-media start="167.493" end="167.633" unit="s"/>
+          <w>that</w>
+          <internal-media start="167.633" end="167.773" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>0det</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>0cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PRED"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w type="omission">what</w>
+          <w type="omission">is</w>
+          <w>that</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="170.160" end="170.900" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w type="omission">what</w>
+          <internal-media start="170.160" end="170.690" unit="s"/>
+          <w type="omission">is</w>
+          <internal-media start="170.690" end="170.780" unit="s"/>
+          <w>that</w>
+          <internal-media start="170.780" end="170.900" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>0det</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>0cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PRED"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>that's</w>
+          <w>hay</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="171.918" end="172.678" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>that's</w>
+          <internal-media start="171.918" end="172.148" unit="s"/>
+          <w>hay</w>
+          <internal-media start="172.218" end="172.678" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>n</c></pos><stem>hay</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PRED"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>that's</w>
+          <w>the</w>
+          <w>hay</w>
+          <w>that</w>
+          <w>you</w>
+          <w>feed</w>
+          <w>the</w>
+          <w>horsies</w>
+          <g><w>and</w><w>the</w><k type="retracing"/></g>
+          <w>and</w>
+          <w>the</w>
+          <w>cows</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="174.595" end="178.215" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>that's</w>
+          <internal-media start="174.595" end="174.705" unit="s"/>
+          <w>the</w>
+          <internal-media start="174.775" end="174.785" unit="s"/>
+          <w>hay</w>
+          <internal-media start="174.785" end="175.055" unit="s"/>
+          <w>that</w>
+          <internal-media start="175.055" end="175.205" unit="s"/>
+          <w>you</w>
+          <internal-media start="175.205" end="175.315" unit="s"/>
+          <w>feed</w>
+          <internal-media start="175.405" end="175.585" unit="s"/>
+          <w>the</w>
+          <internal-media start="175.585" end="175.605" unit="s"/>
+          <w>horsies</w>
+          <internal-media start="175.605" end="175.745" unit="s"/>
+          <g><w>and</w><internal-media start="175.775" end="175.905" unit="s"/><w>the</w><internal-media start="175.905" end="176.205" unit="s"/><k type="retracing"/></g>
+          <w>and</w>
+          <w>the</w>
+          <w>cows</w>
+          <t type="p"/>
+          <media start="176.235" end="178.215" unit="s"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>hay</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>rel</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>feed</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem><mk type="sfx">DIM</mk><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="7" relation="LINK"/>
+          <gra index="6" head="7" relation="SUBJ"/>
+          <gra index="7" head="4" relation="CMOD"/>
+          <gra index="8" head="9" relation="DET"/>
+          <gra index="9" head="7" relation="OBJ"/>
+          <gra index="10" head="9" relation="CONJ"/>
+          <gra index="11" head="12" relation="DET"/>
+          <gra index="12" head="10" relation="COORD"/>
+          <gra index="13" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>are</w>
+          <w>you</w>
+          <w>gonna</w>
+          <w>feed</w>
+          <w>your</w>
+          <w>horse</w>
+          <w>and</w>
+          <w>cow</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="178.260" end="180.540" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>are</w>
+          <internal-media start="178.260" end="178.290" unit="s"/>
+          <w>you</w>
+          <internal-media start="178.990" end="179.170" unit="s"/>
+          <w>gonna</w>
+          <internal-media start="179.170" end="179.270" unit="s"/>
+          <w>feed</w>
+          <internal-media start="179.270" end="179.500" unit="s"/>
+          <w>your</w>
+          <internal-media start="179.500" end="179.570" unit="s"/>
+          <w>horse</w>
+          <internal-media start="179.570" end="179.820" unit="s"/>
+          <w>and</w>
+          <internal-media start="179.930" end="180.130" unit="s"/>
+          <w>cow</w>
+          <internal-media start="180.160" end="180.540" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfxf">PRESP</mk></mw><mor-post><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>feed</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>your</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>horse</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PRED"/>
+          <gra index="3" head="2" relation="XMOD"/>
+          <gra index="4" head="5" relation="INF"/>
+          <gra index="5" head="3" relation="COMP"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="OBJ"/>
+          <gra index="8" head="7" relation="CONJ"/>
+          <gra index="9" head="8" relation="COORD"/>
+          <gra index="10" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="180.954" end="182.954" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="180.954" end="182.954" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>vocalization</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w untranscribed="unintelligible">xxx</w><ga type="comments">repeats same unintelligible word six more times</ga></g>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <g><w untranscribed="unintelligible">xxx</w><ga type="comments">repeats same unintelligible word six more times</ga></g>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="198.269" end="201.789" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="198.269" end="201.789" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>makes</tw><tw>noises</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>I</w>
+          <w>thought</w>
+          <w>you</w>
+          <w>were</w>
+          <w>playing</w>
+          <w>with</w>
+          <g><w>the</w><k type="retracing"/></g>
+          <w>the</w>
+          <w>farm</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="210.506" end="219.836" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>I</w>
+          <internal-media start="210.506" end="210.516" unit="s"/>
+          <w>thought</w>
+          <internal-media start="210.516" end="212.126" unit="s"/>
+          <w>you</w>
+          <internal-media start="212.916" end="213.806" unit="s"/>
+          <w>were</w>
+          <internal-media start="215.296" end="216.606" unit="s"/>
+          <w>playing</w>
+          <internal-media start="217.886" end="218.246" unit="s"/>
+          <w>with</w>
+          <internal-media start="218.306" end="218.866" unit="s"/>
+          <g><w>the</w><k type="retracing"/></g>
+          <internal-media start="219.096" end="219.106" unit="s"/>
+          <w>the</w>
+          <internal-media start="219.106" end="219.236" unit="s"/>
+          <w>farm</w>
+          <internal-media start="219.366" end="219.836" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>think</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>play</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>with</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>farm</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="5" relation="SUBJ"/>
+          <gra index="4" head="5" relation="AUX"/>
+          <gra index="5" head="2" relation="COMP"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>now</w>
+          <w>daddy's</w>
+          <g><w>got<replacement><w>has</w></replacement></w><error></error></g>
+          <w>you</w>
+          <w>playing</w>
+          <w>with</w>
+          <pause symbolic-length="simple" length="0.300"/>
+          <w>Potato_Head</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="221.813" end="226.143" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>now</w>
+          <internal-media start="221.813" end="221.963" unit="s"/>
+          <w>daddy's</w>
+          <internal-media start="221.963" end="222.313" unit="s"/>
+          <g><w>got<replacement><w>has</w></replacement></w><error></error></g>
+          <internal-media start="222.313" end="222.383" unit="s"/>
+          <w>you</w>
+          <internal-media start="222.383" end="222.443" unit="s"/>
+          <w>playing</w>
+          <internal-media start="222.443" end="222.833" unit="s"/>
+          <w>with</w>
+          <internal-media start="222.833" end="223.053" unit="s"/>
+          <pause symbolic-length="simple" length="0.300"/>
+          <w>Potato_Head</w>
+          <internal-media start="225.673" end="226.143" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>now</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>daddy</stem></mw><mor-post><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>have</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>play</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>with</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Potato_Head</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="6" relation="JCT"/>
+          <gra index="2" head="6" relation="SUBJ"/>
+          <gra index="3" head="6" relation="AUX"/>
+          <gra index="4" head="6" relation="AUX"/>
+          <gra index="5" head="6" relation="SUBJ"/>
+          <gra index="6" head="0" relation="ROOT"/>
+          <gra index="7" head="6" relation="JCT"/>
+          <gra index="8" head="7" relation="POBJ"/>
+          <gra index="9" head="6" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="227.087" end="227.827" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="227.087" end="227.827" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>vocalization</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shoe</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="246.367" end="246.477" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shoe</w>
+          <internal-media start="246.367" end="246.477" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>shoe</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shoe</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="246.526" end="246.606" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shoe</w>
+          <internal-media start="246.526" end="246.606" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>shoe</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Comments">
+        <tierData><tw>c</tw><tw>puts</tw><tw>on</tw><tw>Potato_Head</tw><tw>glasses</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>do</w>
+          <w>you</w>
+          <g><w>got<replacement><w>have</w></replacement></w><error></error></g>
+          <w>the</w>
+          <w>glasses</w>
+          <w>on</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="256.084" end="263.145" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>do</w>
+          <internal-media start="256.085" end="256.165" unit="s"/>
+          <w>you</w>
+          <internal-media start="258.475" end="258.585" unit="s"/>
+          <g><w>got<replacement><w>have</w></replacement></w><error></error></g>
+          <internal-media start="258.735" end="262.075" unit="s"/>
+          <w>the</w>
+          <internal-media start="262.495" end="262.595" unit="s"/>
+          <w>glasses</w>
+          <internal-media start="262.595" end="262.855" unit="s"/>
+          <w>on</w>
+          <internal-media start="262.935" end="263.145" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>have</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>glass</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>on</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="3" relation="JCT"/>
+          <gra index="7" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>hm<p type="drawl"/></w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="264.201" end="267.301" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>hm<p type="drawl"/></w>
+          <internal-media start="264.201" end="267.301" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>hm</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>are</w>
+          <w>those</w>
+          <w>glasses</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="276.643" end="277.633" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>are</w>
+          <internal-media start="276.643" end="276.673" unit="s"/>
+          <w>those</w>
+          <internal-media start="276.673" end="276.833" unit="s"/>
+          <w>glasses</w>
+          <internal-media start="277.383" end="277.633" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>dem</subc></pos><stem>those</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>glass</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="1" relation="PRED"/>
+          <gra index="4" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>is</w>
+          <w>that</w>
+          <w>Luke</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="294.348" end="294.918" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="294.348" end="294.438" unit="s"/>
+          <w>is</w>
+          <internal-media start="294.438" end="294.588" unit="s"/>
+          <w>that</w>
+          <internal-media start="294.588" end="294.768" unit="s"/>
+          <w>Luke</w>
+          <internal-media start="294.768" end="294.918" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>comp</c></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Luke</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PRED"/>
+          <gra index="4" head="3" relation="OM"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>is</w>
+          <w>that</w>
+          <w>his</w>
+          <w>ear</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="296.102" end="298.372" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>is</w>
+          <internal-media start="296.102" end="296.222" unit="s"/>
+          <w>that</w>
+          <internal-media start="296.982" end="297.092" unit="s"/>
+          <w>his</w>
+          <internal-media start="297.742" end="297.962" unit="s"/>
+          <w>ear</w>
+          <internal-media start="298.102" end="298.372" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>comp</c></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>ear</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PRED"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="OBJ"/>
+          <gra index="5" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><happening>vocalization</happening></e>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><happening>vocalization</happening></e>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>are</w>
+          <w>you</w>
+          <w>ripping</w>
+          <w>his</w>
+          <w>ears</w>
+          <w>off</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="302.632" end="309.862" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>are</w>
+          <internal-media start="302.632" end="303.002" unit="s"/>
+          <w>you</w>
+          <internal-media start="308.602" end="308.812" unit="s"/>
+          <w>ripping</w>
+          <internal-media start="308.812" end="309.142" unit="s"/>
+          <w>his</w>
+          <internal-media start="309.142" end="309.282" unit="s"/>
+          <w>ears</w>
+          <internal-media start="309.282" end="309.612" unit="s"/>
+          <w>off</w>
+          <internal-media start="309.612" end="309.862" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>rip</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>ear</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>off</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PRED"/>
+          <gra index="3" head="2" relation="XMOD"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="3" relation="JCT"/>
+          <gra index="7" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <g><w>he</w><k type="retracing with correction"/></g>
+          <w>this</w>
+          <w>came</w>
+          <w>off</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="326.327" end="342.167" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="326.327" end="326.357" unit="s"/>
+          <g><w>he</w><k type="retracing with correction"/></g>
+          <internal-media start="326.387" end="328.137" unit="s"/>
+          <w>this</w>
+          <internal-media start="331.547" end="332.417" unit="s"/>
+          <w>came</w>
+          <internal-media start="337.257" end="338.007" unit="s"/>
+          <w>off</w>
+          <internal-media start="341.827" end="342.167" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>come</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>off</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="COM"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="JCT"/>
+          <gra index="5" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="349.271" end="349.611" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="349.271" end="349.611" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w untranscribed="unintelligible">xxx</w><ga type="comments">blows raspberry</ga></g>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <g><w untranscribed="unintelligible">xxx</w><ga type="comments">blows raspberry</ga></g>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w type="omission">does</w>
+          <w>this</w>
+          <w>shut</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="359.388" end="368.528" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w type="omission">does</w>
+          <internal-media start="359.388" end="359.818" unit="s"/>
+          <w>this</w>
+          <internal-media start="367.148" end="367.428" unit="s"/>
+          <w>shut</w>
+          <internal-media start="367.858" end="368.528" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>0v</c></pos><stem>do</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>shut</stem><mk type="sfxf">PASTP</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="1" relation="COMP"/>
+          <gra index="4" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shut</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="370.220" end="371.370" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shut</w>
+          <internal-media start="370.220" end="371.370" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>shut</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="372.956" end="373.536" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>no</w>
+          <internal-media start="372.956" end="373.536" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>don't</w>
+          <w>touch</w>
+          <w>that</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="373.609" end="374.099" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>don't</w>
+          <internal-media start="373.609" end="373.759" unit="s"/>
+          <w>touch</w>
+          <internal-media start="373.759" end="373.889" unit="s"/>
+          <w>that</w>
+          <internal-media start="373.889" end="374.099" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>touch</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="1" relation="NEG"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="OBJ"/>
+          <gra index="5" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <g><w>is</w><w>it</w><k type="retracing with correction"/></g>
+          <w>what</w>
+          <w>is</w>
+          <w>that</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="376.882" end="377.852" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <g><w>is</w><internal-media start="376.882" end="377.022" unit="s"/><w>it</w><internal-media start="377.022" end="377.192" unit="s"/><k type="retracing with correction"/></g>
+          <w>what</w>
+          <w>is</w>
+          <w>that</w>
+          <t type="q"/>
+          <media start="377.192" end="377.852" unit="s"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PRED"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>you've</w>
+          <w>got</w>
+          <w>his</w>
+          <w>nose</w>
+          <w>Luke</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="378.729" end="380.009" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>you've</w>
+          <internal-media start="378.729" end="378.869" unit="s"/>
+          <w>got</w>
+          <w>his</w>
+          <internal-media start="379.019" end="379.209" unit="s"/>
+          <w>nose</w>
+          <internal-media start="379.209" end="379.689" unit="s"/>
+          <w>Luke</w>
+          <internal-media start="379.689" end="380.009" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw><mor-post><mw><pos><c>aux</c></pos><stem>have</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>part</c></pos><stem>get</stem><mk type="sfxf">PASTP</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>nose</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Luke</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="SUBJ"/>
+          <gra index="2" head="3" relation="AUX"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="5" relation="APP"/>
+          <gra index="7" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>nose</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="381.252" end="381.692" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>nose</w>
+          <internal-media start="381.252" end="381.692" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>nose</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>that's</w>
+          <w>his</w>
+          <w>nose</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="382.048" end="382.798" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>that's</w>
+          <internal-media start="382.048" end="382.228" unit="s"/>
+          <w>his</w>
+          <internal-media start="382.228" end="382.378" unit="s"/>
+          <w>nose</w>
+          <internal-media start="382.378" end="382.798" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>nose</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>that</w>
+          <g><w>go</w><w>on</w><w>Mr_Potato</w><overlap type="overlap follows"/></g>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="384.051" end="385.991" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="384.051" end="384.301" unit="s"/>
+          <w>that</w>
+          <internal-media start="384.301" end="384.501" unit="s"/>
+          <g><w>go</w><internal-media start="384.501" end="384.621" unit="s"/><w>on</w><internal-media start="384.621" end="384.831" unit="s"/><w>Mr_Potato</w><internal-media start="384.831" end="385.991" unit="s"/><overlap type="overlap follows"/></g>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>pro</c><subc>rel</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Mr_Potato</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="LINK"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="LINK"/>
+          <gra index="4" head="2" relation="CPRED"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="5" relation="POBJ"/>
+          <gra index="7" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <g><w>put</w><w>that</w><w>on</w><w>his</w><w>face</w><overlap type="overlap precedes"/></g>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="386.710" end="389.720" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <g><w>put</w><internal-media start="386.710" end="386.840" unit="s"/><w>that</w><internal-media start="386.840" end="386.920" unit="s"/><w>on</w><internal-media start="386.920" end="387.480" unit="s"/><w>his</w><internal-media start="387.800" end="388.160" unit="s"/><w>face</w><internal-media start="388.710" end="389.720" unit="s"/><overlap type="overlap precedes"/></g>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>face</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="OBJ"/>
+          <gra index="3" head="1" relation="JCT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="POBJ"/>
+          <gra index="6" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="390.107" end="390.217" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>no</w>
+          <internal-media start="390.107" end="390.217" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>is</w>
+          <w>that</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="390.650" end="391.030" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="390.650" end="390.740" unit="s"/>
+          <w>is</w>
+          <internal-media start="390.740" end="390.780" unit="s"/>
+          <w>that</w>
+          <internal-media start="390.780" end="391.030" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PRED"/>
+          <gra index="4" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>that's</w>
+          <w>not</w>
+          <w>his</w>
+          <w>nose</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="391.279" end="391.469" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>that's</w>
+          <internal-media start="391.279" end="391.319" unit="s"/>
+          <w>not</w>
+          <internal-media start="391.319" end="391.359" unit="s"/>
+          <w>his</w>
+          <internal-media start="391.359" end="391.389" unit="s"/>
+          <w>nose</w>
+          <internal-media start="391.389" end="391.469" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>nose</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="NEG"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="2" relation="PRED"/>
+          <gra index="6" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>that's</w>
+          <w>his</w>
+          <w>ear</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="392.406" end="392.716" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>that's</w>
+          <internal-media start="392.406" end="392.566" unit="s"/>
+          <w>his</w>
+          <internal-media start="392.566" end="392.656" unit="s"/>
+          <w>ear</w>
+          <internal-media start="392.656" end="392.716" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>ear</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>your</w>
+          <w>nose</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="392.731" end="396.011" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="392.731" end="393.211" unit="s"/>
+          <w>your</w>
+          <internal-media start="395.281" end="395.741" unit="s"/>
+          <w>nose</w>
+          <internal-media start="395.741" end="396.011" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>your</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>nose</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>you're</w>
+          <w>nose</w>
+          <w>isn't</w>
+          <w>in</w>
+          <w>your</w>
+          <w>ear</w>
+          <w>is</w>
+          <w>it</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="397.923" end="399.573" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>you're</w>
+          <internal-media start="397.923" end="398.063" unit="s"/>
+          <w>nose</w>
+          <internal-media start="398.063" end="398.263" unit="s"/>
+          <w>isn't</w>
+          <internal-media start="398.263" end="398.623" unit="s"/>
+          <w>in</w>
+          <internal-media start="398.623" end="398.793" unit="s"/>
+          <w>your</w>
+          <internal-media start="398.793" end="398.903" unit="s"/>
+          <w>ear</w>
+          <internal-media start="398.933" end="399.253" unit="s"/>
+          <w>is</w>
+          <internal-media start="399.253" end="399.453" unit="s"/>
+          <w>it</w>
+          <internal-media start="399.483" end="399.573" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>n</c></pos><stem>nose</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>your</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>ear</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="4" relation="NEG"/>
+          <gra index="6" head="9" relation="JCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="4" relation="PRED"/>
+          <gra index="10" head="9" relation="PRED"/>
+          <gra index="11" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="401.592" end="401.962" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>no</w>
+          <internal-media start="401.592" end="401.962" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>no</w>
+          <w>we</w>
+          <w>don't</w>
+          <w>get</w>
+          <w>in</w>
+          <w>there</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="402.898" end="404.278" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>no</w>
+          <internal-media start="402.898" end="403.568" unit="s"/>
+          <w>we</w>
+          <internal-media start="403.598" end="403.688" unit="s"/>
+          <w>don't</w>
+          <internal-media start="403.688" end="403.898" unit="s"/>
+          <w>get</w>
+          <internal-media start="403.898" end="404.028" unit="s"/>
+          <w>in</w>
+          <internal-media start="404.028" end="404.158" unit="s"/>
+          <w>there</w>
+          <internal-media start="404.158" end="404.278" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>get</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>there</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="COM"/>
+          <gra index="2" head="5" relation="SUBJ"/>
+          <gra index="3" head="5" relation="AUX"/>
+          <gra index="4" head="3" relation="NEG"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="6" relation="POBJ"/>
+          <gra index="8" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>cow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="406.614" end="406.954" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cow</w>
+          <internal-media start="406.614" end="406.954" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>a</w>
+          <g><w type="nonword">c</w><w type="nonword">c</w><k type="retracing"/></g>
+          <w>cow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="409.239" end="410.379" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>a</w>
+          <internal-media start="409.239" end="409.389" unit="s"/>
+          <g><w type="nonword">c</w><w type="nonword">c</w><k type="retracing"/></g>
+          <w>cow</w>
+          <t type="p"/>
+          <media start="410.199" end="410.379" unit="s"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>a</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w type="nonword">c</w>
+          <w type="nonword">c</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w type="nonword">c</w>
+          <w type="nonword">c</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Comments">
+        <tierData><tw>c</tw><tw>passes</tw><tw>gas</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>what</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="419.529" end="420.129" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="419.529" end="420.129" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>excuse</w>
+          <w>you</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="420.897" end="421.407" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>excuse</w>
+          <internal-media start="420.897" end="421.207" unit="s"/>
+          <w>you</w>
+          <internal-media start="421.207" end="421.407" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>excuse</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="OBJ"/>
+          <gra index="3" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>you</w>
+          <w>tooted</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="421.837" end="422.067" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>you</w>
+          <internal-media start="421.837" end="421.877" unit="s"/>
+          <w>tooted</w>
+          <internal-media start="421.917" end="422.067" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>toot</stem><mk type="sfx">PAST</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="422.906" end="424.086" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>huh</w>
+          <internal-media start="422.906" end="424.086" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>huh</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>mhm</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="425.120" end="425.630" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>mhm</w>
+          <internal-media start="425.120" end="425.630" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>the</w>
+          <w>cow</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="428.176" end="429.156" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="428.176" end="428.486" unit="s"/>
+          <w>the</w>
+          <internal-media start="428.696" end="428.926" unit="s"/>
+          <w>cow</w>
+          <internal-media start="429.016" end="429.156" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>the</w>
+          <w>man</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="429.500" end="432.210" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="429.500" end="431.880" unit="s"/>
+          <w>the</w>
+          <internal-media start="431.880" end="431.960" unit="s"/>
+          <w>man</w>
+          <internal-media start="431.960" end="432.210" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>man</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="432.263" end="433.493" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>huh</w>
+          <internal-media start="432.263" end="433.493" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>huh</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <g><w>where's</w><w>the</w><k type="retracing"/></g>
+          <w>where's</w>
+          <w>the</w>
+          <w>guy</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="433.830" end="435.050" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <g><w>where's</w><internal-media start="433.830" end="434.100" unit="s"/><w>the</w><internal-media start="434.100" end="434.220" unit="s"/><k type="retracing"/></g>
+          <w>where's</w>
+          <w>the</w>
+          <w>guy</w>
+          <t type="q"/>
+          <media start="434.360" end="435.050" unit="s"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>guy</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>look_it</w>
+          <w>it</w>
+          <w>shuts</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="437.170" end="439.240" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>look_it</w>
+          <internal-media start="437.170" end="437.580" unit="s"/>
+          <w>it</w>
+          <internal-media start="438.600" end="438.920" unit="s"/>
+          <w>shuts</w>
+          <internal-media start="439.040" end="439.240" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>look_it</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>shut</stem><mk type="sfx">3S</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="COM"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>cow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="445.535" end="445.605" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cow</w>
+          <internal-media start="445.535" end="445.605" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>the</w>
+          <w>cow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="446.576" end="449.946" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>the</w>
+          <internal-media start="446.576" end="446.776" unit="s"/>
+          <w>cow</w>
+          <internal-media start="449.596" end="449.946" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>is</w>
+          <w>that</w>
+          <w>his</w>
+          <w>mouth</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="452.981" end="460.231" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>is</w>
+          <internal-media start="452.981" end="453.081" unit="s"/>
+          <w>that</w>
+          <internal-media start="454.811" end="455.641" unit="s"/>
+          <w>his</w>
+          <internal-media start="458.151" end="458.241" unit="s"/>
+          <w>mouth</w>
+          <internal-media start="460.081" end="460.231" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>comp</c></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>mouth</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PRED"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="OBJ"/>
+          <gra index="5" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>is</w>
+          <w>that</w>
+          <w>his</w>
+          <w>mouth</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="471.632" end="473.902" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>is</w>
+          <internal-media start="471.632" end="471.702" unit="s"/>
+          <w>that</w>
+          <internal-media start="471.732" end="471.852" unit="s"/>
+          <w>his</w>
+          <internal-media start="473.322" end="473.542" unit="s"/>
+          <w>mouth</w>
+          <internal-media start="473.542" end="473.902" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>comp</c></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>mouth</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PRED"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="2" relation="OBJ"/>
+          <gra index="5" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>put</w>
+          <w>his</w>
+          <w>mouth</w>
+          <w>on</w>
+          <w>him</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="474.104" end="476.874" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>put</w>
+          <internal-media start="474.104" end="474.564" unit="s"/>
+          <w>his</w>
+          <internal-media start="476.094" end="476.284" unit="s"/>
+          <w>mouth</w>
+          <internal-media start="476.284" end="476.574" unit="s"/>
+          <w>on</w>
+          <internal-media start="476.574" end="476.644" unit="s"/>
+          <w>him</w>
+          <internal-media start="476.644" end="476.874" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>mouth</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>obj</subc></pos><stem>him</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="1" relation="OBJ"/>
+          <gra index="4" head="1" relation="JCT"/>
+          <gra index="5" head="4" relation="POBJ"/>
+          <gra index="6" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>his</w>
+          <w>mouth</w>
+          <w>go</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="477.100" end="478.860" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="477.100" end="478.240" unit="s"/>
+          <w>his</w>
+          <internal-media start="478.240" end="478.400" unit="s"/>
+          <w>mouth</w>
+          <internal-media start="478.400" end="478.700" unit="s"/>
+          <w>go</w>
+          <internal-media start="478.700" end="478.860" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>mouth</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="2" relation="CPRED"/>
+          <gra index="6" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>where's</w>
+          <w>his</w>
+          <g><w>mouth</w><overlap type="overlap follows"/></g>
+          <w>go</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="481.988" end="482.188" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where's</w>
+          <internal-media start="481.988" end="482.068" unit="s"/>
+          <w>his</w>
+          <internal-media start="482.068" end="482.098" unit="s"/>
+          <g><w>mouth</w><overlap type="overlap follows"/></g>
+          <internal-media start="482.098" end="482.148" unit="s"/>
+          <w>go</w>
+          <internal-media start="482.148" end="482.188" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>mouth</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="2" relation="CPRED"/>
+          <gra index="6" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <g><w untranscribed="unintelligible">xxx</w><overlap type="overlap precedes"/></g>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="496.286" end="496.586" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="496.286" end="496.586" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>vocalization</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><happening>vocalization</happening></e>
+          <t type="p"/>
+        </u>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shut</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="500.796" end="501.026" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shut</w>
+          <internal-media start="500.796" end="501.026" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>shut</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shut</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="501.818" end="501.868" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shut</w>
+          <internal-media start="501.818" end="501.868" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>shut</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shut</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="502.455" end="502.565" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shut</w>
+          <internal-media start="502.455" end="502.565" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>shut</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="502.684" end="502.714" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="502.684" end="502.714" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shut</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="513.515" end="514.816" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shut</w>
+          <internal-media start="513.516" end="514.816" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>shut</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>shut</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="520.443" end="520.613" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>shut</w>
+          <internal-media start="520.443" end="520.613" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>shut</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>Luke</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="521.778" end="522.058" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>Luke</w>
+          <internal-media start="521.778" end="522.058" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Luke</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <w>Luke</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="523.568" end="525.018" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>hey</w>
+          <internal-media start="523.568" end="523.698" unit="s"/>
+          <w>Luke</w>
+          <internal-media start="524.628" end="525.018" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>hey</stem></mw></mor>
+          <mor><mw><pos><c>n</c><subc>prop</subc></pos><stem>Luke</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>hey</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="528.264" end="528.804" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>hey</w>
+          <internal-media start="528.264" end="528.804" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>hey</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>in</w>
+          <w>there</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="530.509" end="532.059" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what's</w>
+          <internal-media start="530.509" end="530.749" unit="s"/>
+          <w>in</w>
+          <internal-media start="531.489" end="531.809" unit="s"/>
+          <w>there</w>
+          <internal-media start="531.809" end="532.059" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>there</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="JCT"/>
+          <gra index="4" head="3" relation="POBJ"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="FAT">
+      <orthography>
+        <u>
+          <w>what's</w>
+          <w>in</w>
+          <w>there</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="532.143" end="534.983" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what's</w>
+          <internal-media start="532.143" end="534.723" unit="s"/>
+          <w>in</w>
+          <internal-media start="534.723" end="534.863" unit="s"/>
+          <w>there</w>
+          <internal-media start="534.863" end="534.983" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>there</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="JCT"/>
+          <gra index="4" head="3" relation="POBJ"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>you</w>
+          <w>got</w>
+          <w>it</w>
+          <w>sitting</w>
+          <w>on</w>
+          <w>something</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="534.999" end="537.559" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>you</w>
+          <internal-media start="534.999" end="535.139" unit="s"/>
+          <w>got</w>
+          <w>it</w>
+          <internal-media start="536.319" end="536.519" unit="s"/>
+          <w>sitting</w>
+          <internal-media start="536.519" end="536.849" unit="s"/>
+          <w>on</w>
+          <internal-media start="536.849" end="537.039" unit="s"/>
+          <w>something</w>
+          <internal-media start="537.039" end="537.559" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>get</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>sit</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>something</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="OBJ"/>
+          <gra index="4" head="2" relation="XJCT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="5" relation="POBJ"/>
+          <gra index="7" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>get</w>
+          <w>it</w>
+          <w>off</w>
+          <w>the</w>
+          <w>animals</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="537.682" end="538.832" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>get</w>
+          <internal-media start="537.682" end="537.832" unit="s"/>
+          <w>it</w>
+          <internal-media start="537.832" end="537.922" unit="s"/>
+          <w>off</w>
+          <internal-media start="537.922" end="538.212" unit="s"/>
+          <w>the</w>
+          <internal-media start="538.212" end="538.352" unit="s"/>
+          <w>animals</w>
+          <internal-media start="538.352" end="538.832" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>aux</c></pos><stem>get</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>off</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>animal</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PRED"/>
+          <gra index="3" head="2" relation="JCT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="POBJ"/>
+          <gra index="6" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>here</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="538.924" end="539.184" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>here</w>
+          <internal-media start="538.924" end="539.184" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c></pos><stem>here</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>are</w>
+          <w>you</w>
+          <w>doing</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <segment start="543.419" end="545.309" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="543.419" end="543.759" unit="s"/>
+          <w>are</w>
+          <internal-media start="544.559" end="544.589" unit="s"/>
+          <w>you</w>
+          <internal-media start="544.589" end="545.129" unit="s"/>
+          <w>doing</w>
+          <internal-media start="545.159" end="545.309" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>do</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI">
+      <orthography>
+        <u>
+          <w>sit</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="546.375" end="546.625" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>sit</w>
+          <internal-media start="546.375" end="546.625" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>sit</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>don't</w>
+          <w>break</w>
+          <w>it</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="548.862" end="549.692" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>don't</w>
+          <internal-media start="548.862" end="549.092" unit="s"/>
+          <w>break</w>
+          <internal-media start="549.092" end="549.412" unit="s"/>
+          <w>it</w>
+          <internal-media start="549.452" end="549.692" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Comments">
+        <tierData><tw>knock</tw><tw>on</tw><tw>the</tw><tw>door</tw></tierData>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>break</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="1" relation="NEG"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="OBJ"/>
+          <gra index="5" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="MOT">
+      <orthography>
+        <u>
+          <w>she's</w>
+          <w>coming</w>
+          <w>back</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="551.314" end="553.854" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>she's</w>
+          <internal-media start="551.314" end="551.484" unit="s"/>
+          <w>coming</w>
+          <internal-media start="553.094" end="553.394" unit="s"/>
+          <w>back</w>
+          <internal-media start="553.394" end="553.854" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>she</stem></mw><mor-post><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>part</c></pos><stem>come</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>back</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="SUBJ"/>
+          <gra index="2" head="3" relation="AUX"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="OBJ"/>
+          <gra index="5" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+  </transcript>
+</session>
