@@ -2,6 +2,14 @@
 <session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="UMD-CMU" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <mediaLocation>202GH_clinician_y2</mediaLocation>
+  <metadata>
+    <md key="Mediatypes">video</md>
+    <md key="DesignType">cross</md>
+    <md key="ActivityType">narrative</md>
+    <md key="GroupType">CWS</md>
+    <md key="Window">0_0_0_0_0_0_472_0_472_0</md>
+    <md key="PID">11312/a-00050193-1</md>
+  </metadata>
   <participants>
     <participant id="FEM">
       <role>Female</role>
@@ -32,7 +40,7 @@
     <comment type="Types">
       <tierData><tw>cross,</tw><tw>narrative,</tw><tw>CWS</tw></tierData>
     </comment>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u0">
       <orthography>
         <u>
           <w>play</w>
@@ -65,7 +73,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u1">
       <orthography>
         <u>
           <w>okay</w>
@@ -86,7 +94,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u2">
       <orthography>
         <u>
           <w type="filler">um</w>
@@ -95,7 +103,7 @@
       </orthography>
       <segment start="3.711" end="9.854" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u3">
       <orthography>
         <u>
           <w>let's</w>
@@ -130,7 +138,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u4">
       <orthography>
         <u>
           <e><happening>playing_noises</happening></e>
@@ -139,7 +147,7 @@
       </orthography>
       <segment start="14.065" end="17.753" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u5">
       <orthography>
         <u>
           <w>alright</w>
@@ -160,7 +168,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u6">
       <orthography>
         <u>
           <w>so</w>
@@ -212,7 +220,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u7">
       <orthography>
         <u>
           <w>bulldozer</w>
@@ -233,7 +241,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u8">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -262,7 +270,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u9">
       <orthography>
         <u>
           <w>is</w>
@@ -298,7 +306,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u10">
       <orthography>
         <u>
           <w>what</w>
@@ -334,7 +342,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u11">
       <orthography>
         <u>
           <w>I</w>
@@ -364,7 +372,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u12">
       <orthography>
         <u>
           <w>you'll</w>
@@ -392,7 +400,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u13">
       <orthography>
         <u>
           <w>lift</w>
@@ -416,7 +424,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u14">
       <orthography>
         <u>
           <w>lift</w>
@@ -440,7 +448,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u15">
       <orthography>
         <u>
           <w>and</w>
@@ -482,7 +490,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u16">
       <orthography>
         <u>
           <w>and</w>
@@ -521,7 +529,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u17">
       <orthography>
         <u>
           <w>wow</w>
@@ -542,7 +550,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u18">
       <orthography>
         <u>
           <w>that's</w>
@@ -576,7 +584,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u19">
       <orthography>
         <u>
           <w>that's</w>
@@ -610,7 +618,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u20">
       <orthography>
         <u>
           <w>that's</w>
@@ -638,7 +646,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u21">
       <orthography>
         <u>
           <w>that's</w>
@@ -670,7 +678,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u22">
       <orthography>
         <u>
           <g><w>does</w><w>it</w><k type="retracing"/></g>
@@ -704,7 +712,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u23">
       <orthography>
         <u>
           <w>yes</w>
@@ -725,7 +733,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u24">
       <orthography>
         <u>
           <w>yeah</w>
@@ -773,7 +781,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u25">
       <orthography>
         <u>
           <w>like</w>
@@ -795,7 +803,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u26">
       <orthography>
         <u>
           <w>like</w>
@@ -819,7 +827,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u27">
       <orthography>
         <u>
           <w>like</w>
@@ -843,7 +851,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u28">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -865,7 +873,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u29">
       <orthography>
         <u>
           <w>and</w>
@@ -889,7 +897,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u30">
       <orthography>
         <u>
           <w>and</w>
@@ -913,7 +921,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u31">
       <orthography>
         <u>
           <w>do</w>
@@ -958,7 +966,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u32">
       <orthography>
         <u>
           <w>yes</w>
@@ -979,7 +987,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u33">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -1001,7 +1009,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u34">
       <orthography>
         <u>
           <w>here's</w>
@@ -1029,7 +1037,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u35">
       <orthography>
         <u>
           <w>thank</w>
@@ -1053,7 +1061,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u36">
       <orthography>
         <u>
           <w>let's</w>
@@ -1102,7 +1110,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u37">
       <orthography>
         <u>
           <w>I</w>
@@ -1138,7 +1146,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u38">
       <orthography>
         <u>
           <w>you</w>
@@ -1174,7 +1182,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u39">
       <orthography>
         <u>
           <w>the</w>
@@ -1198,7 +1206,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u40">
       <orthography>
         <u>
           <w>Rubble</w>
@@ -1228,7 +1236,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u41">
       <orthography>
         <u>
           <w>Rubble</w>
@@ -1255,7 +1263,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u42">
       <orthography>
         <u>
           <w>yeah</w>
@@ -1285,7 +1293,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u43">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -1313,7 +1321,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u44">
       <orthography>
         <u>
           <w>he</w>
@@ -1346,7 +1354,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u45">
       <orthography>
         <u>
           <w>yes</w>
@@ -1367,7 +1375,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u46">
       <orthography>
         <u>
           <w>is</w>
@@ -1406,7 +1414,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u47">
       <orthography>
         <u>
           <w>dog</w>
@@ -1427,7 +1435,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u48">
       <orthography>
         <u>
           <w>he's</w>
@@ -1464,7 +1472,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u49">
       <orthography>
         <u>
           <w>woah</w>
@@ -1485,7 +1493,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u50">
       <orthography>
         <u>
           <w>that's</w>
@@ -1513,7 +1521,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u51">
       <orthography>
         <u>
           <g><w>does</w><w>he</w><k type="retracing with correction"/></g>
@@ -1550,7 +1558,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u52">
       <orthography>
         <u>
           <w>yes</w>
@@ -1571,7 +1579,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u53">
       <orthography>
         <u>
           <w>wow</w>
@@ -1592,7 +1600,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u54">
       <orthography>
         <u>
           <w>cool</w>
@@ -1613,7 +1621,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u55">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -1622,7 +1630,7 @@
       </orthography>
       <segment start="125.693" end="131.329" unit="s"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u56">
       <orthography>
         <u>
           <w>hey</w>
@@ -1643,7 +1651,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u57">
       <orthography>
         <u>
           <w>was</w>
@@ -1673,7 +1681,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u58">
       <orthography>
         <u>
           <w>it</w>
@@ -1709,7 +1717,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u59">
       <orthography>
         <u>
           <w>let's</w>
@@ -1734,7 +1742,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u60">
       <orthography>
         <u>
           <w>what</w>
@@ -1777,7 +1785,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u61">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -1803,7 +1811,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u62">
       <orthography>
         <u>
           <w>you</w>
@@ -1858,7 +1866,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u63">
       <orthography>
         <u>
           <w>yeah</w>
@@ -1879,7 +1887,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u64">
       <orthography>
         <u>
           <g><w formType="onomatopoeia">chomp</w><w formType="onomatopoeia">chomp</w><w formType="onomatopoeia">chomp</w><w formType="onomatopoeia">chomp</w><w formType="onomatopoeia">chomp</w><k type="retracing"/></g>
@@ -1901,7 +1909,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u65">
       <orthography>
         <u>
           <w formType="onomatopoeia">chomp</w>
@@ -1922,7 +1930,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u66">
       <orthography>
         <u>
           <w>is</w>
@@ -1952,7 +1960,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u67">
       <orthography>
         <u>
           <w>yes</w>
@@ -1973,7 +1981,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u68">
       <orthography>
         <u>
           <e><happening>gasps</happening></e>
@@ -2005,7 +2013,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u69">
       <orthography>
         <u>
           <w>what</w>
@@ -2041,7 +2049,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u70">
       <orthography>
         <u>
           <w>fish</w>
@@ -2062,7 +2070,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u71">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -2084,7 +2092,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u72">
       <orthography>
         <u>
           <w>that</w>
@@ -2111,7 +2119,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u73">
       <orthography>
         <u>
           <w>this</w>
@@ -2147,7 +2155,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u74">
       <orthography>
         <u>
           <w type="filler">ooh</w>
@@ -2179,7 +2187,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u75">
       <orthography>
         <u>
           <w type="filler">mm</w>
@@ -2188,7 +2196,7 @@
       </orthography>
       <segment start="178.048" end="180.015" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u76">
       <orthography>
         <u>
           <w>that's</w>
@@ -2219,7 +2227,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u77">
       <orthography>
         <u>
           <w type="filler">mm</w>
@@ -2256,7 +2264,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u78">
       <orthography>
         <u>
           <w>no</w>
@@ -2277,7 +2285,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u79">
       <orthography>
         <u>
           <w>no</w>
@@ -2298,7 +2306,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u80">
       <orthography>
         <u>
           <w>that's</w>
@@ -2332,7 +2340,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u81">
       <orthography>
         <u>
           <w>but</w>
@@ -2369,7 +2377,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u82">
       <orthography>
         <u>
           <w>you</w>
@@ -2399,7 +2407,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u83">
       <orthography>
         <u>
           <w>yes</w>
@@ -2420,7 +2428,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u84">
       <orthography>
         <u>
           <w>where</w>
@@ -2441,7 +2449,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u85">
       <orthography>
         <u>
           <w>at</w>
@@ -2465,7 +2473,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u86">
       <orthography>
         <u>
           <w>at</w>
@@ -2492,7 +2500,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u87">
       <orthography>
         <u>
           <w>you</w>
@@ -2532,7 +2540,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u88">
       <orthography>
         <u>
           <w>no</w>
@@ -2553,7 +2561,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u89">
       <orthography>
         <u>
           <w>have</w>
@@ -2592,7 +2600,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u90">
       <orthography>
         <u>
           <w>no</w>
@@ -2613,7 +2621,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u91">
       <orthography>
         <u>
           <w>no</w>
@@ -2634,7 +2642,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u92">
       <orthography>
         <u>
           <g><w>it's</w><w>kind</w><w>of</w><w>like</w><k type="retracing with correction"/></g>
@@ -2674,7 +2682,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u93">
       <orthography>
         <u>
           <w>I</w>
@@ -2721,7 +2729,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u94">
       <orthography>
         <u>
           <w>you've</w>
@@ -2767,7 +2775,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u95">
       <orthography>
         <u>
           <w>yeah</w>
@@ -2788,7 +2796,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u96">
       <orthography>
         <u>
           <w>where</w>
@@ -2821,7 +2829,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u97">
       <orthography>
         <u>
           <w>a</w>
@@ -2848,7 +2856,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u98">
       <orthography>
         <u>
           <g><w>a</w><w>big</w><w type="fragment">s</w><k type="retracing with correction"/></g>
@@ -2892,7 +2900,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u99">
       <orthography>
         <u>
           <w>you</w>
@@ -2929,7 +2937,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u100">
       <orthography>
         <u>
           <w>yeah</w>
@@ -2950,7 +2958,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u101">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -2959,7 +2967,7 @@
       </orthography>
       <segment start="243.064" end="244.332" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u102">
       <orthography>
         <u>
           <w>here's</w>
@@ -2984,7 +2992,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u103">
       <orthography>
         <u>
           <w>there's</w>
@@ -3009,7 +3017,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u104">
       <orthography>
         <u>
           <w type="filler">ooh</w>
@@ -3046,7 +3054,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u105">
       <orthography>
         <u>
           <w>I</w>
@@ -3086,7 +3094,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u106">
       <orthography>
         <u>
           <w>here</w>
@@ -3113,7 +3121,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u107">
       <orthography>
         <u>
           <w>cool</w>
@@ -3134,7 +3142,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u108">
       <orthography>
         <u>
           <w>can</w>
@@ -3170,7 +3178,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u109">
       <orthography>
         <u>
           <w>Rubble</w>
@@ -3197,7 +3205,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u110">
       <orthography>
         <u>
           <w>he</w>
@@ -3221,7 +3229,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u111">
       <orthography>
         <u>
           <w>yeah</w>
@@ -3242,7 +3250,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u112">
       <orthography>
         <u>
           <g><w>who</w><k type="retracing with correction"/></g>
@@ -3276,7 +3284,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u113">
       <orthography>
         <u>
           <w>he</w>
@@ -3306,7 +3314,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u114">
       <orthography>
         <u>
           <w>he</w>
@@ -3336,7 +3344,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u115">
       <orthography>
         <u>
           <w>yeah</w>
@@ -3357,7 +3365,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u116">
       <orthography>
         <u>
           <w>that</w>
@@ -3384,7 +3392,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u117">
       <orthography>
         <u>
           <w>and</w>
@@ -3408,7 +3416,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u118">
       <orthography>
         <u>
           <w>and</w>
@@ -3432,7 +3440,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u119">
       <orthography>
         <u>
           <w>woah</w>
@@ -3453,7 +3461,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u120">
       <orthography>
         <u>
           <w>does</w>
@@ -3483,7 +3491,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u121">
       <orthography>
         <u>
           <w>yeah</w>
@@ -3504,7 +3512,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u122">
       <orthography>
         <u>
           <w>yeah</w>
@@ -3525,7 +3533,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u123">
       <orthography>
         <u>
           <w>he</w>
@@ -3556,7 +3564,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u124">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -3578,7 +3586,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u125">
       <orthography>
         <u>
           <w>and</w>
@@ -3626,7 +3634,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u126">
       <orthography>
         <u>
           <g><w>they</w><w>like</w><w>to</w><w type="fragment">s<p type="drawl"/></w><k type="retracing with correction"/></g>
@@ -3655,7 +3663,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u127">
       <orthography>
         <u>
           <g><w>they</w><w>like</w><w>to</w><k type="retracing with correction"/></g>
@@ -3702,7 +3710,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u128">
       <orthography>
         <u>
           <w>do</w>
@@ -3735,7 +3743,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u129">
       <orthography>
         <u>
           <w type="fragment">f</w>
@@ -3758,7 +3766,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u130">
       <orthography>
         <u>
           <w>yeah</w>
@@ -3779,7 +3787,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u131">
       <orthography>
         <u>
           <w>alright</w>
@@ -3810,7 +3818,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u132">
       <orthography>
         <u>
           <w>so</w>
@@ -3834,7 +3842,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u133">
       <orthography>
         <u>
           <w>do</w>
@@ -3868,7 +3876,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u134">
       <orthography>
         <u>
           <w>and</w>
@@ -3901,7 +3909,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u135">
       <orthography>
         <u>
           <w>because</w>
@@ -3934,7 +3942,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u136">
       <orthography>
         <u>
           <w>go</w>
@@ -3961,7 +3969,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u137">
       <orthography>
         <u>
           <w>she</w>
@@ -4001,7 +4009,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u138">
       <orthography>
         <u>
           <w>no</w>
@@ -4022,7 +4030,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u139">
       <orthography>
         <u>
           <w>I</w>
@@ -4053,7 +4061,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u140">
       <orthography>
         <u>
           <w>you</w>
@@ -4086,7 +4094,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u141">
       <orthography>
         <u>
           <w>I</w>
@@ -4123,7 +4131,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u142">
       <orthography>
         <u>
           <w>do</w>
@@ -4165,7 +4173,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u143">
       <orthography>
         <u>
           <w>that's</w>
@@ -4219,7 +4227,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u144">
       <orthography>
         <u>
           <w>where</w>
@@ -4246,7 +4254,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u145">
       <orthography>
         <u>
           <w>I</w>
@@ -4279,7 +4287,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u146">
       <orthography>
         <u>
           <w>you</w>
@@ -4303,7 +4311,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u147">
       <orthography>
         <u>
           <g><w>I</w><w>know</w><w>where</w><w><ca-element type="blocked segments"/>one</w><k type="retracing with correction"/></g>
@@ -4337,7 +4345,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u148">
       <orthography>
         <u>
           <g><g><w>this</w><k type="retracing"/></g><w>this</w><w>is</w><w>one</w><k type="retracing with correction"/></g>
@@ -4371,7 +4379,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u149">
       <orthography>
         <u>
           <w>that</w>
@@ -4401,7 +4409,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u150">
       <orthography>
         <u>
           <w>what</w>
@@ -4438,7 +4446,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u151">
       <orthography>
         <u>
           <w>it</w>
@@ -4471,7 +4479,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u152">
       <orthography>
         <u>
           <g><w>and</w><w>I</w><k type="retracing"/></g>
@@ -4528,7 +4536,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u153">
       <orthography>
         <u>
           <w>woah</w>
@@ -4558,7 +4566,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u154">
       <orthography>
         <u>
           <w><ca-delimiter type="begin" label="repeated-segment"/>an-an<ca-delimiter type="end" label="repeated-segment"/>and</w>
@@ -4602,7 +4610,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u155">
       <orthography>
         <u>
           <w>you</w>
@@ -4632,7 +4640,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u156">
       <orthography>
         <u>
           <w>stay</w>
@@ -4672,7 +4680,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u157">
       <orthography>
         <u>
           <w>stay</w>
@@ -4699,7 +4707,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u158">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -4708,7 +4716,7 @@
       </orthography>
       <segment start="377.458" end="378.119" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u159">
       <orthography>
         <u>
           <g><g><w>there</w><k type="retracing with correction"/></g><g><w>there's</w><k type="retracing"/></g><g><w>there's</w><k type="retracing"/></g><w>there's</w><w>the</w><k type="retracing with correction"/></g>
@@ -4767,7 +4775,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u160">
       <orthography>
         <u>
           <w>I</w>
@@ -4791,7 +4799,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u161">
       <orthography>
         <u>
           <g><w>we'll</w><k type="retracing"/></g>
@@ -4823,7 +4831,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u162">
       <orthography>
         <u>
           <w>let's</w>
@@ -4860,7 +4868,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u163">
       <orthography>
         <u>
           <g><w>does</w><w>the</w><w>helicopter</w><k type="retracing with correction"/></g>
@@ -4897,7 +4905,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u164">
       <orthography>
         <u>
           <w>only</w>
@@ -4924,7 +4932,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u165">
       <orthography>
         <u>
           <w>only</w>
@@ -4951,7 +4959,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u166">
       <orthography>
         <u>
           <w>so</w>
@@ -4991,7 +4999,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u167">
       <orthography>
         <u>
           <w>no</w>
@@ -5025,7 +5033,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u168">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -5055,7 +5063,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u169">
       <orthography>
         <u>
           <w>mommy</w>
@@ -5101,7 +5109,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u170">
       <orthography>
         <u>
           <w>you</w>
@@ -5141,7 +5149,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u171">
       <orthography>
         <u>
           <w>how</w>
@@ -5177,7 +5185,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="FEM">
+    <r speaker="FEM" id="u172">
       <orthography>
         <u>
           <w type="filler">um</w>
@@ -5202,7 +5210,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u173">
       <orthography>
         <u>
           <w>okay</w>
@@ -5223,7 +5231,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u174">
       <orthography>
         <u>
           <w>so</w>
@@ -5266,7 +5274,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u175">
       <orthography>
         <u>
           <w>yeah</w>
@@ -5287,7 +5295,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u176">
       <orthography>
         <u>
           <w>yeah</w>
@@ -5308,7 +5316,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u177">
       <orthography>
         <u>
           <w>let's</w>
@@ -5360,7 +5368,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u178">
       <orthography>
         <u>
           <w type="filler">um</w>
@@ -5388,7 +5396,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u179">
       <orthography>
         <u>
           <w>yeah</w>
@@ -5424,7 +5432,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u180">
       <orthography>
         <u>
           <w>on</w>
@@ -5448,7 +5456,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u181">
       <orthography>
         <u>
           <w>I</w>
@@ -5500,7 +5508,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u182">
       <orthography>
         <u>
           <w>yeah</w>
@@ -5521,7 +5529,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u183">
       <orthography>
         <u>
           <g><w>only</w><w type="fragment">li</w><k type="retracing"/></g>
@@ -5559,7 +5567,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u184">
       <orthography>
         <u>
           <w>and</w>
@@ -5611,7 +5619,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u185">
       <orthography>
         <u>
           <w>fly</w>
@@ -5635,7 +5643,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u186">
       <orthography>
         <u>
           <w>woah</w>
@@ -5656,7 +5664,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u187">
       <orthography>
         <u>
           <w>and</w>
@@ -5698,7 +5706,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u188">
       <orthography>
         <u>
           <w>they</w>
@@ -5728,7 +5736,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u189">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -5768,7 +5776,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u190">
       <orthography>
         <u>
           <w>then</w>
@@ -5808,7 +5816,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u191">
       <orthography>
         <u>
           <w>they</w>
@@ -5838,7 +5846,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u192">
       <orthography>
         <u>
           <w>now</w>
@@ -5865,7 +5873,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u193">
       <orthography>
         <u>
           <w type="filler">ah</w>
@@ -5874,7 +5882,7 @@
       </orthography>
       <segment start="466.340" end="467.994" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u194">
       <orthography>
         <u>
           <w>now</w>
@@ -5903,7 +5911,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u195">
       <orthography>
         <u>
           <w>how</w>
@@ -5949,7 +5957,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u196">
       <orthography>
         <u>
           <w>just</w>
@@ -5982,7 +5990,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u197">
       <orthography>
         <u>
           <w>uhuh</w>
@@ -6003,7 +6011,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u198">
       <orthography>
         <u>
           <g><w>and</w><w>then</w><k type="retracing"/></g>
@@ -6062,7 +6070,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u199">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -6094,7 +6102,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u200">
       <orthography>
         <u>
           <w>then</w>
@@ -6128,7 +6136,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u201">
       <orthography>
         <u>
           <w>woah</w>
@@ -6149,7 +6157,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u202">
       <orthography>
         <u>
           <w>do</w>
@@ -6185,7 +6193,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u203">
       <orthography>
         <u>
           <w>this</w>
@@ -6218,7 +6226,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u204">
       <orthography>
         <u>
           <w>that's</w>
@@ -6252,7 +6260,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u205">
       <orthography>
         <u>
           <w><shortening>be</shortening>cause</w>
@@ -6280,7 +6288,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u206">
       <orthography>
         <u>
           <w><shortening>be</shortening>cause</w>
@@ -6309,7 +6317,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u207">
       <orthography>
         <u>
           <w><shortening>be</shortening>cause</w>
@@ -6340,7 +6348,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u208">
       <orthography>
         <u>
           <w>oh</w>
@@ -6374,7 +6382,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u209">
       <orthography>
         <u>
           <w>I</w>
@@ -6398,7 +6406,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u210">
       <orthography>
         <u>
           <w>and</w>
@@ -6422,7 +6430,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u211">
       <orthography>
         <u>
           <g><w>and</w><w>this</w><w>is</w><k type="retracing"/></g>
@@ -6465,7 +6473,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u212">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -6505,7 +6513,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u213">
       <orthography>
         <u>
           <w type="filler">mm</w>
@@ -6527,7 +6535,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u214">
       <orthography>
         <u>
           <w>no</w>
@@ -6548,7 +6556,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u215">
       <orthography>
         <u>
           <w type="filler">well</w>
@@ -6574,7 +6582,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u216">
       <orthography>
         <u>
           <w>careful</w>
@@ -6626,7 +6634,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u217">
       <orthography>
         <u>
           <w>I'm</w>
@@ -6660,7 +6668,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u218">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -6704,7 +6712,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u219">
       <orthography>
         <u>
           <g><w>I</w><w>used</w><w>to</w><k type="retracing with correction"/></g>
@@ -6741,7 +6749,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u220">
       <orthography>
         <u>
           <w>no</w>
@@ -6765,7 +6773,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u221">
       <orthography>
         <u>
           <w>that's</w>
@@ -6793,7 +6801,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u222">
       <orthography>
         <u>
           <w>did</w>
@@ -6847,7 +6855,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u223">
       <orthography>
         <u>
           <w>yes</w>
@@ -6868,7 +6876,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u224">
       <orthography>
         <u>
           <w>that's</w>
@@ -6896,7 +6904,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u225">
       <orthography>
         <u>
           <w>what</w>
@@ -6941,7 +6949,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u226">
       <orthography>
         <u>
           <w>and</w>
@@ -6981,7 +6989,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u227">
       <orthography>
         <u>
           <w>you're</w>
@@ -7013,7 +7021,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u228">
       <orthography>
         <u>
           <w>uhoh</w>
@@ -7034,7 +7042,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u229">
       <orthography>
         <u>
           <e><happening>giggles</happening></e>
@@ -7062,7 +7070,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u230">
       <orthography>
         <u>
           <w>uhoh</w>
@@ -7083,7 +7091,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u231">
       <orthography>
         <u>
           <w>is</w>
@@ -7119,7 +7127,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u232">
       <orthography>
         <u>
           <w>no</w>
@@ -7161,7 +7169,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u233">
       <orthography>
         <u>
           <w>well</w>
@@ -7189,7 +7197,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u234">
       <orthography>
         <u>
           <w>like</w>
@@ -7213,7 +7221,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u235">
       <orthography>
         <u>
           <e><happening>giggles</happening></e>
@@ -7239,7 +7247,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u236">
       <orthography>
         <u>
           <w>bye</w>
@@ -7260,7 +7268,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u237">
       <orthography>
         <u>
           <w>told</w>
@@ -7296,7 +7304,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u238">
       <orthography>
         <u>
           <w>is</w>
@@ -7335,7 +7343,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u239">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -7357,7 +7365,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u240">
       <orthography>
         <u>
           <w>okay</w>
@@ -7386,7 +7394,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u241">
       <orthography>
         <u>
           <w>what</w>
@@ -7416,7 +7424,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u242">
       <orthography>
         <u>
           <w>a</w>
@@ -7440,7 +7448,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u243">
       <orthography>
         <u>
           <w>it's</w>
@@ -7471,7 +7479,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u244">
       <orthography>
         <u>
           <w>woah</w>
@@ -7511,7 +7519,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u245">
       <orthography>
         <u>
           <w>you</w>
@@ -7532,7 +7540,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u246">
       <orthography>
         <u>
           <w>does</w>
@@ -7565,7 +7573,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u247">
       <orthography>
         <u>
           <w>let's</w>
@@ -7618,7 +7626,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u248">
       <orthography>
         <u>
           <w>I</w>
@@ -7648,7 +7656,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u249">
       <orthography>
         <u>
           <w>you</w>
@@ -7675,7 +7683,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u250">
       <orthography>
         <u>
           <w>woah</w>
@@ -7696,7 +7704,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u251">
       <orthography>
         <u>
           <w>do</w>
@@ -7744,7 +7752,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u252">
       <orthography>
         <u>
           <w>I</w>
@@ -7775,7 +7783,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u253">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -7806,7 +7814,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u254">
       <orthography>
         <u>
           <w>yeah</w>
@@ -7827,7 +7835,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u255">
       <orthography>
         <u>
           <w>and</w>
@@ -7866,7 +7874,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u256">
       <orthography>
         <u>
           <w>they</w>
@@ -7899,7 +7907,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u257">
       <orthography>
         <u>
           <w>on</w>
@@ -7923,7 +7931,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u258">
       <orthography>
         <u>
           <w>do</w>
@@ -7968,7 +7976,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u259">
       <orthography>
         <u>
           <w>daddy's</w>
@@ -7996,7 +8004,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u260">
       <orthography>
         <u>
           <w>daddy's</w>
@@ -8024,7 +8032,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u261">
       <orthography>
         <u>
           <w>yes</w>
@@ -8045,7 +8053,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u262">
       <orthography>
         <u>
           <e><happening>laughs</happening></e>
@@ -8088,7 +8096,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u263">
       <orthography>
         <u>
           <w>no</w>
@@ -8109,7 +8117,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u264">
       <orthography>
         <u>
           <w>no</w>
@@ -8131,7 +8139,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u265">
       <orthography>
         <u>
           <w>let's</w>
@@ -8156,7 +8164,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u266">
       <orthography>
         <u>
           <w>what's</w>
@@ -8181,7 +8189,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u267">
       <orthography>
         <u>
           <g><w type="omission">a</w><error></error></g>
@@ -8205,7 +8213,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u268">
       <orthography>
         <u>
           <w>firetruck</w>
@@ -8226,7 +8234,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u269">
       <orthography>
         <u>
           <e><happening>siren_sounds</happening></e>
@@ -8235,7 +8243,7 @@
       </orthography>
       <segment start="645.710" end="647.585" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u270">
       <orthography>
         <u>
           <w>and</w>
@@ -8268,7 +8276,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u271">
       <orthography>
         <u>
           <g><w>they</w><k type="retracing with correction"/></g>
@@ -8297,7 +8305,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u272">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -8306,7 +8314,7 @@
       </orthography>
       <segment start="653.222" end="655.120" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u273">
       <orthography>
         <u>
           <w>do</w>
@@ -8336,7 +8344,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u274">
       <orthography>
         <u>
           <w>they</w>
@@ -8373,7 +8381,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u275">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -8395,7 +8403,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u276">
       <orthography>
         <u>
           <w>and</w>
@@ -8444,7 +8452,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u277">
       <orthography>
         <u>
           <w>you</w>
@@ -8474,7 +8482,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u278">
       <orthography>
         <u>
           <w type="filler">well</w>
@@ -8508,7 +8516,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u279">
       <orthography>
         <u>
           <g><w>and</w><w>when</w><k type="retracing with correction"/></g>
@@ -8536,7 +8544,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u280">
       <orthography>
         <u>
           <w>when</w>
@@ -8585,7 +8593,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u281">
       <orthography>
         <u>
           <g><w>and</w><w>I</w><k type="retracing"/></g>
@@ -8620,7 +8628,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u282">
       <orthography>
         <u>
           <w>you</w>
@@ -8650,7 +8658,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u283">
       <orthography>
         <u>
           <w>do</w>
@@ -8683,7 +8691,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u284">
       <orthography>
         <u>
           <w>yeah</w>
@@ -8704,7 +8712,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u285">
       <orthography>
         <u>
           <w>yeah</w>
@@ -8725,7 +8733,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u286">
       <orthography>
         <u>
           <w>and</w>
@@ -8773,7 +8781,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u287">
       <orthography>
         <u>
           <w>yes</w>
@@ -8794,7 +8802,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u288">
       <orthography>
         <u>
           <w>yes</w>
@@ -8815,7 +8823,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u289">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -8824,7 +8832,7 @@
       </orthography>
       <segment start="692.010" end="693.068" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u290">
       <orthography>
         <u>
           <w>let's</w>
@@ -8849,7 +8857,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u291">
       <orthography>
         <u>
           <w>this</w>
@@ -8882,7 +8890,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u292">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -8916,7 +8924,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u293">
       <orthography>
         <u>
           <w>no</w>
@@ -8937,7 +8945,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u294">
       <orthography>
         <u>
           <w>no</w>
@@ -8958,7 +8966,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u295">
       <orthography>
         <u>
           <g><w>I</w><w>gotta</w><k type="retracing"/></g>
@@ -8984,7 +8992,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u296">
       <orthography>
         <u>
           <w>that's</w>
@@ -9012,7 +9020,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u297">
       <orthography>
         <u>
           <w>it's</w>
@@ -9040,7 +9048,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u298">
       <orthography>
         <u>
           <w>yes</w>
@@ -9061,7 +9069,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u299">
       <orthography>
         <u>
           <g><w>what</w><w>is</w><w>the</w><k type="retracing with correction"/></g>
@@ -9092,7 +9100,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u300">
       <orthography>
         <u>
           <w>I</w>
@@ -9129,7 +9137,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u301">
       <orthography>
         <u>
           <w>yeah</w>
@@ -9181,7 +9189,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u302">
       <orthography>
         <u>
           <w>no</w>
@@ -9233,7 +9241,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u303">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -9261,7 +9269,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u304">
       <orthography>
         <u>
           <w>yes</w>
@@ -9282,7 +9290,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u305">
       <orthography>
         <u>
           <w>cool</w>
@@ -9303,7 +9311,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u306">
       <orthography>
         <u>
           <g><g><w>and</w><k type="retracing"/></g><w>and</w><w>I</w><w>this</w><k type="retracing with correction"/></g>
@@ -9334,7 +9342,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u307">
       <orthography>
         <u>
           <w>it</w>
@@ -9364,7 +9372,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u308">
       <orthography>
         <u>
           <w>it's</w>
@@ -9392,7 +9400,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u309">
       <orthography>
         <u>
           <w>it's</w>
@@ -9429,7 +9437,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u310">
       <orthography>
         <u>
           <w>but</w>
@@ -9461,7 +9469,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u311">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -9483,7 +9491,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u312">
       <orthography>
         <u>
           <w>it's</w>
@@ -9511,7 +9519,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u313">
       <orthography>
         <u>
           <w>no</w>
@@ -9532,7 +9540,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u314">
       <orthography>
         <u>
           <w>let</w>
@@ -9574,7 +9582,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u315">
       <orthography>
         <u>
           <e><happening>grunts</happening></e>
@@ -9603,7 +9611,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u316">
       <orthography>
         <u>
           <w>do</w>
@@ -9648,7 +9656,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u317">
       <orthography>
         <u>
           <w>no</w>
@@ -9694,7 +9702,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u318">
       <orthography>
         <u>
           <w>they're</w>
@@ -9722,7 +9730,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u319">
       <orthography>
         <u>
           <w>no</w>
@@ -9743,7 +9751,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u320">
       <orthography>
         <u>
           <g><w>they</w><w>mean</w><k type="retracing with correction"/></g>
@@ -9789,7 +9797,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u321">
       <orthography>
         <u>
           <w>for</w>
@@ -9822,7 +9830,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u322">
       <orthography>
         <u>
           <w>yeah</w>
@@ -9843,7 +9851,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u323">
       <orthography>
         <u>
           <w>but</w>
@@ -9882,7 +9890,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u324">
       <orthography>
         <u>
           <w>yeah</w>
@@ -9915,7 +9923,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u325">
       <orthography>
         <u>
           <w>yeah</w>
@@ -9936,7 +9944,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u326">
       <orthography>
         <u>
           <w>so</w>
@@ -9981,7 +9989,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u327">
       <orthography>
         <u>
           <w>yes</w>
@@ -10002,7 +10010,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u328">
       <orthography>
         <u>
           <w>yeah</w>
@@ -10023,7 +10031,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u329">
       <orthography>
         <u>
           <g><w>and</w><w>I</w><k type="retracing"/></g>
@@ -10081,7 +10089,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u330">
       <orthography>
         <u>
           <w>you</w>
@@ -10105,7 +10113,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u331">
       <orthography>
         <u>
           <w>so</w>
@@ -10164,7 +10172,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u332">
       <orthography>
         <u>
           <w>and</w>
@@ -10209,7 +10217,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u333">
       <orthography>
         <u>
           <w>that's</w>
@@ -10246,7 +10254,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u334">
       <orthography>
         <u>
           <w>that's</w>
@@ -10286,7 +10294,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u335">
       <orthography>
         <u>
           <w type="filler">ah</w>
@@ -10295,7 +10303,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u336">
       <orthography>
         <u>
           <w>now</w>
@@ -10326,7 +10334,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u337">
       <orthography>
         <u>
           <w>when</w>
@@ -10384,7 +10392,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u338">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -10433,7 +10441,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u339">
       <orthography>
         <u>
           <w>some</w>
@@ -10463,7 +10471,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u340">
       <orthography>
         <u>
           <w>some</w>
@@ -10494,7 +10502,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u341">
       <orthography>
         <u>
           <w>but</w>
@@ -10521,7 +10529,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u342">
       <orthography>
         <u>
           <w type="filler">ooh</w>
@@ -10558,7 +10566,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u343">
       <orthography>
         <u>
           <g><w>does</w><w>this</w><k type="retracing with correction"/></g>
@@ -10592,7 +10600,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u344">
       <orthography>
         <u>
           <w>yep</w>
@@ -10613,7 +10621,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u345">
       <orthography>
         <u>
           <w>what</w>
@@ -10643,7 +10651,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u346">
       <orthography>
         <u>
           <w>cars</w>
@@ -10670,7 +10678,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u347">
       <orthography>
         <u>
           <w>cars</w>
@@ -10697,7 +10705,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u348">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -10706,7 +10714,7 @@
       </orthography>
       <segment start="836.172" end="838.595" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u349">
       <orthography>
         <u>
           <w>do</w>
@@ -10751,7 +10759,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u350">
       <orthography>
         <u>
           <w type="filler">mm</w>
@@ -10773,7 +10781,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u351">
       <orthography>
         <u>
           <w>yeah</w>
@@ -10824,7 +10832,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u352">
       <orthography>
         <u>
           <g><g><w>I'm</w><k type="retracing"/></g><w>I'm</w><k type="retracing with correction"/></g>
@@ -10866,7 +10874,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u353">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -10909,7 +10917,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u354">
       <orthography>
         <u>
           <w type="filler">uh</w>
@@ -10957,7 +10965,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u355">
       <orthography>
         <u>
           <g><w>I</w><k type="retracing"/></g>
@@ -10991,7 +10999,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u356">
       <orthography>
         <u>
           <w>I</w>
@@ -11030,7 +11038,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u357">
       <orthography>
         <u>
           <w>then</w>
@@ -11063,7 +11071,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u358">
       <orthography>
         <u>
           <w>okay</w>
@@ -11084,7 +11092,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u359">
       <orthography>
         <u>
           <w>can</w>
@@ -11120,7 +11128,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u360">
       <orthography>
         <u>
           <e><happening>grunts</happening></e>
@@ -11129,7 +11137,7 @@
       </orthography>
       <segment start="875.162" end="879.551" unit="s"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u361">
       <orthography>
         <u>
           <w>I</w>
@@ -11154,7 +11162,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u362">
       <orthography>
         <u>
           <e><happening>grunts</happening></e>
@@ -11194,7 +11202,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u363">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -11203,7 +11211,7 @@
       </orthography>
       <segment start="885.493" end="886.728" unit="s"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u364">
       <orthography>
         <u>
           <w>I</w>
@@ -11247,7 +11255,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u365">
       <orthography>
         <u>
           <w>mommy</w>
@@ -11295,7 +11303,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u366">
       <orthography>
         <u>
           <w>but</w>
@@ -11323,7 +11331,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u367">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>
@@ -11332,7 +11340,7 @@
       </orthography>
       <segment start="890.663" end="897.279" unit="s"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u368">
       <orthography>
         <u>
           <w>quell</w>
@@ -11360,7 +11368,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u369">
       <orthography>
         <u>
           <e><happening>laughs</happening></e>
@@ -11392,7 +11400,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u370">
       <orthography>
         <u>
           <g><w>I</w><w>think</w><k type="retracing"/></g>
@@ -11439,7 +11447,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u371">
       <orthography>
         <u>
           <w type="filler">well</w>
@@ -11497,7 +11505,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u372">
       <orthography>
         <u>
           <w type="filler">uh</w>
@@ -11529,7 +11537,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u373">
       <orthography>
         <u>
           <g><w type="filler">well</w><w>there's</w><w type="fragment">oth</w><k type="retracing with correction"/></g>
@@ -11583,7 +11591,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u374">
       <orthography>
         <u>
           <w>should</w>
@@ -11632,7 +11640,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u375">
       <orthography>
         <u>
           <g><w>I</w><w>don't</w><k type="retracing with correction"/></g>
@@ -11667,7 +11675,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u376">
       <orthography>
         <u>
           <w>okay</w>
@@ -11688,7 +11696,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u377">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -11717,7 +11725,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u378">
       <orthography>
         <u>
           <w>that's</w>
@@ -11754,7 +11762,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u379">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -11786,7 +11794,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u380">
       <orthography>
         <u>
           <w>yeah</w>
@@ -11807,7 +11815,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u381">
       <orthography>
         <u>
           <e><happening>grunts</happening></e>
@@ -11816,7 +11824,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u382">
       <orthography>
         <u>
           <e><happening>laughs</happening></e>
@@ -11825,7 +11833,7 @@
       </orthography>
       <segment start="927.626" end="945.664" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u383">
       <orthography>
         <u>
           <w>I'm</w>
@@ -11862,7 +11870,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u384">
       <orthography>
         <u>
           <w>you're</w>
@@ -11899,7 +11907,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u385">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -11908,7 +11916,7 @@
       </orthography>
       <segment start="950.418" end="952.909" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u386">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -11917,7 +11925,7 @@
       </orthography>
       <segment start="952.909" end="956.084" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u387">
       <orthography>
         <u>
           <w>you're</w>
@@ -11954,7 +11962,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u388">
       <orthography>
         <u>
           <g><w>how</w><w>do</w><w>you</w><w>get</w><w type="fragment">s</w><k type="retracing"/></g>
@@ -11988,7 +11996,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u389">
       <orthography>
         <u>
           <w>when</w>
@@ -12018,7 +12026,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u390">
       <orthography>
         <u>
           <w>when</w>
@@ -12048,7 +12056,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u391">
       <orthography>
         <u>
           <w>cool</w>
@@ -12069,7 +12077,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u392">
       <orthography>
         <u>
           <w>is</w>
@@ -12111,7 +12119,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u393">
       <orthography>
         <u>
           <w type="filler">like</w>
@@ -12133,7 +12141,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u394">
       <orthography>
         <u>
           <w>noodles</w>
@@ -12154,7 +12162,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u395">
       <orthography>
         <u>
           <w>yum</w>
@@ -12175,7 +12183,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u396">
       <orthography>
         <u>
           <w>what</w>
@@ -12214,7 +12222,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u397">
       <orthography>
         <u>
           <g><w>mom</w><w>this</w><w>is</w><k type="retracing with correction"/></g>
@@ -12249,7 +12257,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u398">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>
@@ -12258,7 +12266,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u399">
       <orthography>
         <u>
           <w>what</w>
@@ -12300,7 +12308,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u400">
       <orthography>
         <u>
           <w>cake</w>
@@ -12330,7 +12338,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u401">
       <orthography>
         <u>
           <w>it</w>
@@ -12360,7 +12368,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u402">
       <orthography>
         <u>
           <w>yes</w>
@@ -12381,7 +12389,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u403">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -12390,7 +12398,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u404">
       <orthography>
         <u>
           <w>small</w>
@@ -12420,7 +12428,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u405">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -12442,7 +12450,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u406">
       <orthography>
         <u>
           <w>it</w>
@@ -12478,7 +12486,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u407">
       <orthography>
         <u>
           <w>it</w>
@@ -12514,7 +12522,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u408">
       <orthography>
         <u>
           <w>uhoh</w>
@@ -12535,7 +12543,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u409">
       <orthography>
         <u>
           <w>then</w>
@@ -12604,7 +12612,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u410">
       <orthography>
         <u>
           <w>yeah</w>
@@ -12625,7 +12633,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u411">
       <orthography>
         <u>
           <w>and</w>
@@ -12664,7 +12672,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u412">
       <orthography>
         <u>
           <w>she's</w>
@@ -12689,7 +12697,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u413">
       <orthography>
         <u>
           <w>she's</w>
@@ -12714,7 +12722,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u414">
       <orthography>
         <u>
           <w type="filler">so</w>
@@ -12770,7 +12778,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u415">
       <orthography>
         <u>
           <g><w>I</w><w>don't</w><w>know</w><w>what</w><k type="retracing with correction"/></g>
@@ -12817,7 +12825,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u416">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -12826,7 +12834,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u417">
       <orthography>
         <u>
           <w>some</w>
@@ -12863,7 +12871,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="FEM">
+    <r speaker="FEM" id="u418">
       <orthography>
         <u>
           <e><action/></e>
@@ -12872,7 +12880,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u419">
       <orthography>
         <u>
           <e><action/></e>
@@ -12881,7 +12889,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u420">
       <orthography>
         <u>
           <g><w>done</w><w>with</w><k type="retracing with correction"/></g>
@@ -12911,7 +12919,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u421">
       <orthography>
         <u>
           <w>okay</w>
@@ -12955,7 +12963,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u422">
       <orthography>
         <u>
           <w>how</w>
@@ -12991,7 +12999,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u423">
       <orthography>
         <u>
           <w>eighty</w>
@@ -13015,7 +13023,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u424">
       <orthography>
         <u>
           <w>so</w>
@@ -13045,7 +13053,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u425">
       <orthography>
         <u>
           <w>mommy</w>
@@ -13080,7 +13088,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u426">
       <orthography>
         <u>
           <w type="filler">well</w>
@@ -13133,7 +13141,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u427">
       <orthography>
         <u>
           <w>can</w>
@@ -13173,7 +13181,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u428">
       <orthography>
         <u>
           <w>what</w>
@@ -13212,7 +13220,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u429">
       <orthography>
         <u>
           <w>some</w>
@@ -13236,7 +13244,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u430">
       <orthography>
         <u>
           <w>noodles</w>
@@ -13257,7 +13265,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u431">
       <orthography>
         <u>
           <w>you</w>
@@ -13297,7 +13305,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u432">
       <orthography>
         <u>
           <w>is</w>
@@ -13330,7 +13338,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u433">
       <orthography>
         <u>
           <w>can</w>
@@ -13366,7 +13374,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u434">
       <orthography>
         <u>
           <w type="filler">um</w>
@@ -13440,7 +13448,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u435">
       <orthography>
         <u>
           <w>and</w>
@@ -13503,7 +13511,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u436">
       <orthography>
         <u>
           <w type="filler">uh</w>
@@ -13529,7 +13537,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u437">
       <orthography>
         <u>
           <w>so</w>
@@ -13574,7 +13582,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u438">
       <orthography>
         <u>
           <w>and</w>
@@ -13637,7 +13645,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u439">
       <orthography>
         <u>
           <w>and</w>
@@ -13676,7 +13684,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u440">
       <orthography>
         <u>
           <w>and</w>
@@ -13700,7 +13708,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u441">
       <orthography>
         <u>
           <w>please</w>
@@ -13721,7 +13729,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u442">
       <orthography>
         <u>
           <w>and</w>
@@ -13754,7 +13762,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u443">
       <orthography>
         <u>
           <w>what</w>
@@ -13790,7 +13798,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u444">
       <orthography>
         <u>
           <w>we</w>
@@ -13820,7 +13828,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u445">
       <orthography>
         <u>
           <w type="filler">mm</w>
@@ -13829,7 +13837,7 @@
       </orthography>
       <segment start="1103.184" end="1104.709" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u446">
       <orthography>
         <u>
           <w>if</w>
@@ -13889,7 +13897,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u447">
       <orthography>
         <u>
           <w>that's</w>
@@ -13917,7 +13925,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u448">
       <orthography>
         <u>
           <w>if</w>
@@ -13983,7 +13991,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u449">
       <orthography>
         <u>
           <w>that's</w>
@@ -14017,7 +14025,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u450">
       <orthography>
         <u>
           <e><happening>laughs</happening></e>
@@ -14072,7 +14080,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u451">
       <orthography>
         <u>
           <w>what</w>
@@ -14111,7 +14119,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u452">
       <orthography>
         <u>
           <w>is</w>
@@ -14144,7 +14152,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u453">
       <orthography>
         <u>
           <g><w>yes</w><ga type="paralinguistics">whispers</ga></g>
@@ -14165,7 +14173,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u454">
       <orthography>
         <u>
           <w>yeah</w>
@@ -14210,7 +14218,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u455">
       <orthography>
         <u>
           <w>I</w>
@@ -14244,7 +14252,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u456">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -14290,7 +14298,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u457">
       <orthography>
         <u>
           <w>meatballs</w>
@@ -14311,7 +14319,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u458">
       <orthography>
         <u>
           <g><w>what's</w><w>that</w><k type="retracing with correction"/></g>
@@ -14333,7 +14341,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u459">
       <orthography>
         <u>
           <w>meatballs</w>
@@ -14354,7 +14362,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u460">
       <orthography>
         <u>
           <w>meatballs</w>
@@ -14375,7 +14383,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u461">
       <orthography>
         <u>
           <w>so</w>
@@ -14417,7 +14425,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u462">
       <orthography>
         <u>
           <w type="filler">ah</w>
@@ -14457,7 +14465,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u463">
       <orthography>
         <u>
           <w>or</w>
@@ -14481,7 +14489,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u464">
       <orthography>
         <u>
           <w>I</w>
@@ -14514,7 +14522,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u465">
       <orthography>
         <u>
           <w>you</w>
@@ -14541,7 +14549,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u466">
       <orthography>
         <u>
           <w>I</w>
@@ -14578,7 +14586,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u467">
       <orthography>
         <u>
           <w>you</w>
@@ -14617,7 +14625,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u468">
       <orthography>
         <u>
           <w>and</w>
@@ -14641,7 +14649,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u469">
       <orthography>
         <u>
           <w>yeah</w>
@@ -14662,7 +14670,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u470">
       <orthography>
         <u>
           <w type="filler">hm</w>
@@ -14690,7 +14698,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u471">
       <orthography>
         <u>
           <w>but</w>
@@ -14726,7 +14734,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u472">
       <orthography>
         <u>
           <w>like</w>
@@ -14756,7 +14764,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u473">
       <orthography>
         <u>
           <w>like</w>
@@ -14786,7 +14794,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u474">
       <orthography>
         <u>
           <w>like</w>
@@ -14816,7 +14824,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u475">
       <orthography>
         <u>
           <w>like</w>
@@ -14858,7 +14866,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u476">
       <orthography>
         <u>
           <w>I</w>
@@ -14915,7 +14923,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u477">
       <orthography>
         <u>
           <w>have</w>
@@ -14957,7 +14965,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u478">
       <orthography>
         <u>
           <w>these</w>
@@ -14987,7 +14995,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u479">
       <orthography>
         <u>
           <w type="filler">ooh</w>
@@ -14996,7 +15004,7 @@
       </orthography>
       <segment start="1184.128" end="1185.744" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u480">
       <orthography>
         <u>
           <w>do</w>
@@ -15029,7 +15037,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u481">
       <orthography>
         <u>
           <w>yeah</w>
@@ -15050,7 +15058,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u482">
       <orthography>
         <u>
           <w>where</w>
@@ -15077,7 +15085,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u483">
       <orthography>
         <u>
           <w>it</w>
@@ -15110,7 +15118,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u484">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -15150,7 +15158,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u485">
       <orthography>
         <u>
           <w>that's</w>
@@ -15181,7 +15189,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u486">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -15210,7 +15218,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u487">
       <orthography>
         <u>
           <w>we</w>
@@ -15243,7 +15251,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u488">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -15268,7 +15276,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u489">
       <orthography>
         <u>
           <w type="filler">well</w>
@@ -15300,7 +15308,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u490">
       <orthography>
         <u>
           <w type="filler">oh</w>
@@ -15331,7 +15339,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u491">
       <orthography>
         <u>
           <w>yeah</w>
@@ -15352,7 +15360,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u492">
       <orthography>
         <u>
           <w>okay</w>
@@ -15373,7 +15381,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="MOT">
+    <r speaker="MOT" id="u493">
       <orthography>
         <u>
           <e><action/></e>
@@ -15382,7 +15390,7 @@
       </orthography>
       <segment start="1215.385" end="1219.403" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u494">
       <orthography>
         <u>
           <w>decide</w>
@@ -15406,7 +15414,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u495">
       <orthography>
         <u>
           <w type="filler">so</w>
@@ -15449,7 +15457,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u496">
       <orthography>
         <u>
           <w>we</w>
@@ -15479,7 +15487,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u497">
       <orthography>
         <u>
           <w>you</w>
@@ -15509,7 +15517,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u498">
       <orthography>
         <u>
           <w>I</w>
@@ -15539,7 +15547,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u499">
       <orthography>
         <u>
           <w>you</w>
@@ -15572,7 +15580,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u500">
       <orthography>
         <u>
           <g><w><ca-delimiter type="begin" label="repeated-segment"/>the<ca-delimiter type="end" label="repeated-segment"/>these</w><k type="retracing"/></g>
@@ -15607,7 +15615,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u501">
       <orthography>
         <u>
           <w>those</w>
@@ -15637,7 +15645,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u502">
       <orthography>
         <u>
           <w>yeah</w>
@@ -15658,7 +15666,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u503">
       <orthography>
         <u>
           <w>alright</w>
@@ -15679,7 +15687,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u504">
       <orthography>
         <u>
           <w>one</w>
@@ -15715,7 +15723,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u505">
       <orthography>
         <u>
           <w>okay</w>
@@ -15751,7 +15759,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u506">
       <orthography>
         <u>
           <g><w>we</w><w>already</w><w type="fragment">h</w><k type="retracing with correction"/></g>
@@ -15782,7 +15790,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u507">
       <orthography>
         <u>
           <w>you</w>
@@ -15812,7 +15820,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u508">
       <orthography>
         <u>
           <w>first</w>
@@ -15833,7 +15841,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u509">
       <orthography>
         <u>
           <w>is</w>
@@ -15866,7 +15874,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u510">
       <orthography>
         <u>
           <w>and</w>
@@ -15899,7 +15907,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u511">
       <orthography>
         <u>
           <w>every</w>
@@ -15923,7 +15931,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u512">
       <orthography>
         <u>
           <g><w>every</w><k type="retracing with correction"/></g>
@@ -15960,7 +15968,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u513">
       <orthography>
         <u>
           <w>yes</w>
@@ -15981,7 +15989,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u514">
       <orthography>
         <u>
           <w>woah</w>
@@ -16002,7 +16010,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u515">
       <orthography>
         <u>
           <w untranscribed="unintelligible">xxx</w>
@@ -16025,7 +16033,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u516">
       <orthography>
         <u>
           <w>alright</w>

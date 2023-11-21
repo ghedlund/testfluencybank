@@ -2,6 +2,13 @@
 <session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="Hakim" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
   <languages>eng</languages>
   <mediaLocation>05</mediaLocation>
+  <metadata>
+    <md key="Mediatypes">audio</md>
+    <md key="DesignType">cross</md>
+    <md key="ActivityType">tests</md>
+    <md key="GroupType">CWS</md>
+    <md key="PID">11312/a-00005429-1</md>
+  </metadata>
   <participants>
     <participant id="INV">
       <role>Investigator</role>
@@ -29,7 +36,7 @@
     <comment type="Types">
       <tierData><tw>cross,</tw><tw>tests,</tw><tw>CWS</tw></tierData>
     </comment>
-    <r speaker="INV">
+    <r speaker="INV" id="u0">
       <orthography>
         <u>
           <e><action/></e>
@@ -38,7 +45,7 @@
       </orthography>
       <segment start="0.000" end="4.702" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u1">
       <orthography>
         <u>
           <e><action/></e>
@@ -47,7 +54,7 @@
       </orthography>
       <segment start="4.702" end="6.420" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u2">
       <orthography>
         <u>
           <e><action/></e>
@@ -56,7 +63,7 @@
       </orthography>
       <segment start="6.420" end="8.336" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u3">
       <orthography>
         <u>
           <e><action/></e>
@@ -65,7 +72,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u4">
       <orthography>
         <u>
           <e><action/></e>
@@ -77,7 +84,7 @@
         <tierData><tw>clinician</tw><tw>introduces</tw><tw>the</tw><tw>task</tw><tw>.</tw><internal-media start="8.336" end="9.880" unit="s"/></tierData>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u5">
       <orthography>
         <u>
           <w formType="neologism">gop</w>
@@ -98,7 +105,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u6">
       <orthography>
         <u>
           <w formType="neologism">gop</w>
@@ -122,7 +129,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u7">
       <orthography>
         <u>
           <w>good</w>
@@ -149,7 +156,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u8">
       <orthography>
         <u>
           <w formType="neologism">squimber</w>
@@ -170,7 +177,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u9">
       <orthography>
         <u>
           <w formType="neologism">squimber</w>
@@ -194,7 +201,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u10">
       <orthography>
         <u>
           <w formType="neologism">allonic</w>
@@ -215,7 +222,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u11">
       <orthography>
         <u>
           <w formType="neologism">allonic</w>
@@ -239,7 +246,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u12">
       <orthography>
         <u>
           <w>okay</w>
@@ -260,7 +267,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u13">
       <orthography>
         <u>
           <e><action/></e>
@@ -269,7 +276,7 @@
       </orthography>
       <segment start="22.372" end="29.524" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u14">
       <orthography>
         <u>
           <w formType="neologism">gop</w>
@@ -290,7 +297,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u15">
       <orthography>
         <u>
           <w formType="neologism">gop</w>
@@ -314,7 +321,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u16">
       <orthography>
         <u>
           <w>mhm</w>
@@ -338,7 +345,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u17">
       <orthography>
         <u>
           <w formType="neologism">squimber</w>
@@ -362,7 +369,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u18">
       <orthography>
         <u>
           <w formType="neologism">alonic</w>
@@ -383,7 +390,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u19">
       <orthography>
         <u>
           <w formType="neologism">alonic</w>
@@ -407,7 +414,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u20">
       <orthography>
         <u>
           <w formType="neologism">pennel</w>
@@ -428,7 +435,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u21">
       <orthography>
         <u>
           <w formType="neologism">loddenapish</w>
@@ -452,7 +459,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u22">
       <orthography>
         <u>
           <w>good</w>
@@ -476,7 +483,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u23">
       <orthography>
         <u>
           <w formType="neologism">commerine</w>
@@ -500,7 +507,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u24">
       <orthography>
         <u>
           <w>mhm</w>
@@ -521,7 +528,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u25">
       <orthography>
         <u>
           <w formType="neologism">bannow</w>
@@ -542,7 +549,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u26">
       <orthography>
         <u>
           <w>you're</w>
@@ -570,7 +577,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u27">
       <orthography>
         <u>
           <e><action/></e>
@@ -579,7 +586,7 @@
       </orthography>
       <segment start="84.219" end="85.496" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u28">
       <orthography>
         <u>
           <w formType="neologism">barranzon</w>
@@ -603,7 +610,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u29">
       <orthography>
         <u>
           <w formType="neologism">commeecitate</w>
@@ -627,7 +634,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u30">
       <orthography>
         <u>
           <w formType="neologism">ballop</w>
@@ -648,7 +655,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u31">
       <orthography>
         <u>
           <w formType="neologism">ballop</w>
@@ -669,7 +676,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u32">
       <orthography>
         <u>
           <w formType="neologism">rubid</w>
@@ -690,7 +697,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u33">
       <orthography>
         <u>
           <w formType="neologism">rubid</w>
@@ -711,7 +718,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u34">
       <orthography>
         <u>
           <e><action/></e>
@@ -720,7 +727,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u35">
       <orthography>
         <u>
           <w formType="neologism">pristoractional</w>
@@ -741,7 +748,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u36">
       <orthography>
         <u>
           <w formType="neologism">pristoractional</w>
@@ -765,7 +772,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u37">
       <orthography>
         <u>
           <w formType="neologism">penneriful</w>
@@ -786,7 +793,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u38">
       <orthography>
         <u>
           <w formType="neologism">penneriful</w>
@@ -810,7 +817,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u39">
       <orthography>
         <u>
           <w>you</w>
@@ -843,7 +850,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u40">
       <orthography>
         <u>
           <e><action/></e>
@@ -852,7 +859,7 @@
       </orthography>
       <segment start="121.069" end="124.134" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u41">
       <orthography>
         <u>
           <w formType="neologism">altupatory</w>
@@ -873,7 +880,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u42">
       <orthography>
         <u>
           <w formType="neologism">altupatory</w>
@@ -897,7 +904,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u43">
       <orthography>
         <u>
           <e><action/></e>
@@ -906,7 +913,7 @@
       </orthography>
       <segment start="129.126" end="131.936" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u44">
       <orthography>
         <u>
           <w formType="neologism">detratapillic</w>
@@ -927,7 +934,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u45">
       <orthography>
         <u>
           <w formType="neologism">detratapillic</w>
@@ -951,7 +958,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u46">
       <orthography>
         <u>
           <e><action/></e>
@@ -960,7 +967,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u47">
       <orthography>
         <u>
           <w formType="neologism">voltularity</w>
@@ -981,7 +988,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u48">
       <orthography>
         <u>
           <w formType="neologism">voltularity</w>
@@ -1005,7 +1012,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u49">
       <orthography>
         <u>
           <e><action/></e>
@@ -1014,7 +1021,7 @@
       </orthography>
       <segment start="143.940" end="152.067" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u50">
       <orthography>
         <u>
           <e><action/></e>
@@ -1026,7 +1033,7 @@
         <tierData><tw>trying</tw><tw>to</tw><tw>get</tw><tw>the</tw><tw>child</tw><tw>to</tw><tw>perform</tw><tw>the</tw><tw>task</tw></tierData>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u51">
       <orthography>
         <u>
           <w formType="neologism">rubid</w>
@@ -1047,7 +1054,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u52">
       <orthography>
         <u>
           <w formType="neologism">rubid</w>
@@ -1071,7 +1078,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u53">
       <orthography>
         <u>
           <w formType="neologism">penneriful</w>
@@ -1092,7 +1099,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u54">
       <orthography>
         <u>
           <w formType="neologism">penneriful</w>
@@ -1116,7 +1123,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u55">
       <orthography>
         <u>
           <e><action/></e>
@@ -1125,7 +1132,7 @@
       </orthography>
       <segment start="177.621" end="186.654" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u56">
       <orthography>
         <u>
           <e><action/></e>
@@ -1134,7 +1141,7 @@
       </orthography>
       <segment start="186.654" end="195.756" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u57">
       <orthography>
         <u>
           <e><action/></e>
@@ -1146,7 +1153,7 @@
         <tierData><tw>tries</tw><tw>to</tw><tw>get</tw><tw>child</tw><tw>to</tw><tw>do</tw><tw>task</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u58">
       <orthography>
         <u>
           <e><action/></e>
@@ -1155,7 +1162,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u59">
       <orthography>
         <u>
           <w formType="neologism">detratapillic</w>
@@ -1176,7 +1183,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u60">
       <orthography>
         <u>
           <w formType="neologism">detratapillic</w>
@@ -1200,7 +1207,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u61">
       <orthography>
         <u>
           <w>good</w>
@@ -1221,7 +1228,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u62">
       <orthography>
         <u>
           <w formType="neologism">voltularity</w>
@@ -1242,7 +1249,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u63">
       <orthography>
         <u>
           <w formType="neologism">voltularity</w>
@@ -1266,7 +1273,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u64">
       <orthography>
         <u>
           <w formType="neologism">perplisteronk</w>
@@ -1287,7 +1294,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u65">
       <orthography>
         <u>
           <w formType="neologism">perplisteronk</w>
@@ -1311,7 +1318,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u66">
       <orthography>
         <u>
           <w formType="neologism">diller</w>
@@ -1332,7 +1339,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u67">
       <orthography>
         <u>
           <w formType="neologism">diller</w>
@@ -1356,7 +1363,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u68">
       <orthography>
         <u>
           <e><action/></e>
@@ -1365,7 +1372,7 @@
       </orthography>
       <segment start="230.017" end="231.991" unit="s"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u69">
       <orthography>
         <u>
           <e><action/></e>
@@ -1374,7 +1381,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u70">
       <orthography>
         <u>
           <w formType="neologism">glistow</w>
@@ -1395,7 +1402,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u71">
       <orthography>
         <u>
           <w formType="neologism">glistow</w>
@@ -1416,7 +1423,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u72">
       <orthography>
         <u>
           <w>you're</w>
@@ -1444,7 +1451,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u73">
       <orthography>
         <u>
           <w>Pikachu</w>
@@ -1465,7 +1472,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u74">
       <orthography>
         <u>
           <w>you</w>
@@ -1496,7 +1503,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u75">
       <orthography>
         <u>
           <e><action/></e>
@@ -1505,7 +1512,7 @@
       </orthography>
       <segment start="238.353" end="242.486" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u76">
       <orthography>
         <u>
           <w formType="neologism">defermication</w>
@@ -1526,7 +1533,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u77">
       <orthography>
         <u>
           <e><action/></e>
@@ -1535,7 +1542,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u78">
       <orthography>
         <u>
           <e><action/></e>
@@ -1547,7 +1554,7 @@
         <tierData><tw>tries</tw><tw>to</tw><tw>get</tw><tw>child</tw><tw>back</tw><tw>on</tw><tw>task</tw><tw>.</tw><internal-media start="242.486" end="259.019" unit="s"/></tierData>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u79">
       <orthography>
         <u>
           <w formType="neologism">glistow</w>
@@ -1568,7 +1575,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u80">
       <orthography>
         <u>
           <w formType="neologism">glistow</w>
@@ -1589,7 +1596,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u81">
       <orthography>
         <u>
           <w>good</w>
@@ -1613,7 +1620,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u82">
       <orthography>
         <u>
           <w formType="neologism">defermication</w>
@@ -1634,7 +1641,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u83">
       <orthography>
         <u>
           <w formType="neologism">defermication</w>
@@ -1658,7 +1665,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u84">
       <orthography>
         <u>
           <w formType="neologism">thickery</w>
@@ -1679,7 +1686,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u85">
       <orthography>
         <u>
           <w formType="neologism">thickery</w>
@@ -1703,7 +1710,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u86">
       <orthography>
         <u>
           <w formType="neologism">brasterer</w>
@@ -1724,7 +1731,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u87">
       <orthography>
         <u>
           <w formType="neologism">brasterer</w>
@@ -1745,7 +1752,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u88">
       <orthography>
         <u>
           <w>nice</w>
@@ -1769,7 +1776,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u89">
       <orthography>
         <u>
           <w formType="neologism">blonterstaping</w>
@@ -1790,7 +1797,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u90">
       <orthography>
         <u>
           <w formType="neologism">blonterstaping</w>
@@ -1814,7 +1821,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u91">
       <orthography>
         <u>
           <w formType="neologism">contramponist</w>
@@ -1835,7 +1842,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u92">
       <orthography>
         <u>
           <w formType="neologism">contramponist</w>
@@ -1859,7 +1866,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u93">
       <orthography>
         <u>
           <w formType="neologism">tafflest</w>
@@ -1880,7 +1887,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u94">
       <orthography>
         <u>
           <w formType="neologism">tafflest</w>
@@ -1904,7 +1911,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u95">
       <orthography>
         <u>
           <w>good</w>
@@ -1937,7 +1944,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u96">
       <orthography>
         <u>
           <w formType="neologism">woogalamic</w>
@@ -1958,7 +1965,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u97">
       <orthography>
         <u>
           <w formType="neologism">woogalamic</w>
@@ -1982,7 +1989,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u98">
       <orthography>
         <u>
           <w formType="neologism">bannifer</w>
@@ -2003,7 +2010,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u99">
       <orthography>
         <u>
           <w formType="neologism">bannifer</w>
@@ -2024,7 +2031,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u100">
       <orthography>
         <u>
           <w>good</w>
@@ -2048,7 +2055,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u101">
       <orthography>
         <u>
           <w formType="neologism">fenneriser</w>
@@ -2069,7 +2076,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u102">
       <orthography>
         <u>
           <w formType="neologism">fenneriser</w>
@@ -2090,7 +2097,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u103">
       <orthography>
         <u>
           <w>good</w>
@@ -2120,7 +2127,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u104">
       <orthography>
         <u>
           <e><action/></e>
@@ -2129,7 +2136,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u105">
       <orthography>
         <u>
           <w formType="neologism">stopograttic</w>
@@ -2150,7 +2157,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u106">
       <orthography>
         <u>
           <w formType="neologism">stopograttic</w>
@@ -2174,7 +2181,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u107">
       <orthography>
         <u>
           <w formType="neologism">skiticult</w>
@@ -2195,7 +2202,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u108">
       <orthography>
         <u>
           <w formType="neologism">skiticult</w>
@@ -2219,7 +2226,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u109">
       <orthography>
         <u>
           <w formType="neologism">empliforvent</w>
@@ -2240,7 +2247,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u110">
       <orthography>
         <u>
           <w formType="neologism">empliforvent</w>
@@ -2264,7 +2271,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u111">
       <orthography>
         <u>
           <w formType="neologism">penneriful</w>
@@ -2285,7 +2292,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u112">
       <orthography>
         <u>
           <w formType="neologism">penneriful</w>
@@ -2309,7 +2316,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u113">
       <orthography>
         <u>
           <w formType="neologism">woogalamic</w>
@@ -2330,7 +2337,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u114">
       <orthography>
         <u>
           <w formType="neologism">woogalamic</w>
@@ -2354,7 +2361,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u115">
       <orthography>
         <u>
           <w formType="neologism">perplisteronk</w>
@@ -2375,7 +2382,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u116">
       <orthography>
         <u>
           <w formType="neologism">perplisteronk</w>
@@ -2399,7 +2406,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u117">
       <orthography>
         <u>
           <w formType="neologism">contramponist</w>
@@ -2420,7 +2427,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u118">
       <orthography>
         <u>
           <w formType="neologism">contramponist</w>
@@ -2444,7 +2451,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u119">
       <orthography>
         <u>
           <w formType="neologism">underbrantuand</w>
@@ -2465,7 +2472,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u120">
       <orthography>
         <u>
           <w formType="neologism">underbrantuand</w>
@@ -2489,7 +2496,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u121">
       <orthography>
         <u>
           <e><action/></e>
@@ -2498,7 +2505,7 @@
       </orthography>
       <segment start="382.839" end="413.246" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u122">
       <orthography>
         <u>
           <e><action/></e>
@@ -2507,7 +2514,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u123">
       <orthography>
         <u>
           <e><action/></e>
@@ -2516,7 +2523,7 @@
       </orthography>
       <segment start="413.246" end="418.934" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u124">
       <orthography>
         <u>
           <e><action/></e>
@@ -2528,7 +2535,7 @@
         <tierData><tw>trying</tw><tw>to</tw><tw>get</tw><tw>child</tw><tw>to</tw><tw>continue</tw><tw>the</tw><tw>task</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u125">
       <orthography>
         <u>
           <w formType="neologism">commeecitate</w>
@@ -2549,7 +2556,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u126">
       <orthography>
         <u>
           <w formType="neologism">commeecitate</w>
@@ -2573,7 +2580,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u127">
       <orthography>
         <u>
           <w formType="neologism">trumpetine</w>
@@ -2594,7 +2601,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u128">
       <orthography>
         <u>
           <w formType="neologism">trumpetine</w>
@@ -2618,7 +2625,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u129">
       <orthography>
         <u>
           <w formType="neologism">fenneriser</w>
@@ -2639,7 +2646,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u130">
       <orthography>
         <u>
           <w formType="neologism">fenneriser</w>
@@ -2663,7 +2670,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u131">
       <orthography>
         <u>
           <w>nice</w>
@@ -2684,7 +2691,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u132">
       <orthography>
         <u>
           <w formType="neologism">confrantually</w>
@@ -2705,7 +2712,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u133">
       <orthography>
         <u>
           <w formType="neologism">confrantually</w>
@@ -2726,7 +2733,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u134">
       <orthography>
         <u>
           <w formType="neologism">blonterstaping</w>
@@ -2747,7 +2754,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u135">
       <orthography>
         <u>
           <w formType="neologism">blonterstaping</w>
@@ -2771,7 +2778,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u136">
       <orthography>
         <u>
           <w formType="neologism">hampent</w>
@@ -2792,7 +2799,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u137">
       <orthography>
         <u>
           <w formType="neologism">hampent</w>
@@ -2816,7 +2823,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u138">
       <orthography>
         <u>
           <e><action/></e>
@@ -2825,7 +2832,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u139">
       <orthography>
         <u>
           <w formType="neologism">prindle</w>
@@ -2846,7 +2853,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u140">
       <orthography>
         <u>
           <w formType="neologism">prindle</w>
@@ -2870,7 +2877,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u141">
       <orthography>
         <u>
           <w formType="neologism">loddenapish</w>
@@ -2891,7 +2898,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u142">
       <orthography>
         <u>
           <w formType="neologism">loddenapish</w>
@@ -2915,7 +2922,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u143">
       <orthography>
         <u>
           <e><action/></e>
@@ -2924,7 +2931,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u144">
       <orthography>
         <u>
           <e><action/></e>
@@ -2933,7 +2940,7 @@
       </orthography>
       <segment start="477.066" end="491.160" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u145">
       <orthography>
         <u>
           <e><action/></e>
@@ -2945,7 +2952,7 @@
         <tierData><tw>trying</tw><tw>to</tw><tw>get</tw><tw>child</tw><tw>back</tw><tw>on</tw><tw>task</tw><tw>.</tw><internal-media start="491.160" end="524.318" unit="s"/></tierData>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u146">
       <orthography>
         <u>
           <w formType="neologism">sladding</w>
@@ -2966,7 +2973,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u147">
       <orthography>
         <u>
           <w formType="neologism">sladding</w>
@@ -2987,7 +2994,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u148">
       <orthography>
         <u>
           <e><action/></e>
@@ -2996,7 +3003,7 @@
       </orthography>
       <segment start="0.0" end="0.0" unit="ms"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u149">
       <orthography>
         <u>
           <e><action/></e>
@@ -3008,7 +3015,7 @@
         <tierData><tw>trying</tw><tw>to</tw><tw>get</tw><tw>child</tw><tw>back</tw><tw>on</tw><tw>task</tw><tw>.</tw></tierData>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u150">
       <orthography>
         <u>
           <w formType="neologism">loddenapish</w>
@@ -3029,7 +3036,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u151">
       <orthography>
         <u>
           <w formType="neologism">loddenapish</w>
@@ -3053,7 +3060,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u152">
       <orthography>
         <u>
           <w formType="neologism">sladding</w>
@@ -3074,7 +3081,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u153">
       <orthography>
         <u>
           <w formType="neologism">sladding</w>
@@ -3098,7 +3105,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u154">
       <orthography>
         <u>
           <w formType="neologism">frescovent</w>
@@ -3119,7 +3126,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u155">
       <orthography>
         <u>
           <w formType="neologism">frescovent</w>
@@ -3143,7 +3150,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u156">
       <orthography>
         <u>
           <w formType="neologism">sepretennial</w>
@@ -3164,7 +3171,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u157">
       <orthography>
         <u>
           <w formType="neologism">sepretennial</w>
@@ -3188,7 +3195,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u158">
       <orthography>
         <u>
           <w formType="neologism">doppelate</w>
@@ -3209,7 +3216,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u159">
       <orthography>
         <u>
           <w formType="neologism">doppelate</w>
@@ -3230,7 +3237,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u160">
       <orthography>
         <u>
           <w formType="neologism">glistering</w>
@@ -3251,7 +3258,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u161">
       <orthography>
         <u>
           <w formType="neologism">glistering</w>
@@ -3275,7 +3282,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u162">
       <orthography>
         <u>
           <w formType="neologism">stopograttic</w>
@@ -3296,7 +3303,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u163">
       <orthography>
         <u>
           <w formType="neologism">stopograttic</w>
@@ -3320,7 +3327,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u164">
       <orthography>
         <u>
           <w formType="neologism">versatrationist</w>
@@ -3341,7 +3348,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u165">
       <orthography>
         <u>
           <w formType="neologism">versatrationist</w>
@@ -3365,7 +3372,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u166">
       <orthography>
         <u>
           <w formType="neologism">empliforvent</w>
@@ -3386,7 +3393,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u167">
       <orthography>
         <u>
           <w formType="neologism">empliforvent</w>
@@ -3410,7 +3417,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u168">
       <orthography>
         <u>
           <w formType="neologism">reutterpation</w>
@@ -3431,7 +3438,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="CHI">
+    <r speaker="CHI" id="u169">
       <orthography>
         <u>
           <w formType="neologism">reutterpation</w>
@@ -3455,7 +3462,7 @@
         </gras>
       </userTier>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u170">
       <orthography>
         <u>
           <e><action/></e>
@@ -3464,7 +3471,7 @@
       </orthography>
       <segment start="631.989" end="640.174" unit="s"/>
     </r>
-    <r speaker="INV">
+    <r speaker="INV" id="u171">
       <orthography>
         <u>
           <e><action/></e>
