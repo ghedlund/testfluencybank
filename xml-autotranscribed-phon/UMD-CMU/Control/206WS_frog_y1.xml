@@ -1,0 +1,1356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="UMD-CMU" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <mediaLocation>206WS_frog_y1</mediaLocation>
+  <metadata>
+    <md key="Mediatypes">video</md>
+    <md key="DesignType">cross</md>
+    <md key="ActivityType">narrative</md>
+    <md key="GroupType">TD</md>
+    <md key="PID">11312/a-00050299-1</md>
+  </metadata>
+  <participants>
+    <participant id="CLI">
+      <role>Investigator</role>
+      <name>TS206WS</name>
+      <languages>eng</languages>
+    </participant>
+    <participant id="CHI">
+      <role>Child</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
+  </userTiers>
+  <transcript>
+    <comment type="Transcriber">
+      <tierData><tw>Taylor_Baron</tw></tierData>
+    </comment>
+    <comment type="Types">
+      <tierData><tw>cross,</tw><tw>narrative,</tw><tw>TD</tw></tierData>
+    </comment>
+    <r speaker="CHI" id="u0">
+      <orthography>
+        <u>
+          <w>it's</w>
+          <w>the</w>
+          <w>boy's</w>
+          <w>pets</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>t</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ɛ</base></ph><ph><base>t</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>t</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ɛ</base></ph><ph><base>t</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.000" end="3.998" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>boy</stem><mk type="sfxf">dn</mk><mk type="sfx">POSS</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>pet</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="5" relation="DET"/>
+          <gra index="4" head="5" relation="MOD"/>
+          <gra index="5" head="2" relation="PRED"/>
+          <gra index="6" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u1">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>wow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph></pw></pho>
+      </ipaActual>
+      <segment start="3.998" end="5.671" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>wow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u2">
+      <orthography>
+        <u>
+          <w>tell</w>
+          <w>me</w>
+          <w>more</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaActual>
+      <segment start="5.671" end="8.377" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>tell</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>obj</subc></pos><stem>me</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>more</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="OBJ"/>
+          <gra index="3" head="1" relation="OBJ"/>
+          <gra index="4" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u3">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <g><w>the</w><k type="retracing"/></g>
+          <w>the</w>
+          <w>frog</w>
+          <w>ran</w>
+          <w>away</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="8.377" end="16.382" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>run</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>away</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="LINK"/>
+          <gra index="2" head="5" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u4">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>no</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="16.382" end="18.955" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u5">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <w>what</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="18.955" end="20.896" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="LINK"/>
+          <gra index="2" head="3" relation="JCT"/>
+          <gra index="3" head="0" relation="INCROOT"/>
+          <gra index="4" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u6">
+      <orthography>
+        <u>
+          <w>tell</w>
+          <w>me</w>
+          <w>more</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaActual>
+      <segment start="20.896" end="22.133" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>tell</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>obj</subc></pos><stem>me</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>more</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="OBJ"/>
+          <gra index="3" head="1" relation="OBJ"/>
+          <gra index="4" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u7">
+      <orthography>
+        <u>
+          <g><w>and</w><w>then</w><w>she</w><k type="retracing with correction"/></g>
+          <g><w>and</w><w>then</w><w>the</w><w>doggy</w><k type="retracing"/></g>
+          <w>and</w>
+          <w>then</w>
+          <w>the</w>
+          <w>doggy</w>
+          <g><w>went</w><k type="retracing with correction"/></g>
+          <g><w>got</w><w>stuck</w><w>in</w><w>the</w><k type="retracing with correction"/></g>
+          <w>she</w>
+          <w>didn't</w>
+          <w>get</w>
+          <w>his</w>
+          <w>stuck</w>
+          <w>head</w>
+          <w>out</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>ɾ</base></ph><ph><base>n</base><combining>̩</combining></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɪ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɛ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>t</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>ɾ</base></ph><ph><base>n</base><combining>̩</combining></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɪ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɛ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>t</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="22.133" end="38.157" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>dog</stem><mk type="sfxf">dn</mk><mk type="sfx">Y</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>she</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>get</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>stick</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>head</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>out</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="8" relation="LINK"/>
+          <gra index="5" head="8" relation="SUBJ"/>
+          <gra index="6" head="8" relation="AUX"/>
+          <gra index="7" head="6" relation="NEG"/>
+          <gra index="8" head="0" relation="ROOT"/>
+          <gra index="9" head="10" relation="DET"/>
+          <gra index="10" head="8" relation="COMP"/>
+          <gra index="11" head="10" relation="OBJ"/>
+          <gra index="12" head="10" relation="JCT"/>
+          <gra index="13" head="8" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u8">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u9">
+      <orthography>
+        <u>
+          <g><w>and</w><w>then</w><w>she</w><k type="retracing"/></g>
+          <w>and</w>
+          <w>then</w>
+          <w>she</w>
+          <w>got</w>
+          <w>stuck</w>
+          <w>in</w>
+          <w>the</w>
+          <w>bucket</w>
+          <w>because</w>
+          <g><w>look</w><k type="retracing"/></g>
+          <w>look</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><ph><base>b</base></ph><ph><base>ɪ</base></ph><stress type="primary"/><ph><base>k</base></ph><ph><base>ɑ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʌ</base></ph><ph><base>k</base></ph><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><ph><base>b</base></ph><ph><base>ɪ</base></ph><stress type="primary"/><ph><base>k</base></ph><ph><base>ɑ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="38.157" end="54.717" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>she</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>get</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>stick</stem><mk type="sfxf">PASTP</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>bucket</stem></mw></mor>
+          <mor><mw><pos><c>conj</c></pos><stem>because</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>look</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="LINK"/>
+          <gra index="2" head="5" relation="JCT"/>
+          <gra index="3" head="5" relation="SUBJ"/>
+          <gra index="4" head="5" relation="AUX"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="10" relation="MOD"/>
+          <gra index="10" head="5" relation="CJCT"/>
+          <gra index="11" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u10">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>no</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="54.717" end="56.639" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u11">
+      <orthography>
+        <u>
+          <w>he</w>
+          <w>looks</w>
+          <w>so</w>
+          <w>silly</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>ɪ</base></ph><ph><base>l</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>ɪ</base></ph><ph><base>l</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="56.639" end="58.294" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>look</stem><mk type="sfx">3S</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>so</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>silly</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="JCT"/>
+          <gra index="4" head="2" relation="COMP"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u12">
+      <orthography>
+        <u>
+          <w>then</w>
+          <w>the</w>
+          <w>boy</w>
+          <w>asked</w>
+          <w>the</w>
+          <w>frog</w>
+          <w>to</w>
+          <w>come</w>
+          <w>back</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>s</base></ph><ph><base>k</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>æ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>s</base></ph><ph><base>k</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>æ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="58.294" end="66.732" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>ask</stem><mk type="sfx">PASTP</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>come</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>back</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="8" relation="JCT"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="8" relation="SUBJ"/>
+          <gra index="4" head="3" relation="XMOD"/>
+          <gra index="5" head="6" relation="DET"/>
+          <gra index="6" head="4" relation="OBJ"/>
+          <gra index="7" head="8" relation="INF"/>
+          <gra index="8" head="0" relation="ROOT"/>
+          <gra index="9" head="8" relation="JCT"/>
+          <gra index="10" head="8" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u13">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <g><w>she</w><k type="retracing with correction"/></g>
+          <w>the</w>
+          <w>frog</w>
+          <w>didn't</w>
+          <w>come</w>
+          <w><ca-delimiter type="begin" label="repeated-segment"/>b<ca-delimiter type="end" label="repeated-segment"/>back</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>ɾ</base></ph><ph><base>n</base><combining>̩</combining></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><ph><base>*</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>ɾ</base></ph><ph><base>n</base><combining>̩</combining></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><ph><base>*</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="66.732" end="72.624" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>come</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>back</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="7" relation="LINK"/>
+          <gra index="2" head="7" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="7" relation="SUBJ"/>
+          <gra index="5" head="7" relation="AUX"/>
+          <gra index="6" head="5" relation="NEG"/>
+          <gra index="7" head="0" relation="ROOT"/>
+          <gra index="8" head="7" relation="JCT"/>
+          <gra index="9" head="7" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u14">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="72.624" end="73.517" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u15">
+      <orthography>
+        <u>
+          <g><w>but</w><k type="retracing"/></g>
+          <w>but</w>
+          <g><w>the</w><w>dog</w><k type="retracing"/></g>
+          <w>the</w>
+          <w>dog</w>
+          <w>looked</w>
+          <w>everywhere</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɛ</base></ph><ph><base>v</base></ph><ph><base>ɹ</base></ph><ph><base>i</base></ph><stress type="secondary"/><ph><base>w</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>ʊ</base></ph><ph><base>k</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɛ</base></ph><ph><base>v</base></ph><ph><base>ɹ</base></ph><ph><base>i</base></ph><stress type="secondary"/><ph><base>w</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaActual>
+      <segment start="73.517" end="84.699" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>conj</c></pos><stem>but</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>dog</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>look</stem><mk type="sfx">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>everywhere</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u16">
+      <orthography>
+        <u>
+          <g><w>and</w><w>then</w><k type="retracing"/></g>
+          <w>and</w>
+          <w>then</w>
+          <w>the</w>
+          <w>frog</w>
+          <w>came</w>
+          <w>back</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>e</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>æ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>e</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>æ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="84.699" end="92.719" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>frog</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>come</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>back</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="LINK"/>
+          <gra index="2" head="5" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u17">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u18">
+      <orthography>
+        <u>
+          <g><w>and</w><k type="retracing"/></g>
+          <w>and</w>
+          <w>then</w>
+          <w>the</w>
+          <w>dog</w>
+          <w>is</w>
+          <w>going</w>
+          <w>this</w>
+          <w>way</w>
+          <w>and</w>
+          <w>then</w>
+          <w>it's</w>
+          <w>going</w>
+          <w>to</w>
+          <w>climb</w>
+          <w>up</w>
+          <w>the</w>
+          <w>tree</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph><ph><base>ə</base></ph><ph><base>n</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>t</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph><ph><base>ə</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>p</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɹ</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph><ph><base>ə</base></ph><ph><base>n</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>t</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph><ph><base>ə</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>p</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɹ</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="92.719" end="103.832" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>dog</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>way</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw><mor-post><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>climb</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>up</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>tree</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="6" relation="LINK"/>
+          <gra index="2" head="6" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="6" relation="SUBJ"/>
+          <gra index="5" head="6" relation="AUX"/>
+          <gra index="6" head="0" relation="ROOT"/>
+          <gra index="7" head="13" relation="SUBJ"/>
+          <gra index="8" head="13" relation="JCT"/>
+          <gra index="9" head="13" relation="LINK"/>
+          <gra index="10" head="13" relation="JCT"/>
+          <gra index="11" head="13" relation="SUBJ"/>
+          <gra index="12" head="13" relation="AUX"/>
+          <gra index="13" head="6" relation="COMP"/>
+          <gra index="14" head="15" relation="INF"/>
+          <gra index="15" head="13" relation="COMP"/>
+          <gra index="16" head="15" relation="JCT"/>
+          <gra index="17" head="18" relation="DET"/>
+          <gra index="18" head="16" relation="POBJ"/>
+          <gra index="19" head="6" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u19">
+      <orthography>
+        <u>
+          <w>woah</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="103.832" end="105.836" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>woah</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u20">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <g><w>this</w><k type="retracing with correction"/></g>
+          <w>the</w>
+          <w>boy</w>
+          <w>fell</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="105.836" end="111.836" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>fall</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="LINK"/>
+          <gra index="2" head="5" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u21">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <w type="filler">uh</w>
+          <w>he</w>
+          <w>fell</w>
+          <w>from</w>
+          <w>the</w>
+          <w>bush</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><ph><base>f</base></ph><ph><base>ɚ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʊ</base></ph><ph><base>ʃ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><ph><base>f</base></ph><ph><base>ɚ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ʊ</base></ph><ph><base>ʃ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="111.836" end="118.389" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>fall</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>from</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>bush</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u22">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u23">
+      <orthography>
+        <u>
+          <w>from</w>
+          <w>the</w>
+          <w>owl</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>f</base></ph><ph><base>ɚ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>ɫ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>f</base></ph><ph><base>ɚ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>ɫ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="118.389" end="121.564" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>prep</c></pos><stem>from</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>owl</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="1" relation="POBJ"/>
+          <gra index="4" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u24">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <w>the</w>
+          <w>owl</w>
+          <w>flew</w>
+          <w>away</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>l</base></ph><ph><base>u</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>l</base></ph><ph><base>u</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="121.564" end="125.088" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>owl</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>fly</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>away</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="LINK"/>
+          <gra index="2" head="5" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u25">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>the<ca-delimiter type="begin" label="repeated-segment"/>n-n<ca-delimiter type="end" label="repeated-segment"/>n</w>
+          <w>the</w>
+          <w>owl</w>
+          <w>got</w>
+          <w>the</w>
+          <w>boy</w>
+          <w>up</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph><stress type="primary"/><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>p</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph><stress type="primary"/><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>p</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="125.088" end="135.268" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>owl</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>get</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>boy</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>up</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="LINK"/>
+          <gra index="2" head="5" relation="JCT"/>
+          <gra index="3" head="4" relation="DET"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="OBJ"/>
+          <gra index="8" head="5" relation="JCT"/>
+          <gra index="9" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u26">
+      <orthography>
+        <u>
+          <g><w>and</w><w>then</w><w>he</w><w untranscribed="unintelligible">xxx</w><k type="retracing with correction"/></g>
+          <w>and</w>
+          <w>then</w>
+          <w>he</w>
+          <w>fell</w>
+          <w>from</w>
+          <w>the</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><ph><base>f</base></ph><ph><base>ɚ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><ph><base>*</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph></pw><pw><ph><base>f</base></ph><ph><base>ɚ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><ph><base>*</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="135.268" end="144.273" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>fall</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>from</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="5" relation="POBJ"/>
+          <gra index="7" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u27">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u28">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <w>he</w>
+          <w>got</w>
+          <w>into</w>
+          <w>the</w>
+          <w>water</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>ɾ</base></ph><ph><base>ɚ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>ɾ</base></ph><ph><base>ɚ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="144.273" end="147.767" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>he</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>get</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>into</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>water</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u29">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="0.0" end="0.0" unit="ms"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u30">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>then</w>
+          <w>she</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <w>and</w>
+          <w>then</w>
+          <g><w>she</w><k type="retracing"/></g>
+          <w>she</w>
+          <w untranscribed="unintelligible">xxx</w>
+          <w>go</w>
+          <w>in</w>
+          <w>there</w>
+          <w>and</w>
+          <w>then</w>
+          <w>the</w>
+          <w>baby</w>
+          <w>fox</w>
+          <w>came</w>
+          <w>back</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>e</base></ph><ph><base>b</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɑ</base></ph><ph><base>k</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>e</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>æ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>i</base></ph></pw><pw><ph><base>*</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>e</base></ph><ph><base>b</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɑ</base></ph><ph><base>k</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>e</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>æ</base></ph><ph><base>k</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="147.767" end="164.929" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>she</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>she</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>there</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>baby</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>fox</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>come</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>back</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="7" relation="LINK"/>
+          <gra index="2" head="7" relation="JCT"/>
+          <gra index="3" head="7" relation="SUBJ"/>
+          <gra index="4" head="3" relation="CONJ"/>
+          <gra index="5" head="4" relation="COORD"/>
+          <gra index="6" head="7" relation="SUBJ"/>
+          <gra index="7" head="0" relation="ROOT"/>
+          <gra index="8" head="7" relation="JCT"/>
+          <gra index="9" head="8" relation="POBJ"/>
+          <gra index="10" head="15" relation="LINK"/>
+          <gra index="11" head="15" relation="JCT"/>
+          <gra index="12" head="14" relation="DET"/>
+          <gra index="13" head="14" relation="MOD"/>
+          <gra index="14" head="15" relation="SUBJ"/>
+          <gra index="15" head="7" relation="CJCT"/>
+          <gra index="16" head="15" relation="JCT"/>
+          <gra index="17" head="7" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CLI" id="u31">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>wow</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph></pw></pho>
+      </ipaActual>
+      <segment start="164.929" end="167.336" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>wow</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u32">
+      <orthography>
+        <u>
+          <g><w>and</w><w>then</w><w>there</w><k type="retracing with correction"/></g>
+          <g><w>and</w><w>then</w><w>the</w><k type="retracing with correction"/></g>
+          <w>and</w>
+          <w>then</w>
+          <w>they</w>
+          <w>lived</w>
+          <w>happily</w>
+          <w>ever</w>
+          <w>after</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>v</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>æ</base></ph><ph><base>p</base></ph><ph><base>ə</base></ph><ph><base>l</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ɛ</base></ph><ph><base>v</base></ph><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>f</base></ph><ph><base>t</base></ph><ph><base>ɚ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>v</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>æ</base></ph><ph><base>p</base></ph><ph><base>ə</base></ph><ph><base>l</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ɛ</base></ph><ph><base>v</base></ph><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>f</base></ph><ph><base>t</base></ph><ph><base>ɚ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="167.336" end="178.416" unit="s"/>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>then</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>they</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>live</stem><mk type="sfx">PAST</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>happy</stem><mk type="sfxf">dadj</mk><mk type="sfx">LY</mk></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>ever</stem></mw></mor>
+          <mor><mw><pos><c>adv</c><subc>tem</subc></pos><stem>after</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="JCT"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="JCT"/>
+          <gra index="7" head="4" relation="JCT"/>
+          <gra index="8" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+  </transcript>
+</session>

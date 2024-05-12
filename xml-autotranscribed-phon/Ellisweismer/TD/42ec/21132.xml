@@ -1,0 +1,2812 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session xmlns="https://phon.ca/ns/session" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" corpus="EllisWeismer" version="2.0" xsi:schemaLocation="https://phon.ca/ns/session https://phon.ca/xml/xsd/session/v2_0/session.xsd">
+  <languages>eng</languages>
+  <mediaLocation>21132</mediaLocation>
+  <metadata>
+    <md key="Mediatypes">audio</md>
+    <md key="Options">multi</md>
+    <md key="DesignType">long</md>
+    <md key="ActivityType">toyplay</md>
+    <md key="GroupType">TD</md>
+    <md key="PID">11312/c-00006178-1</md>
+  </metadata>
+  <participants>
+    <participant id="CHI">
+      <role>Target_Child</role>
+      <group>TD</group>
+      <sex>female</sex>
+      <age>P3Y6M</age>
+      <languages>eng</languages>
+      <other>ec</other>
+    </participant>
+    <participant id="INV">
+      <role>Investigator</role>
+      <languages>eng</languages>
+    </participant>
+  </participants>
+  <userTiers>
+    <td tierName="Word intervals" type="chat" excludeFromAlignment="false"/>
+    <td tierName="Morphology" type="mor" excludeFromAlignment="true"/>
+    <td tierName="GRASP" type="gra" excludeFromAlignment="true"/>
+    <td tierName="Actions" type="default" excludeFromAlignment="true"/>
+  </userTiers>
+  <transcript>
+    <comment type="Warning">
+      <tierData><tw>CHI</tw><tw>only</tw><tw>says</tw><tw>three</tw><tw>utterances</tw></tierData>
+    </comment>
+    <comment type="Transcriber">
+      <tierData><tw>Victoria</tw><tw>Jordan</tw></tierData>
+    </comment>
+    <comment type="Types">
+      <tierData><tw>long,</tw><tw>toyplay,</tw><tw>TD</tw></tierData>
+    </comment>
+    <r speaker="INV" id="u0">
+      <orthography>
+        <u>
+          <w>I'm</w>
+          <w>so</w>
+          <w>sleepy</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>l</base></ph><ph><base>i</base></ph><ph><base>p</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>l</base></ph><ph><base>i</base></ph><ph><base>p</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="1.310" end="2.220" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>I'm</w>
+          <internal-media start="1.310" end="1.400" unit="s"/>
+          <w>so</w>
+          <internal-media start="1.630" end="1.810" unit="s"/>
+          <w>sleepy</w>
+          <internal-media start="1.880" end="2.220" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">1S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>so</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>sleep</stem><mk type="sfxf">dn</mk><mk type="sfx">Y</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="JCT"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u1">
+      <orthography>
+        <u>
+          <w>did</w>
+          <w>your</w>
+          <w>hiccups</w>
+          <w>go</w>
+          <w>away</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>k</base></ph><ph><base>ə</base></ph><ph><base>p</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>k</base></ph><ph><base>ə</base></ph><ph><base>p</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="4.050" end="5.120" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>did</w>
+          <internal-media start="4.050" end="4.170" unit="s"/>
+          <w>your</w>
+          <internal-media start="4.170" end="4.270" unit="s"/>
+          <w>hiccups</w>
+          <internal-media start="4.270" end="4.710" unit="s"/>
+          <w>go</w>
+          <internal-media start="4.710" end="4.830" unit="s"/>
+          <w>away</w>
+          <internal-media start="4.830" end="5.120" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>your</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>hiccup</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>away</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="1" relation="COMP"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u2">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>good</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><ph><base>g</base></ph><ph><base>ə</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><ph><base>g</base></ph><ph><base>ə</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="6.745" end="7.215" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="6.745" end="6.785" unit="s"/>
+          <w>good</w>
+          <internal-media start="6.945" end="7.215" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>good</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u3">
+      <orthography>
+        <u>
+          <w>should</w>
+          <w>we</w>
+          <w>just</w>
+          <w>dump</w>
+          <w>all</w>
+          <w>of</w>
+          <w>this</w>
+          <w>out</w>
+          <w>or</w>
+          <w>leave</w>
+          <w>it</w>
+          <w>in</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><ph><base>ʤ</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph><ph><base>p</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>t</base></ph></pw><pw><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>i</base></ph><ph><base>v</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><ph><base>ʤ</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph><ph><base>p</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>t</base></ph></pw><pw><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>i</base></ph><ph><base>v</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="8.141" end="10.581" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>should</w>
+          <internal-media start="8.141" end="8.261" unit="s"/>
+          <w>we</w>
+          <internal-media start="8.261" end="8.371" unit="s"/>
+          <w>just</w>
+          <internal-media start="8.371" end="8.681" unit="s"/>
+          <w>dump</w>
+          <internal-media start="8.831" end="9.071" unit="s"/>
+          <w>all</w>
+          <internal-media start="9.071" end="9.341" unit="s"/>
+          <w>of</w>
+          <internal-media start="9.341" end="9.401" unit="s"/>
+          <w>this</w>
+          <internal-media start="9.401" end="9.651" unit="s"/>
+          <w>out</w>
+          <internal-media start="9.651" end="9.861" unit="s"/>
+          <w>or</w>
+          <internal-media start="9.861" end="9.921" unit="s"/>
+          <w>leave</w>
+          <internal-media start="9.921" end="10.231" unit="s"/>
+          <w>it</w>
+          <internal-media start="10.231" end="10.291" unit="s"/>
+          <w>in</w>
+          <internal-media start="10.291" end="10.581" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>should</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>just</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>dump</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>all</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>of</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>out</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>or</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>leave</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>in</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="AUX"/>
+          <gra index="2" head="4" relation="SUBJ"/>
+          <gra index="3" head="4" relation="MOD"/>
+          <gra index="4" head="0" relation="INCROOT"/>
+          <gra index="5" head="4" relation="COORD"/>
+          <gra index="6" head="5" relation="NJCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="5" relation="CONJ"/>
+          <gra index="10" head="9" relation="COORD"/>
+          <gra index="11" head="10" relation="OBJ"/>
+          <gra index="12" head="10" relation="JCT"/>
+          <gra index="13" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u4">
+      <orthography>
+        <u>
+          <w>dump</w>
+          <w>it</w>
+          <w>out</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph><ph><base>p</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>t</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph><ph><base>p</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>t</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="11.519" end="11.899" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>dump</w>
+          <internal-media start="11.519" end="11.749" unit="s"/>
+          <w>it</w>
+          <internal-media start="11.749" end="11.809" unit="s"/>
+          <w>out</w>
+          <internal-media start="11.809" end="11.899" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>dump</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>out</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="OBJ"/>
+          <gra index="3" head="1" relation="JCT"/>
+          <gra index="4" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u5">
+      <orthography>
+        <u>
+          <w>okay</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="12.400" end="12.520" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>okay</w>
+          <internal-media start="12.400" end="12.520" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>okay</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u6">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>that</w>
+          <w>was</w>
+          <w>loud</w>
+          <t type="e"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>w</base></ph><ph><base>ə</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>d</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>w</base></ph><ph><base>ə</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>d</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="13.293" end="16.583" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="13.293" end="14.463" unit="s"/>
+          <w>that</w>
+          <internal-media start="15.543" end="15.723" unit="s"/>
+          <w>was</w>
+          <internal-media start="15.723" end="15.903" unit="s"/>
+          <w>loud</w>
+          <internal-media start="16.363" end="16.583" unit="s"/>
+          <t type="e"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>loud</stem></mw></mor>
+          <mor><mt type="e"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="COM"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="PRED"/>
+          <gra index="5" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u7">
+      <orthography>
+        <u>
+          <w>gosh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>ʃ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>ʃ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="17.766" end="17.866" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>gosh</w>
+          <internal-media start="17.766" end="17.866" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>gosh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u8">
+      <orthography>
+        <u>
+          <w>did</w>
+          <w>it</w>
+          <w>hurt</w>
+          <w>your</w>
+          <w>ears</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>d</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɝ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><cmph><ph><base>ɪ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph><ph><base>z</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɪ</base></ph><ph><base>d</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɝ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><cmph><ph><base>ɔ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><cmph><ph><base>ɪ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph><ph><base>z</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="19.323" end="20.223" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>did</w>
+          <internal-media start="19.323" end="19.433" unit="s"/>
+          <w>it</w>
+          <internal-media start="19.433" end="19.523" unit="s"/>
+          <w>hurt</w>
+          <internal-media start="19.523" end="19.713" unit="s"/>
+          <w>your</w>
+          <internal-media start="19.713" end="19.773" unit="s"/>
+          <w>ears</w>
+          <internal-media start="19.773" end="20.223" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>hurt</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>your</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>ear</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u9">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="21.850" end="22.290" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="21.850" end="22.290" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>laughs</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u10">
+      <orthography>
+        <u>
+          <w>okay</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="27.242" end="27.862" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>okay</w>
+          <internal-media start="27.242" end="27.862" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>okay</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u11">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>should</w>
+          <w>we</w>
+          <w>do</w>
+          <w>first</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɝ</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɝ</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="71.337" end="71.677" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="71.337" end="71.447" unit="s"/>
+          <w>should</w>
+          <internal-media start="71.447" end="71.517" unit="s"/>
+          <w>we</w>
+          <internal-media start="71.517" end="71.527" unit="s"/>
+          <w>do</w>
+          <internal-media start="71.527" end="71.597" unit="s"/>
+          <w>first</w>
+          <internal-media start="71.597" end="71.677" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>should</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>first</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="OBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="CHI" id="u12">
+      <orthography>
+        <u>
+          <w>the</w>
+          <w>animals</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph><ph><base>m</base></ph><ph><base>ɫ</base><combining>̩</combining></ph><ph><base>z</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph><ph><base>m</base></ph><ph><base>ɫ</base><combining>̩</combining></ph><ph><base>z</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="75.147" end="75.847" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>the</w>
+          <internal-media start="75.147" end="75.317" unit="s"/>
+          <w>animals</w>
+          <internal-media start="75.317" end="75.847" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>animal</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u13">
+      <orthography>
+        <u>
+          <w>the</w>
+          <w>animals</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph><ph><base>m</base></ph><ph><base>ɫ</base><combining>̩</combining></ph><ph><base>z</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph><ph><base>m</base></ph><ph><base>ɫ</base><combining>̩</combining></ph><ph><base>z</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="76.838" end="77.428" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>the</w>
+          <internal-media start="76.838" end="76.908" unit="s"/>
+          <w>animals</w>
+          <internal-media start="76.908" end="77.428" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>animal</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u14">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>are</w>
+          <w>you</w>
+          <w>gonna</w>
+          <w>do</w>
+          <w>with</w>
+          <w>them</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ð</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ð</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ɛ</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="77.744" end="78.864" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="77.744" end="77.884" unit="s"/>
+          <w>are</w>
+          <internal-media start="77.884" end="77.914" unit="s"/>
+          <w>you</w>
+          <internal-media start="77.914" end="77.994" unit="s"/>
+          <w>gonna</w>
+          <internal-media start="77.994" end="78.184" unit="s"/>
+          <w>do</w>
+          <internal-media start="78.184" end="78.334" unit="s"/>
+          <w>with</w>
+          <internal-media start="78.334" end="78.504" unit="s"/>
+          <w>them</w>
+          <internal-media start="78.504" end="78.864" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfxf">PRESP</mk></mw><mor-post><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>with</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>obj</subc></pos><stem>them</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="6" relation="INF"/>
+          <gra index="6" head="4" relation="COMP"/>
+          <gra index="7" head="6" relation="JCT"/>
+          <gra index="8" head="7" relation="POBJ"/>
+          <gra index="9" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u15">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="83.783" end="84.453" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="83.783" end="84.453" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u16">
+      <orthography>
+        <u>
+          <g><w>so</w><w>they</w><k type="retracing with correction"/></g>
+          <w>do</w>
+          <w>the</w>
+          <w>dog</w>
+          <w>and</w>
+          <w>the</w>
+          <w>cat</w>
+          <w>like</w>
+          <w>each_other</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>i</base></ph><ph><base>ʧ</base></ph><sandhi type="linker"/><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>ð</base></ph><ph><base>ɚ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>ɑ</base></ph><ph><base>g</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>i</base></ph><ph><base>ʧ</base></ph><sandhi type="linker"/><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>ð</base></ph><ph><base>ɚ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="85.958" end="88.438" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <g><w>so</w><internal-media start="85.958" end="86.098" unit="s"/><w>they</w><internal-media start="86.098" end="86.368" unit="s"/><k type="retracing with correction"/></g>
+          <w>do</w>
+          <w>the</w>
+          <w>dog</w>
+          <w>and</w>
+          <w>the</w>
+          <w>cat</w>
+          <w>like</w>
+          <w>each</w>
+          <w>other</w>
+          <t type="q"/>
+          <media start="86.428" end="88.438" unit="s"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>dog</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>cat</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>like</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>refl</subc></pos><stem>each_other</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="3" relation="DET"/>
+          <gra index="3" head="1" relation="OBJ"/>
+          <gra index="4" head="1" relation="CONJ"/>
+          <gra index="5" head="6" relation="DET"/>
+          <gra index="6" head="4" relation="COORD"/>
+          <gra index="7" head="6" relation="NJCT"/>
+          <gra index="8" head="7" relation="POBJ"/>
+          <gra index="9" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u17">
+      <orthography>
+        <u>
+          <w>cool</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>u</base></ph><ph><base>ɫ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>u</base></ph><ph><base>ɫ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="92.443" end="93.043" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>cool</w>
+          <internal-media start="92.443" end="93.043" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adj</c></pos><stem>cool</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u18">
+      <orthography>
+        <u>
+          <w>okay</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="100.837" end="101.527" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>okay</w>
+          <internal-media start="100.837" end="101.527" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>okay</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u19">
+      <orthography>
+        <u>
+          <w>which</w>
+          <w>room</w>
+          <w>should</w>
+          <w>we</w>
+          <w>do</w>
+          <w>first</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ʧ</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>u</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɝ</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ʧ</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>u</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>f</base></ph><ph><base>ɝ</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="102.117" end="103.897" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>which</w>
+          <internal-media start="102.117" end="102.297" unit="s"/>
+          <w>room</w>
+          <internal-media start="102.297" end="102.607" unit="s"/>
+          <w>should</w>
+          <internal-media start="102.607" end="102.917" unit="s"/>
+          <w>we</w>
+          <internal-media start="102.917" end="102.927" unit="s"/>
+          <w>do</w>
+          <internal-media start="102.927" end="103.187" unit="s"/>
+          <w>first</w>
+          <internal-media start="103.237" end="103.897" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>rel</subc></pos><stem>which</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>room</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>should</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>first</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="LINK"/>
+          <gra index="2" head="5" relation="SUBJ"/>
+          <gra index="3" head="5" relation="AUX"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u20">
+      <orthography>
+        <u>
+          <w>his</w>
+          <w>room</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>u</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>u</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="109.969" end="110.489" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>his</w>
+          <internal-media start="109.969" end="110.069" unit="s"/>
+          <w>room</w>
+          <internal-media start="110.309" end="110.489" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>room</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="DET"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u21">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>okay</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="112.378" end="113.298" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="112.378" end="112.788" unit="s"/>
+          <w>okay</w>
+          <internal-media start="113.028" end="113.298" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>co</c></pos><stem>okay</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="INCROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u22">
+      <orthography>
+        <u>
+          <w>so</w>
+          <w>we'll</w>
+          <w>make</w>
+          <w>this</w>
+          <w>go</w>
+          <w>in</w>
+          <w>there</w>
+          <w>and</w>
+          <w>that</w>
+          <w>right</w>
+          <w>there</w>
+          <w>can</w>
+          <w>go</w>
+          <w>there</w>
+          <w>too</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>e</base></ph><ph><base>k</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph><ph><base>ɫ</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>e</base></ph><ph><base>k</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="113.768" end="121.808" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>so</w>
+          <internal-media start="113.768" end="113.868" unit="s"/>
+          <w>we'll</w>
+          <internal-media start="116.978" end="117.028" unit="s"/>
+          <w>make</w>
+          <internal-media start="117.028" end="117.118" unit="s"/>
+          <w>this</w>
+          <internal-media start="117.118" end="117.338" unit="s"/>
+          <w>go</w>
+          <internal-media start="117.568" end="117.648" unit="s"/>
+          <w>in</w>
+          <internal-media start="117.648" end="117.708" unit="s"/>
+          <w>there</w>
+          <internal-media start="117.938" end="118.038" unit="s"/>
+          <w>and</w>
+          <internal-media start="118.338" end="118.428" unit="s"/>
+          <w>that</w>
+          <internal-media start="118.428" end="118.568" unit="s"/>
+          <w>right</w>
+          <internal-media start="118.568" end="119.128" unit="s"/>
+          <w>there</w>
+          <internal-media start="119.128" end="119.398" unit="s"/>
+          <w>can</w>
+          <internal-media start="120.258" end="120.718" unit="s"/>
+          <w>go</w>
+          <internal-media start="120.918" end="121.048" unit="s"/>
+          <w>there</w>
+          <internal-media start="121.048" end="121.748" unit="s"/>
+          <w>too</w>
+          <internal-media start="121.748" end="121.808" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>adv</c></pos><stem>so</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw><mor-post><mw><pos><c>mod</c></pos><stem>will</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>make</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>there</stem></mw></mor>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>right</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>there</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>can</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>there</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>too</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="JCT"/>
+          <gra index="2" head="4" relation="SUBJ"/>
+          <gra index="3" head="4" relation="AUX"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="6" relation="SUBJ"/>
+          <gra index="6" head="4" relation="COMP"/>
+          <gra index="7" head="6" relation="JCT"/>
+          <gra index="8" head="7" relation="POBJ"/>
+          <gra index="9" head="6" relation="CONJ"/>
+          <gra index="10" head="14" relation="LINK"/>
+          <gra index="11" head="12" relation="JCT"/>
+          <gra index="12" head="14" relation="SUBJ"/>
+          <gra index="13" head="14" relation="AUX"/>
+          <gra index="14" head="9" relation="COORD"/>
+          <gra index="15" head="14" relation="JCT"/>
+          <gra index="16" head="14" relation="JCT"/>
+          <gra index="17" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u23">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>else</w>
+          <w>should</w>
+          <w>go</w>
+          <w>in</w>
+          <w>his</w>
+          <w>room</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>u</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɛ</base></ph><ph><base>ɫ</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ɪ</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>u</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="127.170" end="128.060" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="127.170" end="127.260" unit="s"/>
+          <w>else</w>
+          <internal-media start="127.260" end="127.390" unit="s"/>
+          <w>should</w>
+          <internal-media start="127.390" end="127.610" unit="s"/>
+          <w>go</w>
+          <internal-media start="127.690" end="127.800" unit="s"/>
+          <w>in</w>
+          <internal-media start="127.800" end="127.860" unit="s"/>
+          <w>his</w>
+          <internal-media start="127.860" end="127.930" unit="s"/>
+          <w>room</w>
+          <internal-media start="127.930" end="128.060" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>post</c></pos><stem>else</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>should</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>go</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>his</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>room</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="SUBJ"/>
+          <gra index="2" head="1" relation="PQ"/>
+          <gra index="3" head="4" relation="AUX"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="JCT"/>
+          <gra index="6" head="7" relation="DET"/>
+          <gra index="7" head="5" relation="POBJ"/>
+          <gra index="8" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u24">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>good</w>
+          <w>idea</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><ph><base>g</base></ph><ph><base>ə</base></ph><ph><base>d</base></ph></pw><pw><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><stress type="primary"/><ph><base>d</base></ph><ph><base>i</base></ph><ph><base>ə</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><ph><base>g</base></ph><ph><base>ə</base></ph><ph><base>d</base></ph></pw><pw><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><stress type="primary"/><ph><base>d</base></ph><ph><base>i</base></ph><ph><base>ə</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="137.415" end="139.515" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="137.415" end="137.875" unit="s"/>
+          <w>good</w>
+          <internal-media start="139.085" end="139.175" unit="s"/>
+          <w>idea</w>
+          <internal-media start="139.175" end="139.515" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>adj</c></pos><stem>good</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>idea</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="COM"/>
+          <gra index="2" head="3" relation="MOD"/>
+          <gra index="3" head="0" relation="INCROOT"/>
+          <gra index="4" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u25">
+      <orthography>
+        <u>
+          <w>here's</w>
+          <w>another</w>
+          <w>one</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><ph><base>*</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>n</base></ph><ph><base>ʌ</base></ph><ph><base>ð</base></ph><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>n</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><ph><base>*</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>n</base></ph><ph><base>ʌ</base></ph><ph><base>ð</base></ph><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>n</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="142.019" end="142.429" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>here's</w>
+          <internal-media start="142.019" end="142.189" unit="s"/>
+          <w>another</w>
+          <internal-media start="142.189" end="142.359" unit="s"/>
+          <w>one</w>
+          <internal-media start="142.359" end="142.429" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>exist</subc></pos><stem>here</stem></mw><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>qn</c></pos><stem>another</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>one</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="QUANT"/>
+          <gra index="4" head="2" relation="PRED"/>
+          <gra index="5" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u26">
+      <orthography>
+        <u>
+          <w>where</w>
+          <w>you</w>
+          <w>gonna</w>
+          <w>put</w>
+          <w>it</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="143.341" end="144.021" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>where</w>
+          <internal-media start="143.341" end="143.461" unit="s"/>
+          <w>you</w>
+          <internal-media start="143.461" end="143.651" unit="s"/>
+          <w>gonna</w>
+          <internal-media start="143.741" end="143.861" unit="s"/>
+          <w>put</w>
+          <internal-media start="143.861" end="143.961" unit="s"/>
+          <w>it</w>
+          <internal-media start="143.961" end="144.021" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>where</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfxf">PRESP</mk></mw><mor-post><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="LINK"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="INF"/>
+          <gra index="5" head="3" relation="COMP"/>
+          <gra index="6" head="5" relation="OBJ"/>
+          <gra index="7" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u27">
+      <orthography>
+        <u>
+          <w>you</w>
+          <w>don't</w>
+          <w>wanna</w>
+          <w>put</w>
+          <w>the</w>
+          <w>pillows</w>
+          <w>on</w>
+          <w>the</w>
+          <w>bed</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ɪ</base></ph><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ɛ</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ɪ</base></ph><ph><base>l</base></ph><ph><base>o</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ɛ</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="149.795" end="151.405" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>you</w>
+          <internal-media start="149.795" end="149.855" unit="s"/>
+          <w>don't</w>
+          <internal-media start="149.855" end="150.175" unit="s"/>
+          <w>wanna</w>
+          <internal-media start="150.175" end="150.295" unit="s"/>
+          <w>put</w>
+          <internal-media start="150.295" end="150.415" unit="s"/>
+          <w>the</w>
+          <internal-media start="150.415" end="150.425" unit="s"/>
+          <w>pillows</w>
+          <internal-media start="150.425" end="150.745" unit="s"/>
+          <w>on</w>
+          <internal-media start="150.745" end="150.965" unit="s"/>
+          <w>the</w>
+          <internal-media start="150.965" end="150.975" unit="s"/>
+          <w>bed</w>
+          <internal-media start="150.975" end="151.405" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>want</stem></mw><mor-post><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>pillow</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>bed</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="SUBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="2" relation="NEG"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="6" relation="INF"/>
+          <gra index="6" head="4" relation="COMP"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="OBJ"/>
+          <gra index="9" head="6" relation="JCT"/>
+          <gra index="10" head="11" relation="DET"/>
+          <gra index="11" head="9" relation="POBJ"/>
+          <gra index="12" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u28">
+      <orthography>
+        <u>
+          <w>okay</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="152.385" end="152.965" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>okay</w>
+          <internal-media start="152.385" end="152.965" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>okay</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u29">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="153.996" end="154.466" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="153.996" end="154.466" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>laughs</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u30">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="173.534" end="173.564" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="173.534" end="173.564" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u31">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>what</w>
+          <w>should</w>
+          <w>we</w>
+          <w>do</w>
+          <w>next</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>ɛ</base></ph><ph><base>k</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>ɛ</base></ph><ph><base>k</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="215.329" end="223.869" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="215.329" end="215.399" unit="s"/>
+          <w>what</w>
+          <internal-media start="217.989" end="218.119" unit="s"/>
+          <w>should</w>
+          <internal-media start="218.119" end="218.219" unit="s"/>
+          <w>we</w>
+          <internal-media start="218.999" end="219.009" unit="s"/>
+          <w>do</w>
+          <internal-media start="221.069" end="221.159" unit="s"/>
+          <w>next</w>
+          <internal-media start="223.729" end="223.869" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>should</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>next</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="COM"/>
+          <gra index="2" head="5" relation="OBJ"/>
+          <gra index="3" head="5" relation="AUX"/>
+          <gra index="4" head="5" relation="SUBJ"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u32">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>do</w>
+          <w>you</w>
+          <w>want</w>
+          <w>me</w>
+          <w>to</w>
+          <w>do</w>
+          <w>with</w>
+          <w>this</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ð</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ð</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="259.177" end="260.027" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="259.177" end="259.337" unit="s"/>
+          <w>do</w>
+          <internal-media start="259.337" end="259.397" unit="s"/>
+          <w>you</w>
+          <internal-media start="259.397" end="259.467" unit="s"/>
+          <w>want</w>
+          <internal-media start="259.467" end="259.647" unit="s"/>
+          <w>me</w>
+          <internal-media start="259.647" end="259.657" unit="s"/>
+          <w>to</w>
+          <internal-media start="259.657" end="259.767" unit="s"/>
+          <w>do</w>
+          <internal-media start="259.767" end="259.857" unit="s"/>
+          <w>with</w>
+          <internal-media start="259.857" end="259.957" unit="s"/>
+          <w>this</w>
+          <internal-media start="259.957" end="260.027" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>want</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>obj</subc></pos><stem>me</stem></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>with</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="LINK"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="OBJ"/>
+          <gra index="6" head="7" relation="INF"/>
+          <gra index="7" head="4" relation="COMP"/>
+          <gra index="8" head="7" relation="JCT"/>
+          <gra index="9" head="8" relation="POBJ"/>
+          <gra index="10" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u33">
+      <orthography>
+        <u>
+          <w>huh</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ʌ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>ʌ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="266.504" end="266.704" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>huh</w>
+          <internal-media start="266.504" end="266.704" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>huh</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u34">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="271.103" end="271.493" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="271.103" end="271.493" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u35">
+      <orthography>
+        <u>
+          <w>I</w>
+          <w>don't</w>
+          <w>know</w>
+          <w>what</w>
+          <w>to</w>
+          <w>do</w>
+          <w>with</w>
+          <w>it</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ð</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ð</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="271.743" end="275.113" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>I</w>
+          <internal-media start="271.743" end="271.753" unit="s"/>
+          <w>don't</w>
+          <internal-media start="274.393" end="274.483" unit="s"/>
+          <w>know</w>
+          <internal-media start="274.733" end="274.773" unit="s"/>
+          <w>what</w>
+          <internal-media start="274.773" end="274.863" unit="s"/>
+          <w>to</w>
+          <internal-media start="274.863" end="274.923" unit="s"/>
+          <w>do</w>
+          <internal-media start="274.923" end="274.983" unit="s"/>
+          <w>with</w>
+          <internal-media start="274.983" end="275.053" unit="s"/>
+          <w>it</w>
+          <internal-media start="275.053" end="275.113" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>I</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>know</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>with</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="SUBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="2" relation="NEG"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="7" relation="LINK"/>
+          <gra index="6" head="7" relation="INF"/>
+          <gra index="7" head="4" relation="COMP"/>
+          <gra index="8" head="7" relation="JCT"/>
+          <gra index="9" head="8" relation="POBJ"/>
+          <gra index="10" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u36">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="292.209" end="292.549" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="292.209" end="292.549" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u37">
+      <orthography>
+        <u>
+          <w>what</w>
+          <w>do</w>
+          <w>you</w>
+          <w>wanna</w>
+          <w>do</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="361.824" end="364.654" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>what</w>
+          <internal-media start="361.824" end="362.074" unit="s"/>
+          <w>do</w>
+          <internal-media start="363.824" end="363.884" unit="s"/>
+          <w>you</w>
+          <internal-media start="363.884" end="364.144" unit="s"/>
+          <w>wanna</w>
+          <internal-media start="364.144" end="364.404" unit="s"/>
+          <w>do</w>
+          <internal-media start="364.464" end="364.654" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>int</subc></pos><stem>what</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>want</stem></mw><mor-post><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>do</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="OBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="SUBJ"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="6" relation="INF"/>
+          <gra index="6" head="4" relation="COMP"/>
+          <gra index="7" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u38">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <w>you're</w>
+          <w>gonna</w>
+          <w>put</w>
+          <w>that</w>
+          <w>there</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><cmph><ph><base>u</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><cmph><ph><base>u</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>g</base></ph><ph><base>ɑ</base></ph><ph><base>n</base></ph><ph><base>ə</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaActual>
+      <segment start="367.538" end="368.708" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="367.538" end="367.738" unit="s"/>
+          <w>you're</w>
+          <internal-media start="367.868" end="367.958" unit="s"/>
+          <w>gonna</w>
+          <internal-media start="367.958" end="368.188" unit="s"/>
+          <w>put</w>
+          <internal-media start="368.288" end="368.398" unit="s"/>
+          <w>that</w>
+          <internal-media start="368.398" end="368.608" unit="s"/>
+          <w>there</w>
+          <internal-media start="368.608" end="368.708" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw><mor-post><mw><pos><c>aux</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw></mor-post></mor>
+          <mor><mw><pos><c>part</c></pos><stem>go</stem><mk type="sfxf">PRESP</mk></mw><mor-post><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>part</c></pos><stem>put</stem><mk type="sfxf">PASTP</mk></mw></mor>
+          <mor><mw><pos><c>comp</c></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>there</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="COM"/>
+          <gra index="2" head="4" relation="SUBJ"/>
+          <gra index="3" head="4" relation="AUX"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="6" relation="INF"/>
+          <gra index="6" head="4" relation="XJCT"/>
+          <gra index="7" head="6" relation="OBJ"/>
+          <gra index="8" head="7" relation="JCT"/>
+          <gra index="9" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u39">
+      <orthography>
+        <u>
+          <w>should</w>
+          <w>we</w>
+          <w>put</w>
+          <w>the</w>
+          <w>rest</w>
+          <w>of</w>
+          <w>the</w>
+          <w>stuff</w>
+          <w>in</w>
+          <w>the</w>
+          <w>house</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>ɛ</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>f</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>s</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>ɛ</base></ph><ph><base>s</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>t</base></ph><ph><base>ʌ</base></ph><ph><base>f</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ʊ</base></ph></cmph><ph><base>s</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="373.345" end="375.185" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>should</w>
+          <internal-media start="373.345" end="373.565" unit="s"/>
+          <w>we</w>
+          <internal-media start="373.565" end="373.575" unit="s"/>
+          <w>put</w>
+          <internal-media start="373.575" end="373.705" unit="s"/>
+          <w>the</w>
+          <internal-media start="373.705" end="373.715" unit="s"/>
+          <w>rest</w>
+          <internal-media start="373.715" end="374.045" unit="s"/>
+          <w>of</w>
+          <internal-media start="374.045" end="374.295" unit="s"/>
+          <w>the</w>
+          <internal-media start="374.295" end="374.305" unit="s"/>
+          <w>stuff</w>
+          <internal-media start="374.305" end="374.655" unit="s"/>
+          <w>in</w>
+          <internal-media start="374.655" end="374.785" unit="s"/>
+          <w>the</w>
+          <internal-media start="374.785" end="374.945" unit="s"/>
+          <w>house</w>
+          <internal-media start="374.945" end="375.185" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>should</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>rest</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>of</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>stuff</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>house</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DET"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="5" relation="NJCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="8" relation="NJCT"/>
+          <gra index="10" head="11" relation="DET"/>
+          <gra index="11" head="9" relation="POBJ"/>
+          <gra index="12" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u40">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>move</w>
+          <w>that</w>
+          <w>over</w>
+          <w type="filler">like</w>
+          <w>this</w>
+          <w>way</w>
+          <w>here</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>u</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>v</base></ph><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>k</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><cmph><ph><base>ɪ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>u</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>v</base></ph><ph><base>ɚ</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>k</base></ph></pw><pw><ph><base>ð</base></ph><ph><base>ə</base></ph><ph><base>s</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><cmph><ph><base>ɪ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw></pho>
+      </ipaActual>
+      <segment start="381.750" end="396.710" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>and</w>
+          <internal-media start="381.750" end="381.910" unit="s"/>
+          <w>move</w>
+          <internal-media start="381.970" end="382.250" unit="s"/>
+          <w>that</w>
+          <internal-media start="382.580" end="382.760" unit="s"/>
+          <w>over</w>
+          <internal-media start="386.660" end="386.830" unit="s"/>
+          <w type="filler">like</w>
+          <w>this</w>
+          <internal-media start="387.230" end="387.590" unit="s"/>
+          <w>way</w>
+          <internal-media start="392.610" end="392.930" unit="s"/>
+          <w>here</w>
+          <internal-media start="396.500" end="396.710" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>move</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>rel</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>over</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>this</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>way</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>here</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="COORD"/>
+          <gra index="3" head="5" relation="LINK"/>
+          <gra index="4" head="5" relation="JCT"/>
+          <gra index="5" head="2" relation="CMOD"/>
+          <gra index="6" head="7" relation="JCT"/>
+          <gra index="7" head="5" relation="JCT"/>
+          <gra index="8" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u41">
+      <orthography>
+        <u>
+          <w>oops</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>u</base></ph><ph><base>p</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>u</base></ph><ph><base>p</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="400.026" end="400.306" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oops</w>
+          <internal-media start="400.026" end="400.306" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oops</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u42">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="401.344" end="402.074" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="401.344" end="402.074" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>laughs</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u43">
+      <orthography>
+        <u>
+          <w>don't</w>
+          <w>laugh</w>
+          <w>at</w>
+          <w>me</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>æ</base></ph><ph><base>f</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>o</base></ph><ph><base>n</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>l</base></ph><ph><base>æ</base></ph><ph><base>f</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>m</base></ph><ph><base>i</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="404.355" end="405.335" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>don't</w>
+          <internal-media start="404.355" end="404.575" unit="s"/>
+          <w>laugh</w>
+          <internal-media start="404.575" end="404.905" unit="s"/>
+          <w>at</w>
+          <internal-media start="404.905" end="405.045" unit="s"/>
+          <w>me</w>
+          <internal-media start="405.045" end="405.335" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw><mor-post><mw><pos><c>neg</c></pos><stem>not</stem></mw></mor-post></mor>
+          <mor><mw><pos><c>v</c></pos><stem>laugh</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>at</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>obj</subc></pos><stem>me</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="1" relation="NEG"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="JCT"/>
+          <gra index="5" head="4" relation="POBJ"/>
+          <gra index="6" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u44">
+      <orthography>
+        <u>
+          <w>oops</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>u</base></ph><ph><base>p</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>u</base></ph><ph><base>p</base></ph><ph><base>s</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="407.137" end="407.387" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oops</w>
+          <internal-media start="407.137" end="407.387" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oops</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u45">
+      <orthography>
+        <u>
+          <e><action/></e>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <segment start="407.742" end="407.842" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <e><action/></e>
+          <internal-media start="407.742" end="407.842" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Actions">
+        <tierData><tw>laughs</tw><tw>.</tw></tierData>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u46">
+      <orthography>
+        <u>
+          <w>thank</w>
+          <w>you</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>θ</base></ph><ph><base>æ</base></ph><ph><base>ŋ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>θ</base></ph><ph><base>æ</base></ph><ph><base>ŋ</base></ph><ph><base>k</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="409.606" end="411.446" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>thank</w>
+          <internal-media start="409.606" end="410.206" unit="s"/>
+          <w>you</w>
+          <internal-media start="410.526" end="411.446" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>v</c></pos><stem>thank</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="ROOT"/>
+          <gra index="2" head="1" relation="OBJ"/>
+          <gra index="3" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u47">
+      <orthography>
+        <u>
+          <w>we</w>
+          <w>should</w>
+          <w>probably</w>
+          <w>put</w>
+          <w>some</w>
+          <w>of</w>
+          <w>the</w>
+          <w>babies</w>
+          <w>in</w>
+          <w>the</w>
+          <w>swing</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>b</base></ph><ph><base>ə</base></ph><ph><base>b</base></ph><ph><base>l</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>e</base></ph><ph><base>b</base></ph><ph><base>i</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ŋ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>ʃ</base></ph><ph><base>ʊ</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ɹ</base></ph><ph><base>ɑ</base></ph><ph><base>b</base></ph><ph><base>ə</base></ph><ph><base>b</base></ph><ph><base>l</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>e</base></ph><ph><base>b</base></ph><ph><base>i</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>ʌ</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>w</base></ph><ph><base>ɪ</base></ph><ph><base>ŋ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="426.469" end="429.399" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>we</w>
+          <internal-media start="426.469" end="426.559" unit="s"/>
+          <w>should</w>
+          <internal-media start="426.559" end="426.799" unit="s"/>
+          <w>probably</w>
+          <internal-media start="426.799" end="427.089" unit="s"/>
+          <w>put</w>
+          <internal-media start="427.089" end="427.319" unit="s"/>
+          <w>some</w>
+          <internal-media start="427.459" end="427.619" unit="s"/>
+          <w>of</w>
+          <internal-media start="427.619" end="427.829" unit="s"/>
+          <w>the</w>
+          <internal-media start="427.829" end="427.839" unit="s"/>
+          <w>babies</w>
+          <internal-media start="427.839" end="428.239" unit="s"/>
+          <w>in</w>
+          <internal-media start="428.239" end="428.359" unit="s"/>
+          <w>the</w>
+          <internal-media start="428.359" end="428.969" unit="s"/>
+          <w>swing</w>
+          <internal-media start="428.969" end="429.399" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>should</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>probable</stem><mk type="sfxf">dadj</mk><mk type="sfx">LY</mk></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>put</stem><mk type="sfxf">PASTP</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>some</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>of</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>baby</stem><mk type="sfx">PL</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>art</subc></pos><stem>the</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>swing</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="4" relation="SUBJ"/>
+          <gra index="2" head="4" relation="AUX"/>
+          <gra index="3" head="4" relation="JCT"/>
+          <gra index="4" head="0" relation="ROOT"/>
+          <gra index="5" head="4" relation="OBJ"/>
+          <gra index="6" head="5" relation="NJCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="4" relation="JCT"/>
+          <gra index="10" head="11" relation="DET"/>
+          <gra index="11" head="9" relation="POBJ"/>
+          <gra index="12" head="4" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u48">
+      <orthography>
+        <u>
+          <w>and</w>
+          <w>some</w>
+          <w>we</w>
+          <w>can</w>
+          <w>put</w>
+          <w>in</w>
+          <w>their</w>
+          <w>bed</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ɛ</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>n</base></ph><ph><base>d</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><ph><base>ʌ</base></ph><ph><base>m</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɪ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><cmph><ph><base>ɛ</base></ph><lig type="breve"/><ph><base>ɚ</base></ph></cmph></pw><pw><stress type="primary"/><ph><base>b</base></ph><ph><base>ɛ</base></ph><ph><base>d</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="429.753" end="432.173" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>and</w>
+          <internal-media start="429.753" end="429.863" unit="s"/>
+          <w>some</w>
+          <internal-media start="429.943" end="430.123" unit="s"/>
+          <w>we</w>
+          <internal-media start="430.123" end="430.133" unit="s"/>
+          <w>can</w>
+          <internal-media start="430.133" end="430.613" unit="s"/>
+          <w>put</w>
+          <internal-media start="430.643" end="430.813" unit="s"/>
+          <w>in</w>
+          <internal-media start="431.463" end="431.603" unit="s"/>
+          <w>their</w>
+          <internal-media start="431.603" end="431.743" unit="s"/>
+          <w>bed</w>
+          <internal-media start="431.743" end="432.173" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>coord</c></pos><stem>and</stem></mw></mor>
+          <mor><mw><pos><c>qn</c></pos><stem>some</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>sub</subc></pos><stem>we</stem></mw></mor>
+          <mor><mw><pos><c>mod</c></pos><stem>can</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>in</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>poss</subc></pos><stem>their</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>bed</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="5" relation="LINK"/>
+          <gra index="2" head="5" relation="QUANT"/>
+          <gra index="3" head="5" relation="SUBJ"/>
+          <gra index="4" head="5" relation="AUX"/>
+          <gra index="5" head="0" relation="ROOT"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="5" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u49">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="443.175" end="443.335" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="443.175" end="443.335" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u50">
+      <orthography>
+        <u>
+          <w>can</w>
+          <w>you</w>
+          <w>put</w>
+          <w>that</w>
+          <w>one</w>
+          <w>on</w>
+          <w>that</w>
+          <w>side</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>d</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>k</base></ph><ph><base>æ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>s</base></ph><cmph><ph><base>a</base></ph><lig type="breve"/><ph><base>ɪ</base></ph></cmph><ph><base>d</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="484.137" end="532.727" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>can</w>
+          <internal-media start="484.137" end="484.267" unit="s"/>
+          <w>you</w>
+          <internal-media start="484.977" end="485.207" unit="s"/>
+          <w>put</w>
+          <internal-media start="488.657" end="488.817" unit="s"/>
+          <w>that</w>
+          <internal-media start="490.817" end="490.957" unit="s"/>
+          <w>one</w>
+          <internal-media start="501.897" end="502.067" unit="s"/>
+          <w>on</w>
+          <internal-media start="527.637" end="527.877" unit="s"/>
+          <w>that</w>
+          <internal-media start="531.317" end="531.957" unit="s"/>
+          <w>side</w>
+          <internal-media start="532.547" end="532.727" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>can</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>put</stem><mk type="sfxf">PASTP</mk></mw></mor>
+          <mor><mw><pos><c>comp</c></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>num</subc></pos><stem>one</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>on</stem></mw></mor>
+          <mor><mw><pos><c>det</c><subc>dem</subc></pos><stem>that</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>side</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="5" relation="DATE"/>
+          <gra index="5" head="3" relation="OBJ"/>
+          <gra index="6" head="5" relation="JCT"/>
+          <gra index="7" head="8" relation="DET"/>
+          <gra index="8" head="6" relation="POBJ"/>
+          <gra index="9" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u51">
+      <orthography>
+        <u>
+          <w>oh</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="585.255" end="585.305" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>oh</w>
+          <internal-media start="585.255" end="585.305" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>oh</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u52">
+      <orthography>
+        <u>
+          <w>you</w>
+          <w>ready</w>
+          <w>to</w>
+          <w>put</w>
+          <w>it</w>
+          <w>all</w>
+          <w>away</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>ɛ</base></ph><ph><base>ɾ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>ɫ</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>ɹ</base></ph><ph><base>ɛ</base></ph><ph><base>ɾ</base></ph><ph><base>i</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>p</base></ph><ph><base>ʊ</base></ph><ph><base>t</base></ph></pw><pw><ph><base>ə</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>ɑ</base></ph><ph><base>ɫ</base></ph></pw><pw><ph><base>ə</base></ph><stress type="primary"/><ph><base>w</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="631.623" end="631.923" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>you</w>
+          <internal-media start="631.623" end="631.663" unit="s"/>
+          <w>ready</w>
+          <internal-media start="631.663" end="631.723" unit="s"/>
+          <w>to</w>
+          <internal-media start="631.723" end="631.743" unit="s"/>
+          <w>put</w>
+          <internal-media start="631.743" end="631.813" unit="s"/>
+          <w>it</w>
+          <internal-media start="631.813" end="631.853" unit="s"/>
+          <w>all</w>
+          <internal-media start="631.853" end="631.893" unit="s"/>
+          <w>away</w>
+          <internal-media start="631.893" end="631.923" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>ready</stem></mw></mor>
+          <mor><mw><pos><c>inf</c></pos><stem>to</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>put</stem><mk type="sfxf">ZERO</mk></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>it</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>all</stem></mw></mor>
+          <mor><mw><pos><c>adv</c></pos><stem>away</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="SUBJ"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="4" relation="INF"/>
+          <gra index="4" head="2" relation="COMP"/>
+          <gra index="5" head="4" relation="OBJ"/>
+          <gra index="6" head="7" relation="JCT"/>
+          <gra index="7" head="4" relation="JCT"/>
+          <gra index="8" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u53">
+      <orthography>
+        <u>
+          <w>okay</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>o</base></ph><ph><base>k</base></ph><ph><base>e</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="634.803" end="634.973" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>okay</w>
+          <internal-media start="634.803" end="634.973" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>okay</stem></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u54">
+      <orthography>
+        <u>
+          <w>do</w>
+          <w>you</w>
+          <w>have</w>
+          <w>one</w>
+          <w>of</w>
+          <w>these</w>
+          <w>at</w>
+          <w>home</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>æ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>i</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>o</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>d</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>j</base></ph><ph><base>u</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>æ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>w</base></ph><ph><base>ʌ</base></ph><ph><base>n</base></ph></pw><pw><stress type="primary"/><ph><base>ʌ</base></ph><ph><base>v</base></ph></pw><pw><stress type="primary"/><ph><base>ð</base></ph><ph><base>i</base></ph><ph><base>z</base></ph></pw><pw><stress type="primary"/><ph><base>æ</base></ph><ph><base>t</base></ph></pw><pw><stress type="primary"/><ph><base>h</base></ph><ph><base>o</base></ph><ph><base>m</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="641.327" end="646.797" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>do</w>
+          <internal-media start="641.327" end="641.567" unit="s"/>
+          <w>you</w>
+          <internal-media start="644.927" end="645.077" unit="s"/>
+          <w>have</w>
+          <internal-media start="645.517" end="645.677" unit="s"/>
+          <w>one</w>
+          <internal-media start="645.677" end="645.857" unit="s"/>
+          <w>of</w>
+          <internal-media start="645.857" end="646.077" unit="s"/>
+          <w>these</w>
+          <internal-media start="646.077" end="646.287" unit="s"/>
+          <w>at</w>
+          <internal-media start="646.287" end="646.467" unit="s"/>
+          <w>home</w>
+          <internal-media start="646.467" end="646.797" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>mod</c></pos><stem>do</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>per</subc></pos><stem>you</stem></mw></mor>
+          <mor><mw><pos><c>v</c></pos><stem>have</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>indef</subc></pos><stem>one</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>of</stem></mw></mor>
+          <mor><mw><pos><c>pro</c><subc>dem</subc></pos><stem>these</stem></mw></mor>
+          <mor><mw><pos><c>prep</c></pos><stem>at</stem></mw></mor>
+          <mor><mw><pos><c>n</c></pos><stem>home</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="3" relation="AUX"/>
+          <gra index="2" head="3" relation="SUBJ"/>
+          <gra index="3" head="0" relation="ROOT"/>
+          <gra index="4" head="3" relation="OBJ"/>
+          <gra index="5" head="4" relation="NJCT"/>
+          <gra index="6" head="5" relation="POBJ"/>
+          <gra index="7" head="6" relation="NJCT"/>
+          <gra index="8" head="7" relation="POBJ"/>
+          <gra index="9" head="3" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u55">
+      <orthography>
+        <u>
+          <w>no</w>
+          <t type="q"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="648.071" end="648.471" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>no</w>
+          <internal-media start="648.071" end="648.471" unit="s"/>
+          <t type="q"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mt type="q"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="0" relation="INCROOT"/>
+          <gra index="2" head="1" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+    <r speaker="INV" id="u56">
+      <orthography>
+        <u>
+          <w>no</w>
+          <w>talking</w>
+          <t type="p"/>
+        </u>
+      </orthography>
+      <ipaTarget>
+        <pho><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɑ</base></ph><ph><base>k</base></ph><ph><base>ɪ</base></ph><ph><base>ŋ</base></ph></pw></pho>
+      </ipaTarget>
+      <ipaActual>
+        <pho><pw><stress type="primary"/><ph><base>n</base></ph><ph><base>o</base></ph></pw><pw><stress type="primary"/><ph><base>t</base></ph><ph><base>ɑ</base></ph><ph><base>k</base></ph><ph><base>ɪ</base></ph><ph><base>ŋ</base></ph></pw></pho>
+      </ipaActual>
+      <segment start="648.785" end="649.175" unit="s"/>
+      <userTier name="Word intervals">
+        <u>
+          <w>no</w>
+          <internal-media start="648.785" end="648.845" unit="s"/>
+          <w>talking</w>
+          <internal-media start="649.065" end="649.175" unit="s"/>
+          <t type="p"/>
+        </u>
+      </userTier>
+      <userTier name="Morphology">
+        <mors>
+          <mor><mw><pos><c>co</c></pos><stem>no</stem></mw></mor>
+          <mor><mw><pos><c>part</c></pos><stem>talk</stem><mk type="sfx">PRESP</mk></mw></mor>
+          <mor><mt type="p"/></mor>
+        </mors>
+      </userTier>
+      <userTier name="GRASP">
+        <gras>
+          <gra index="1" head="2" relation="COM"/>
+          <gra index="2" head="0" relation="ROOT"/>
+          <gra index="3" head="2" relation="PUNCT"/>
+        </gras>
+      </userTier>
+    </r>
+  </transcript>
+</session>
