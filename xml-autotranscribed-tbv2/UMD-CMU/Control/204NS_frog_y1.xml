@@ -1,0 +1,952 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CHAT xmlns="http://www.talkbank.org/ns/talkbank" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Version="2.20.3" xsi:schemaLocation="http://www.talkbank.org/ns/talkbank https://talkbank.org/software/talkbank.xsd" Corpus="UMD-CMU" Media="204NS_frog_y1" Mediatypes="video" Lang="eng" DesignType="cross" ActivityType="narrative" GroupType="TD" PID="11312/a-00050290-1">
+  <Participants>
+    <participant id="CHI" role="Child" name="TB110NS" language="eng"/>
+    <participant id="MOT" role="Mother" language="eng"/>
+    <participant id="CLI" role="Investigator" language="eng"/>
+  </Participants>
+  <comment type="Transcriber">Jane_Khin</comment>
+  <comment type="Types">cross, narrative, TD</comment>
+  <u who="MOT" uID="u0">
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1">t</ph><ph id="ph2">ɛ</ph><ph id="ph3">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph4">t</ph><ph id="ph5">ɛ</ph><ph id="ph6">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ2"/></mor></w><model><pw><ss type="1"/><ph id="ph7">m</ph><ph id="ph8">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph9">m</ph><ph id="ph10">i</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph11">ð</ph><ph id="ph12">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph13">ð</ph><ph id="ph14">ʌ</ph></pw></actual></pg>
+    <pg><w>story<mor type="mor"><mw><pos><c>n</c></pos><stem>story</stem></mw><gra type="gra" index="4" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph15">s</ph><ph id="ph16">t</ph><ph id="ph17">ɔ</ph><ph id="ph18">ɹ</ph><ph id="ph19">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph20">s</ph><ph id="ph21">t</ph><ph id="ph22">ɔ</ph><ph id="ph23">ɹ</ph><ph id="ph24">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="1" relation="PUNCT"/></mor></t>
+    <media start="0.000" end="1.316" unit="s"/>
+  </u>
+  <u who="MOT" uID="u1">
+    <pg><w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="6" relation="LINK"/></mor></w><model><pw><ss type="1"/><ph id="ph25">æ</ph><ph id="ph26">n</ph><ph id="ph27">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph28">æ</ph><ph id="ph29">n</ph><ph id="ph30">d</ph></pw></actual></pg>
+    <pg><w>then<mor type="mor"><mw><pos><c>adv</c><s>tem</s></pos><stem>then</stem></mw><gra type="gra" index="2" head="6" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph31">ð</ph><ph id="ph32">ɛ</ph><ph id="ph33">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph34">ð</ph><ph id="ph35">ɛ</ph><ph id="ph36">n</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="3" head="6" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph37">j</ph><ph id="ph38">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph39">j</ph><ph id="ph40">u</ph></pw></actual></pg>
+    <pg><w>can<mor type="mor"><mw><pos><c>mod</c></pos><stem>can</stem></mw><gra type="gra" index="4" head="6" relation="AUX"/></mor></w><model><pw><ss type="1"/><ph id="ph41">k</ph><ph id="ph42">æ</ph><ph id="ph43">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph44">k</ph><ph id="ph45">æ</ph><ph id="ph46">n</ph></pw></actual></pg>
+    <pg><w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="5" head="6" relation="SRL"/></mor></w><model><pw><ss type="1"/><ph id="ph47">g</ph><ph id="ph48">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph49">g</ph><ph id="ph50">o</ph></pw></actual></pg>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="6" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph51">t</ph><ph id="ph52">ɛ</ph><ph id="ph53">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph54">t</ph><ph id="ph55">ɛ</ph><ph id="ph56">ɫ</ph></pw></actual></pg>
+    <pg><w>her<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>her</stem></mw><gra type="gra" index="7" head="6" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph57">h</ph><ph id="ph58">ɝ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph59">h</ph><ph id="ph60">ɝ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="8" head="6" relation="PUNCT"/></mor></t>
+    <media start="1.316" end="2.728" unit="s"/>
+  </u>
+  <u who="CLI" uID="u2">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="2.728" end="3.133" unit="s"/>
+  </u>
+  <u who="CLI" uID="u3">
+    <pg><w>what<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>what</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph61">w</ph><ph id="ph62">ʌ</ph><ph id="ph63">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph64">w</ph><ph id="ph65">ʌ</ph><ph id="ph66">t</ph></pw></actual></pg>
+    <pg><w>is<mor type="mor"><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ph id="ph67">ə</ph><ph id="ph68">z</ph></pw></model><actual><pw><ph id="ph69">ə</ph><ph id="ph70">z</ph></pw></actual></pg>
+    <pg><w>this<mor type="mor"><mw><pos><c>det</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="3" head="2" relation="PRED"/></mor></w><model><pw><ph id="ph71">ð</ph><ph id="ph72">ə</ph><ph id="ph73">s</ph></pw></model><actual><pw><ph id="ph74">ð</ph><ph id="ph75">ə</ph><ph id="ph76">s</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="4" head="2" relation="PUNCT"/></mor></t>
+    <media start="3.133" end="4.425" unit="s"/>
+  </u>
+  <u who="CLI" uID="u4">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="4.425" end="5.591" unit="s"/>
+  </u>
+  <u who="CHI" uID="u5">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph77">*</ph></pw></model><actual><pw><ph id="ph78">*</ph></pw></actual></pg>
+    <pg><w>it's<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph79">ɪ</ph><ph id="ph80">t</ph><ph id="ph81">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph82">ɪ</ph><ph id="ph83">t</ph><ph id="ph84">s</ph></pw></actual></pg>
+    <pg><w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph85">e</ph></pw></model><actual><pw><ss type="1"/><ph id="ph86">e</ph></pw></actual></pg>
+    <pg><w>book<mor type="mor"><mw><pos><c>n</c></pos><stem>book</stem></mw><gra type="gra" index="4" head="2" relation="PRED"/></mor></w><model><pw><ss type="1"/><ph id="ph87">b</ph><ph id="ph88">ʊ</ph><ph id="ph89">k</ph></pw></model><actual><pw><ss type="1"/><ph id="ph90">b</ph><ph id="ph91">ʊ</ph><ph id="ph92">k</ph></pw></actual></pg>
+    <t type="e"><mor type="mor"><mt type="e"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+    <media start="5.591" end="9.408" unit="s"/>
+  </u>
+  <u who="CLI" uID="u6">
+    <pg><w>mhm<mor type="mor"><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph93">ə</ph><ph id="ph94">m</ph><ph id="ph95">h</ph><ph id="ph96">m̩</ph></pw></model><actual><pw><ph id="ph97">ə</ph><ph id="ph98">m</ph><ph id="ph99">h</ph><ph id="ph100">m̩</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="9.408" end="11.351" unit="s"/>
+  </u>
+  <u who="CHI" uID="u7">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph101">*</ph></pw></model><actual><pw><ph id="ph102">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="11.351" end="14.286" unit="s"/>
+  </u>
+  <u who="CLI" uID="u8">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="14.286" end="15.424" unit="s"/>
+  </u>
+  <u who="CHI" uID="u9">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph103">*</ph></pw></model><actual><pw><ph id="ph104">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="15.424" end="16.425" unit="s"/>
+  </u>
+  <u who="CHI" uID="u10">
+    <pg><w>in<mor type="mor"><mw><pos><c>prep</c></pos><stem>in</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph105">ɪ</ph><ph id="ph106">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph107">ɪ</ph><ph id="ph108">n</ph></pw></actual></pg>
+    <pg><w>there<mor type="mor"><mw><pos><c>n</c></pos><stem>there</stem></mw><gra type="gra" index="2" head="1" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph109">ð</ph><ph id="ph00109">ɛ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph112">ð</ph><ph id="ph00112">ɛ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="16.425" end="17.904" unit="s"/>
+  </u>
+  <u who="CHI" uID="u11">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph115">*</ph></pw></model><actual><pw><ph id="ph116">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="17.904" end="19.982" unit="s"/>
+  </u>
+  <u who="CLI" uID="u12">
+    <pg><w>mhm<mor type="mor"><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph117">ə</ph><ph id="ph118">m</ph><ph id="ph119">h</ph><ph id="ph120">m̩</ph></pw></model><actual><pw><ph id="ph121">ə</ph><ph id="ph122">m</ph><ph id="ph123">h</ph><ph id="ph124">m̩</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="19.982" end="21.587" unit="s"/>
+  </u>
+  <u who="CLI" uID="u13">
+    <pg><w>let's<mor type="mor"><mw><pos><c>v</c></pos><stem>let</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/><mor-post><mw><pos><c>pro</c><s>obj</s></pos><stem>us</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph125">l</ph><ph id="ph126">ɛ</ph><ph id="ph127">t</ph><ph id="ph128">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph129">l</ph><ph id="ph130">ɛ</ph><ph id="ph131">t</ph><ph id="ph132">s</ph></pw></actual></pg>
+    <pg><w>see<mor type="mor"><mw><pos><c>v</c></pos><stem>see</stem></mw><gra type="gra" index="3" head="1" relation="COMP"/></mor></w><model><pw><ss type="1"/><ph id="ph133">s</ph><ph id="ph134">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph135">s</ph><ph id="ph136">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media start="21.587" end="23.807" unit="s"/>
+  </u>
+  <u who="CLI" uID="u14">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="23.807" end="25.042" unit="s"/>
+  </u>
+  <u who="CHI" uID="u15">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph137">*</ph></pw></model><actual><pw><ph id="ph138">*</ph></pw></actual></pg>
+    <pg><w>mommy<mor type="mor"><mw><pos><c>n</c></pos><stem>mommy</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph139">m</ph><ph id="ph140">ɑ</ph><ph id="ph141">m</ph><ph id="ph142">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph143">m</ph><ph id="ph144">ɑ</ph><ph id="ph145">m</ph><ph id="ph146">i</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph147">*</ph></pw></model><actual><pw><ph id="ph148">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="25.042" end="28.793" unit="s"/>
+  </u>
+  <u who="MOT" uID="u16">
+    <pg><w>oh<mor type="mor"><mw><pos><c>co</c></pos><stem>oh</stem></mw><gra type="gra" index="1" head="4" relation="COM"/></mor></w><model><pw><ss type="1"/><ph id="ph149">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph150">o</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph151">*</ph></pw></model><actual><pw><ph id="ph152">*</ph></pw></actual></pg>
+    <pg><w>can<mor type="mor"><mw><pos><c>mod</c></pos><stem>can</stem></mw><gra type="gra" index="2" head="4" relation="AUX"/></mor></w><model><pw><ss type="1"/><ph id="ph153">k</ph><ph id="ph154">æ</ph><ph id="ph155">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph156">k</ph><ph id="ph157">æ</ph><ph id="ph158">n</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="3" head="4" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph159">j</ph><ph id="ph160">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph161">j</ph><ph id="ph162">u</ph></pw></actual></pg>
+    <pg><w>sit<mor type="mor"><mw><pos><c>v</c></pos><stem>sit</stem></mw><gra type="gra" index="4" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph163">s</ph><ph id="ph164">ɪ</ph><ph id="ph165">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph166">s</ph><ph id="ph167">ɪ</ph><ph id="ph168">t</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="5" head="4" relation="PUNCT"/></mor></t>
+    <media start="28.793" end="31.512" unit="s"/>
+  </u>
+  <u who="CLI" uID="u17">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+  </u>
+  <u who="CHI" uID="u18">
+    <pg><w>yes<mor type="mor"><mw><pos><c>co</c></pos><stem>yes</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph169">j</ph><ph id="ph170">ɛ</ph><ph id="ph171">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph172">j</ph><ph id="ph173">ɛ</ph><ph id="ph174">s</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="31.512" end="32.898" unit="s"/>
+  </u>
+  <u who="CLI" uID="u19">
+    <pg><w>can<mor type="mor"><mw><pos><c>mod</c></pos><stem>can</stem></mw><gra type="gra" index="1" head="3" relation="AUX"/></mor></w><model><pw><ss type="1"/><ph id="ph175">k</ph><ph id="ph176">æ</ph><ph id="ph177">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph178">k</ph><ph id="ph179">æ</ph><ph id="ph180">n</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph181">j</ph><ph id="ph182">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph183">j</ph><ph id="ph184">u</ph></pw></actual></pg>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph185">t</ph><ph id="ph186">ɛ</ph><ph id="ph187">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph188">t</ph><ph id="ph189">ɛ</ph><ph id="ph190">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="4" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph191">m</ph><ph id="ph192">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph193">m</ph><ph id="ph194">i</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+    <media start="32.898" end="34.213" unit="s"/>
+  </u>
+  <u who="CHI" uID="u20">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph195">*</ph></pw></model><actual><pw><ph id="ph196">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="35.515" end="37.563" unit="s"/>
+  </u>
+  <u who="CLI" uID="u21">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="37.563" end="38.116" unit="s"/>
+  </u>
+  <u who="CHI" uID="u22">
+    <e><happening>vocalization</happening></e>
+    <t type="p"/>
+  </u>
+  <u who="CLI" uID="u23">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph197">*</ph></pw></model><actual><pw><ph id="ph198">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="38.116" end="39.914" unit="s"/>
+  </u>
+  <u who="CHI" uID="u24">
+    <pg><w>huh<mor type="mor"><mw><pos><c>co</c></pos><stem>huh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph199">h</ph><ph id="ph200">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph201">h</ph><ph id="ph202">ʌ</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="39.914" end="41.116" unit="s"/>
+  </u>
+  <u who="CHI" uID="u25">
+    <pg><w>yes<mor type="mor"><mw><pos><c>co</c></pos><stem>yes</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph203">j</ph><ph id="ph204">ɛ</ph><ph id="ph205">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph206">j</ph><ph id="ph207">ɛ</ph><ph id="ph208">s</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="41.116" end="42.482" unit="s"/>
+  </u>
+  <u who="CHI" uID="u26">
+    <pg><w type="filler">um</w><model><pw><ss type="1"/><ph id="ph209">ʌ</ph><ph id="ph210">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph211">ʌ</ph><ph id="ph212">m</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="42.482" end="44.418" unit="s"/>
+  </u>
+  <u who="CHI" uID="u27">
+    <pg><w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph213">ð</ph><ph id="ph214">ə</ph><ph id="ph215">s</ph></pw></model><actual><pw><ph id="ph216">ð</ph><ph id="ph217">ə</ph><ph id="ph218">s</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="44.418" end="45.883" unit="s"/>
+  </u>
+  <u who="CLI" uID="u28">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="45.883" end="46.585" unit="s"/>
+  </u>
+  <u who="CLI" uID="u29">
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph219">k</ph><ph id="ph220">ʌ</ph><ph id="ph221">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph222">k</ph><ph id="ph223">ʌ</ph><ph id="ph224">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>prep</c></pos><stem>on</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph225">ɑ</ph><ph id="ph226">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph227">ɑ</ph><ph id="ph228">n</ph></pw></actual></pg>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="3" head="2" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph229">t</ph><ph id="ph230">ɛ</ph><ph id="ph231">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph232">t</ph><ph id="ph233">ɛ</ph><ph id="ph234">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="4" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph235">m</ph><ph id="ph236">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph237">m</ph><ph id="ph238">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="5" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph239">m</ph><ph id="ph00239">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph242">m</ph><ph id="ph00242">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="1" relation="PUNCT"/></mor></t>
+    <media start="46.585" end="48.037" unit="s"/>
+  </u>
+  <u who="CLI" uID="u30">
+    <pg><w>oh<mor type="mor"><mw><pos><c>co</c></pos><stem>oh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph245">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph246">o</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="48.037" end="49.536" unit="s"/>
+  </u>
+  <u who="CLI" uID="u31">
+    <pg><w>do<mor type="mor"><mw><pos><c>mod</c></pos><stem>do</stem></mw><gra type="gra" index="1" head="3" relation="AUX"/></mor></w><model><pw><ss type="1"/><ph id="ph247">d</ph><ph id="ph248">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph249">d</ph><ph id="ph250">u</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph251">j</ph><ph id="ph252">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph253">j</ph><ph id="ph254">u</ph></pw></actual></pg>
+    <pg><w>like<mor type="mor"><mw><pos><c>v</c></pos><stem>like</stem></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph255">l</ph><ph id="ph00255">a͡ɪ</ph><ph id="ph258">k</ph></pw></model><actual><pw><ss type="1"/><ph id="ph259">l</ph><ph id="ph00259">a͡ɪ</ph><ph id="ph262">k</ph></pw></actual></pg>
+    <pg><w>my<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>my</stem></mw><gra type="gra" index="4" head="5" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph263">m</ph><ph id="ph00263">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph266">m</ph><ph id="ph00266">a͡ɪ</ph></pw></actual></pg>
+    <pg><w>hair<mor type="mor"><mw><pos><c>n</c></pos><stem>hair</stem></mw><gra type="gra" index="5" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph269">h</ph><ph id="ph00269">ɛ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph272">h</ph><ph id="ph00272">ɛ͡ɚ</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="6" head="3" relation="PUNCT"/></mor></t>
+    <media start="49.536" end="50.690" unit="s"/>
+  </u>
+  <u who="CLI" uID="u32">
+    <pg><w>I<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>I</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph00274">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph00276">a͡ɪ</ph></pw></actual></pg>
+    <pg><w>like<mor type="mor"><mw><pos><c>v</c></pos><stem>like</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph279">l</ph><ph id="ph00279">a͡ɪ</ph><ph id="ph282">k</ph></pw></model><actual><pw><ss type="1"/><ph id="ph283">l</ph><ph id="ph00283">a͡ɪ</ph><ph id="ph286">k</ph></pw></actual></pg>
+    <pg><w>my<mor type="mor"><mw><pos><c>det</c><s>poss</s></pos><stem>my</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph287">m</ph><ph id="ph00287">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph290">m</ph><ph id="ph00290">a͡ɪ</ph></pw></actual></pg>
+    <pg><w>hair<mor type="mor"><mw><pos><c>n</c></pos><stem>hair</stem></mw><gra type="gra" index="4" head="2" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph293">h</ph><ph id="ph00293">ɛ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph296">h</ph><ph id="ph00296">ɛ͡ɚ</ph></pw></actual></pg>
+    <pg><w>too<mor type="mor"><mw><pos><c>post</c></pos><stem>too</stem></mw><gra type="gra" index="5" head="2" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph299">t</ph><ph id="ph300">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph301">t</ph><ph id="ph302">u</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="6" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="MOT" uID="u33">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ph id="ph303">*</ph></pw></model><actual><pw><ph id="ph304">*</ph></pw></actual></pg>
+    <pg><w>read<mor type="mor"><mw><pos><c>v</c></pos><stem>read</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph305">ɹ</ph><ph id="ph306">i</ph><ph id="ph307">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph308">ɹ</ph><ph id="ph309">i</ph><ph id="ph310">d</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph311">ð</ph><ph id="ph312">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph313">ð</ph><ph id="ph314">ʌ</ph></pw></actual></pg>
+    <pg><w>book<mor type="mor"><mw><pos><c>n</c></pos><stem>book</stem></mw><gra type="gra" index="4" head="2" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph315">b</ph><ph id="ph316">ʊ</ph><ph id="ph317">k</ph></pw></model><actual><pw><ss type="1"/><ph id="ph318">b</ph><ph id="ph319">ʊ</ph><ph id="ph320">k</ph></pw></actual></pg>
+    <pg><w>to<mor type="mor"><mw><pos><c>prep</c></pos><stem>to</stem></mw><gra type="gra" index="5" head="2" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph321">t</ph><ph id="ph322">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph323">t</ph><ph id="ph324">u</ph></pw></actual></pg>
+    <pg><w>her<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>her</stem></mw><gra type="gra" index="6" head="5" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph325">h</ph><ph id="ph326">ɝ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph327">h</ph><ph id="ph328">ɝ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="7" head="2" relation="PUNCT"/></mor></t>
+    <media start="50.690" end="51.872" unit="s"/>
+  </u>
+  <u who="CLI" uID="u34">
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph329">k</ph><ph id="ph330">ʌ</ph><ph id="ph331">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph332">k</ph><ph id="ph333">ʌ</ph><ph id="ph334">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>prep</c></pos><stem>on</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph335">ɑ</ph><ph id="ph336">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph337">ɑ</ph><ph id="ph338">n</ph></pw></actual></pg>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="3" head="2" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph339">t</ph><ph id="ph340">ɛ</ph><ph id="ph341">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph342">t</ph><ph id="ph343">ɛ</ph><ph id="ph344">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="4" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph345">m</ph><ph id="ph346">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph347">m</ph><ph id="ph348">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="5" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph349">m</ph><ph id="ph00349">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph352">m</ph><ph id="ph00352">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="1" relation="PUNCT"/></mor></t>
+    <media start="51.872" end="53.305" unit="s"/>
+  </u>
+  <u who="CLI" uID="u35">
+    <pg><w>about<mor type="mor"><mw><pos><c>prep</c></pos><stem>about</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph355">ə</ph><ss type="1"/><ph id="ph356">b</ph><ph id="ph00356">a͡ʊ</ph><ph id="ph359">t</ph></pw></model><actual><pw><ph id="ph360">ə</ph><ss type="1"/><ph id="ph361">b</ph><ph id="ph00361">a͡ʊ</ph><ph id="ph364">t</ph></pw></actual></pg>
+    <g><pg><w>this</w><model><pw><ph id="ph365">ð</ph><ph id="ph366">ə</ph><ph id="ph367">s</ph></pw></model><actual><pw><ph id="ph368">ð</ph><ph id="ph369">ə</ph><ph id="ph370">s</ph></pw></actual></pg><k type="retracing with correction"/></g>
+    <g><pg><w>the</w><model><pw><ss type="1"/><ph id="ph371">ð</ph><ph id="ph372">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph373">ð</ph><ph id="ph374">ʌ</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="2" head="3" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph375">ð</ph><ph id="ph376">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph377">ð</ph><ph id="ph378">ʌ</ph></pw></actual></pg>
+    <pg><w>story<mor type="mor"><mw><pos><c>n</c></pos><stem>story</stem></mw><gra type="gra" index="3" head="1" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph379">s</ph><ph id="ph380">t</ph><ph id="ph381">ɔ</ph><ph id="ph382">ɹ</ph><ph id="ph383">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph384">s</ph><ph id="ph385">t</ph><ph id="ph386">ɔ</ph><ph id="ph387">ɹ</ph><ph id="ph388">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media start="53.305" end="55.323" unit="s"/>
+  </u>
+  <u who="CLI" uID="u36">
+    <pg><w>hm<mor type="mor"><mw><pos><c>co</c></pos><stem>hm</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph389">*</ph></pw></model><actual><pw><ph id="ph390">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="55.323" end="57.740" unit="s"/>
+  </u>
+  <u who="CLI" uID="u37">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="57.740" end="58.824" unit="s"/>
+  </u>
+  <u who="CLI" uID="u38">
+    <e><happening>laughs</happening></e>
+    <t type="p"/>
+    <media start="58.824" end="60.858" unit="s"/>
+  </u>
+  <u who="CLI" uID="u39">
+    <e><happening>laughs</happening></e>
+    <t type="p"/>
+    <media start="60.858" end="64.144" unit="s"/>
+  </u>
+  <u who="MOT" uID="u40">
+    <pg><w>oh<mor type="mor"><mw><pos><c>co</c></pos><stem>oh</stem></mw><gra type="gra" index="1" head="2" relation="COM"/></mor></w><model><pw><ss type="1"/><ph id="ph391">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph392">o</ph></pw></actual></pg>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph393">t</ph><ph id="ph394">ɛ</ph><ph id="ph395">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph396">t</ph><ph id="ph397">ɛ</ph><ph id="ph398">ɫ</ph></pw></actual></pg>
+    <pg><w>her<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>her</stem></mw><gra type="gra" index="3" head="2" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph399">h</ph><ph id="ph400">ɝ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph401">h</ph><ph id="ph402">ɝ</ph></pw></actual></pg>
+    <pg><w>about<mor type="mor"><mw><pos><c>prep</c></pos><stem>about</stem></mw><gra type="gra" index="4" head="2" relation="JCT"/></mor></w><model><pw><ph id="ph403">ə</ph><ss type="1"/><ph id="ph404">b</ph><ph id="ph00404">a͡ʊ</ph><ph id="ph407">t</ph></pw></model><actual><pw><ph id="ph408">ə</ph><ss type="1"/><ph id="ph409">b</ph><ph id="ph00409">a͡ʊ</ph><ph id="ph412">t</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="5" head="6" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph413">ð</ph><ph id="ph414">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph415">ð</ph><ph id="ph416">ʌ</ph></pw></actual></pg>
+    <pg><w>story<mor type="mor"><mw><pos><c>n</c></pos><stem>story</stem></mw><gra type="gra" index="6" head="4" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph417">s</ph><ph id="ph418">t</ph><ph id="ph419">ɔ</ph><ph id="ph420">ɹ</ph><ph id="ph421">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph422">s</ph><ph id="ph423">t</ph><ph id="ph424">ɔ</ph><ph id="ph425">ɹ</ph><ph id="ph426">i</ph></pw></actual></pg>
+    <t type="e"><mor type="mor"><mt type="e"/><gra type="gra" index="7" head="2" relation="PUNCT"/></mor></t>
+    <media start="64.144" end="65.444" unit="s"/>
+  </u>
+  <u who="CLI" uID="u41">
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph427">k</ph><ph id="ph428">ʌ</ph><ph id="ph429">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph430">k</ph><ph id="ph431">ʌ</ph><ph id="ph432">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>adv</c></pos><stem>on</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph433">ɑ</ph><ph id="ph434">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph435">ɑ</ph><ph id="ph436">n</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="66.444" end="67.395" unit="s"/>
+  </u>
+  <u who="MOT" uID="u42">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph437">*</ph></pw></model><actual><pw><ph id="ph438">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="67.395" end="68.463" unit="s"/>
+  </u>
+  <u who="CHI" uID="u43">
+    <pg><w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ph id="ph439">ð</ph><ph id="ph440">ə</ph><ph id="ph441">s</ph></pw></model><actual><pw><ph id="ph442">ð</ph><ph id="ph443">ə</ph><ph id="ph444">s</ph></pw></actual></pg>
+    <pg><w>one<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>one</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph445">w</ph><ph id="ph446">ʌ</ph><ph id="ph447">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph448">w</ph><ph id="ph449">ʌ</ph><ph id="ph450">n</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CHI" uID="u44">
+    <pg><w>I<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>I</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph00450">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph00452">a͡ɪ</ph></pw></actual></pg>
+    <pg><w>want<mor type="mor"><mw><pos><c>v</c></pos><stem>want</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph455">w</ph><ph id="ph456">ɑ</ph><ph id="ph457">n</ph><ph id="ph458">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph459">w</ph><ph id="ph460">ɑ</ph><ph id="ph461">n</ph><ph id="ph462">t</ph></pw></actual></pg>
+    <pg><w>to<mor type="mor"><mw><pos><c>inf</c></pos><stem>to</stem></mw><gra type="gra" index="3" head="4" relation="INF"/></mor></w><model><pw><ss type="1"/><ph id="ph463">t</ph><ph id="ph464">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph465">t</ph><ph id="ph466">u</ph></pw></actual></pg>
+    <pg><w>read<mor type="mor"><mw><pos><c>v</c></pos><stem>read</stem><mk type="sfxf">ZERO</mk></mw><gra type="gra" index="4" head="2" relation="COMP"/></mor></w><model><pw><ss type="1"/><ph id="ph467">ɹ</ph><ph id="ph468">i</ph><ph id="ph469">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph470">ɹ</ph><ph id="ph471">i</ph><ph id="ph472">d</ph></pw></actual></pg>
+    <pg><w>it<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="5" head="4" relation="OBJ"/></mor></w><model><pw><ph id="ph473">ə</ph><ph id="ph474">t</ph></pw></model><actual><pw><ph id="ph475">ə</ph><ph id="ph476">t</ph></pw></actual></pg>
+    <pg><w>too<mor type="mor"><mw><pos><c>adv</c></pos><stem>too</stem></mw><gra type="gra" index="6" head="4" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph477">t</ph><ph id="ph478">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph479">t</ph><ph id="ph480">u</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="7" head="2" relation="PUNCT"/></mor></t>
+    <media start="68.463" end="72.247" unit="s"/>
+  </u>
+  <u who="CLI" uID="u45">
+    <pg><w>mhm<mor type="mor"><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph481">ə</ph><ph id="ph482">m</ph><ph id="ph483">h</ph><ph id="ph484">m̩</ph></pw></model><actual><pw><ph id="ph485">ə</ph><ph id="ph486">m</ph><ph id="ph487">h</ph><ph id="ph488">m̩</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="72.247" end="73.414" unit="s"/>
+  </u>
+  <u who="CHI" uID="u46">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph489">*</ph></pw></model><actual><pw><ph id="ph490">*</ph></pw></actual></pg>
+    <pg><w>here<mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph491">h</ph><ph id="ph00491">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph494">h</ph><ph id="ph00494">ɪ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="73.414" end="75.748" unit="s"/>
+  </u>
+  <u who="CHI" uID="u47">
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="1" head="2" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph497">ð</ph><ph id="ph498">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph499">ð</ph><ph id="ph500">ʌ</ph></pw></actual></pg>
+    <pg><w>mommy<mor type="mor"><mw><pos><c>n</c></pos><stem>mommy</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph501">m</ph><ph id="ph502">ɑ</ph><ph id="ph503">m</ph><ph id="ph504">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph505">m</ph><ph id="ph506">ɑ</ph><ph id="ph507">m</ph><ph id="ph508">i</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph509">*</ph></pw></model><actual><pw><ph id="ph510">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+    <media start="75.748" end="84.269" unit="s"/>
+  </u>
+  <u who="CLI" uID="u48">
+    <pg><w>mhm<mor type="mor"><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph511">ə</ph><ph id="ph512">m</ph><ph id="ph513">h</ph><ph id="ph514">m̩</ph></pw></model><actual><pw><ph id="ph515">ə</ph><ph id="ph516">m</ph><ph id="ph517">h</ph><ph id="ph518">m̩</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="84.269" end="84.854" unit="s"/>
+  </u>
+  <u who="CLI" uID="u49">
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph519">t</ph><ph id="ph520">ɛ</ph><ph id="ph521">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph522">t</ph><ph id="ph523">ɛ</ph><ph id="ph524">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph525">m</ph><ph id="ph526">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph527">m</ph><ph id="ph528">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="84.854" end="87.038" unit="s"/>
+  </u>
+  <u who="CHI" uID="u50">
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="1" head="2" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph529">ð</ph><ph id="ph530">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph531">ð</ph><ph id="ph532">ʌ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph533">*</ph></pw></model><actual><pw><ph id="ph534">*</ph></pw></actual></pg>
+    <pg><w>was<mor type="mor"><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PAST</mk><mk type="sfxf">13S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ph id="ph535">w</ph><ph id="ph536">ə</ph><ph id="ph537">z</ph></pw></model><actual><pw><ph id="ph538">w</ph><ph id="ph539">ə</ph><ph id="ph540">z</ph></pw></actual></pg>
+    <pg><w>with<mor type="mor"><mw><pos><c>prep</c></pos><stem>with</stem></mw><gra type="gra" index="3" head="2" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph541">w</ph><ph id="ph542">ɪ</ph><ph id="ph543">ð</ph></pw></model><actual><pw><ss type="1"/><ph id="ph544">w</ph><ph id="ph545">ɪ</ph><ph id="ph546">ð</ph></pw></actual></pg>
+    <pg><w>him<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>him</stem></mw><gra type="gra" index="4" head="3" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph547">h</ph><ph id="ph548">ɪ</ph><ph id="ph549">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph550">h</ph><ph id="ph551">ɪ</ph><ph id="ph552">m</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+    <media start="87.038" end="88.472" unit="s"/>
+  </u>
+  <u who="CHI" uID="u51">
+    <pg><w>it's<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph553">ɪ</ph><ph id="ph554">t</ph><ph id="ph555">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph556">ɪ</ph><ph id="ph557">t</ph><ph id="ph558">s</ph></pw></actual></pg>
+    <pg><w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph559">e</ph></pw></model><actual><pw><ss type="1"/><ph id="ph560">e</ph></pw></actual></pg>
+    <pg><w>frog<mor type="mor"><mw><pos><c>n</c></pos><stem>frog</stem></mw><gra type="gra" index="4" head="2" relation="PRED"/></mor></w><model><pw><ss type="1"/><ph id="ph561">f</ph><ph id="ph562">ɹ</ph><ph id="ph563">ɑ</ph><ph id="ph564">g</ph></pw></model><actual><pw><ss type="1"/><ph id="ph565">f</ph><ph id="ph566">ɹ</ph><ph id="ph567">ɑ</ph><ph id="ph568">g</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CHI" uID="u52">
+    <pg><w>where<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>where</stem></mw><gra type="gra" index="1" head="2" relation="LINK"/></mor></w><model><pw><ss type="1"/><ph id="ph569">w</ph><ph id="ph00569">ɛ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph572">w</ph><ph id="ph00572">ɛ͡ɚ</ph></pw></actual></pg>
+    <pg><w>are<mor type="mor"><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ph id="ph575">ɚ</ph></pw></model><actual><pw><ph id="ph576">ɚ</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="3" head="2" relation="PRED"/></mor></w><model><pw><ss type="1"/><ph id="ph577">j</ph><ph id="ph578">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph579">j</ph><ph id="ph580">u</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="4" head="2" relation="PUNCT"/></mor></t>
+    <media start="88.472" end="90.356" unit="s"/>
+  </u>
+  <u who="CLI" uID="u53">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="90.356" end="91.238" unit="s"/>
+  </u>
+  <u who="CLI" uID="u54">
+    <pg><w>oh<mor type="mor"><mw><pos><c>co</c></pos><stem>oh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph581">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph582">o</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="91.238" end="92.573" unit="s"/>
+  </u>
+  <u who="CLI" uID="u55">
+    <pg><w>in<mor type="mor"><mw><pos><c>prep</c></pos><stem>in</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph583">ɪ</ph><ph id="ph584">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph585">ɪ</ph><ph id="ph586">n</ph></pw></actual></pg>
+    <pg><w>here<mor type="mor"><mw><pos><c>n</c></pos><stem>here</stem></mw><gra type="gra" index="2" head="1" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph587">h</ph><ph id="ph00587">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph590">h</ph><ph id="ph00590">ɪ͡ɚ</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="92.573" end="94.341" unit="s"/>
+  </u>
+  <u who="CHI" uID="u56">
+    <pg><w>no<mor type="mor"><mw><pos><c>co</c></pos><stem>no</stem></mw><gra type="gra" index="1" head="3" relation="COM"/></mor></w><model><pw><ss type="1"/><ph id="ph593">n</ph><ph id="ph594">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph595">n</ph><ph id="ph596">o</ph></pw></actual></pg>
+    <pg><w>that's<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph597">ð</ph><ph id="ph598">æ</ph><ph id="ph599">t</ph><ph id="ph600">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph601">ð</ph><ph id="ph602">æ</ph><ph id="ph603">t</ph><ph id="ph604">s</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="4" head="5" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph605">ð</ph><ph id="ph606">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph607">ð</ph><ph id="ph608">ʌ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph609">*</ph></pw></model><actual><pw><ph id="ph610">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+    <media start="94.341" end="96.942" unit="s"/>
+  </u>
+  <u who="CHI" uID="u57">
+    <pg><w>that's<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph611">ð</ph><ph id="ph612">æ</ph><ph id="ph613">t</ph><ph id="ph614">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph615">ð</ph><ph id="ph616">æ</ph><ph id="ph617">t</ph><ph id="ph618">s</ph></pw></actual></pg>
+    <pg><w>not<mor type="mor"><mw><pos><c>neg</c></pos><stem>not</stem></mw><gra type="gra" index="3" head="2" relation="NEG"/></mor></w><model><pw><ss type="1"/><ph id="ph619">n</ph><ph id="ph620">ɑ</ph><ph id="ph621">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph622">n</ph><ph id="ph623">ɑ</ph><ph id="ph624">t</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="4" head="5" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph625">ð</ph><ph id="ph626">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph627">ð</ph><ph id="ph628">ʌ</ph></pw></actual></pg>
+    <pg><w>frog<mor type="mor"><mw><pos><c>n</c></pos><stem>frog</stem></mw><gra type="gra" index="5" head="2" relation="PRED"/></mor></w><model><pw><ss type="1"/><ph id="ph629">f</ph><ph id="ph630">ɹ</ph><ph id="ph631">ɑ</ph><ph id="ph632">g</ph></pw></model><actual><pw><ss type="1"/><ph id="ph633">f</ph><ph id="ph634">ɹ</ph><ph id="ph635">ɑ</ph><ph id="ph636">g</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="2" relation="PUNCT"/></mor></t>
+    <media start="96.942" end="98.978" unit="s"/>
+  </u>
+  <u who="CLI" uID="u58">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="98.978" end="99.811" unit="s"/>
+  </u>
+  <u who="CHI" uID="u59">
+    <pg><w>that's<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph637">ð</ph><ph id="ph638">æ</ph><ph id="ph639">t</ph><ph id="ph640">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph641">ð</ph><ph id="ph642">æ</ph><ph id="ph643">t</ph><ph id="ph644">s</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph645">ð</ph><ph id="ph646">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph647">ð</ph><ph id="ph648">ʌ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph649">*</ph></pw></model><actual><pw><ph id="ph650">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u60">
+    <pg><w>uhhuh<mor type="mor"><mw><pos><c>co</c></pos><stem>uhhuh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph651">ʌ</ph><ss type="1"/><ph id="ph652">h</ph><ph id="ph653">ʌ</ph></pw></model><actual><pw><ph id="ph654">ʌ</ph><ss type="1"/><ph id="ph655">h</ph><ph id="ph656">ʌ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="99.811" end="101.478" unit="s"/>
+  </u>
+  <u who="CLI" uID="u61">
+    <pg><pause symbolic-length="long"/><model><pw><ph id="ph003656">(..)</ph></pw></model><actual><pw><ph id="ph004656">(..)</ph></pw></actual></pg>
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph657">k</ph><ph id="ph658">ʌ</ph><ph id="ph659">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph660">k</ph><ph id="ph661">ʌ</ph><ph id="ph662">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>prep</c></pos><stem>on</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph663">ɑ</ph><ph id="ph664">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph665">ɑ</ph><ph id="ph666">n</ph></pw></actual></pg>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="3" head="2" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph667">t</ph><ph id="ph668">ɛ</ph><ph id="ph669">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph670">t</ph><ph id="ph671">ɛ</ph><ph id="ph672">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="4" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph673">m</ph><ph id="ph674">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph675">m</ph><ph id="ph676">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="5" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph677">m</ph><ph id="ph00677">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph680">m</ph><ph id="ph00680">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="1" relation="PUNCT"/></mor></t>
+    <media start="101.478" end="108.781" unit="s"/>
+  </u>
+  <u who="CHI" uID="u62">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph683">*</ph></pw></model><actual><pw><ph id="ph684">*</ph></pw></actual></pg>
+    <pg><w>frog<mor type="mor"><mw><pos><c>n</c></pos><stem>frog</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph685">f</ph><ph id="ph686">ɹ</ph><ph id="ph687">ɑ</ph><ph id="ph688">g</ph></pw></model><actual><pw><ss type="1"/><ph id="ph689">f</ph><ph id="ph690">ɹ</ph><ph id="ph691">ɑ</ph><ph id="ph692">g</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="108.781" end="111.949" unit="s"/>
+  </u>
+  <u who="CHI" uID="u63">
+    <pg><w>where<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>where</stem></mw><gra type="gra" index="1" head="2" relation="LINK"/></mor></w><model><pw><ss type="1"/><ph id="ph693">w</ph><ph id="ph00693">ɛ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph696">w</ph><ph id="ph00696">ɛ͡ɚ</ph></pw></actual></pg>
+    <pg><w>are<mor type="mor"><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">PRES</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ph id="ph699">ɚ</ph></pw></model><actual><pw><ph id="ph700">ɚ</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="3" head="2" relation="PRED"/></mor></w><model><pw><ss type="1"/><ph id="ph701">j</ph><ph id="ph702">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph703">j</ph><ph id="ph704">u</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="4" head="2" relation="PUNCT"/></mor></t>
+    <media start="111.949" end="113.598" unit="s"/>
+  </u>
+  <u who="CHI" uID="u64">
+    <g><pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph705">*</ph></pw></model><actual><pw><ph id="ph706">*</ph></pw></actual></pg><ga type="paralinguistics">mumbles</ga></g>
+    <t type="p"/>
+    <media start="113.598" end="115.800" unit="s"/>
+  </u>
+  <u who="CLI" uID="u65">
+    <pg><w>uhhuh<mor type="mor"><mw><pos><c>co</c></pos><stem>uhhuh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph707">ʌ</ph><ss type="1"/><ph id="ph708">h</ph><ph id="ph709">ʌ</ph></pw></model><actual><pw><ph id="ph710">ʌ</ph><ss type="1"/><ph id="ph711">h</ph><ph id="ph712">ʌ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="115.800" end="117.168" unit="s"/>
+  </u>
+  <u who="CLI" uID="u66">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+  </u>
+  <u who="CHI" uID="u67">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph713">*</ph></pw></model><actual><pw><ph id="ph714">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="117.168" end="118.886" unit="s"/>
+  </u>
+  <u who="CHI" uID="u68">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="118.886" end="120.486" unit="s"/>
+  </u>
+  <u who="CHI" uID="u69">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph715">*</ph></pw></model><actual><pw><ph id="ph716">*</ph></pw></actual></pg>
+    <pg><w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph717">ð</ph><ph id="ph718">ə</ph><ph id="ph719">s</ph></pw></model><actual><pw><ph id="ph720">ð</ph><ph id="ph721">ə</ph><ph id="ph722">s</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="120.486" end="121.637" unit="s"/>
+  </u>
+  <u who="CHI" uID="u70">
+    <pg><w>trapeze<mor type="mor"><mw><pos><c>n</c></pos><stem>trapeze</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph723">t</ph><ph id="ph724">ɹ</ph><ph id="ph725">ə</ph><ss type="1"/><ph id="ph726">p</ph><ph id="ph727">i</ph><ph id="ph728">z</ph></pw></model><actual><pw><ph id="ph729">t</ph><ph id="ph730">ɹ</ph><ph id="ph731">ə</ph><ss type="1"/><ph id="ph732">p</ph><ph id="ph733">i</ph><ph id="ph734">z</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="121.637" end="122.487" unit="s"/>
+  </u>
+  <u who="CLI" uID="u71">
+    <pg><w>uhhuh<mor type="mor"><mw><pos><c>co</c></pos><stem>uhhuh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph735">ʌ</ph><ss type="1"/><ph id="ph736">h</ph><ph id="ph737">ʌ</ph></pw></model><actual><pw><ph id="ph738">ʌ</ph><ss type="1"/><ph id="ph739">h</ph><ph id="ph740">ʌ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="122.487" end="123.889" unit="s"/>
+  </u>
+  <u who="CHI" uID="u72">
+    <pg><w>help<mor type="mor"><mw><pos><c>v</c></pos><stem>help</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph741">h</ph><ph id="ph742">ɛ</ph><ph id="ph743">ɫ</ph><ph id="ph744">p</ph></pw></model><actual><pw><ss type="1"/><ph id="ph745">h</ph><ph id="ph746">ɛ</ph><ph id="ph747">ɫ</ph><ph id="ph748">p</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph749">m</ph><ph id="ph750">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph751">m</ph><ph id="ph752">i</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph753">*</ph></pw></model><actual><pw><ph id="ph754">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="123.889" end="126.172" unit="s"/>
+  </u>
+  <u who="CLI" uID="u73">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph755">*</ph></pw></model><actual><pw><ph id="ph756">*</ph></pw></actual></pg>
+    <g><pg><w>no</w><model><pw><ss type="1"/><ph id="ph757">n</ph><ph id="ph758">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph759">n</ph><ph id="ph760">o</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>no<mor type="mor"><mw><pos><c>co</c></pos><stem>no</stem></mw><gra type="gra" index="2" head="1" relation="COM"/></mor></w><model><pw><ss type="1"/><ph id="ph761">n</ph><ph id="ph762">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph763">n</ph><ph id="ph764">o</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="126.172" end="127.874" unit="s"/>
+  </u>
+  <u who="CLI" uID="u74">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph765">*</ph></pw></model><actual><pw><ph id="ph766">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="127.874" end="129.108" unit="s"/>
+  </u>
+  <u who="CLI" uID="u75">
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph767">t</ph><ph id="ph768">ɛ</ph><ph id="ph769">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph770">t</ph><ph id="ph771">ɛ</ph><ph id="ph772">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph773">m</ph><ph id="ph774">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph775">m</ph><ph id="ph776">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="3" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph777">m</ph><ph id="ph00777">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph780">m</ph><ph id="ph00780">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u76">
+    <pg><w>look<mor type="mor"><mw><pos><c>co</c></pos><stem>look</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph783">l</ph><ph id="ph784">ʊ</ph><ph id="ph785">k</ph></pw></model><actual><pw><ss type="1"/><ph id="ph786">l</ph><ph id="ph787">ʊ</ph><ph id="ph788">k</ph></pw></actual></pg>
+    <t type="e"><mor type="mor"><mt type="e"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="129.108" end="130.225" unit="s"/>
+  </u>
+  <u who="CLI" uID="u77">
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph789">t</ph><ph id="ph790">ɛ</ph><ph id="ph791">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph792">t</ph><ph id="ph793">ɛ</ph><ph id="ph794">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph795">m</ph><ph id="ph796">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph797">m</ph><ph id="ph798">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="3" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph799">m</ph><ph id="ph00799">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph802">m</ph><ph id="ph00802">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media start="130.225" end="131.109" unit="s"/>
+  </u>
+  <u who="CLI" uID="u78">
+    <pg><w>here<mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph805">h</ph><ph id="ph00805">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph808">h</ph><ph id="ph00808">ɪ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="131.109" end="131.940" unit="s"/>
+  </u>
+  <u who="CHI" uID="u79">
+    <pg><w><ca-delimiter type="begin" label="repeated-segment"/>th<ca-delimiter type="end" label="repeated-segment"/>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph811">*</ph></pw></model><actual><pw><ph id="ph812">*</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph813">*</ph></pw></model><actual><pw><ph id="ph814">*</ph></pw></actual></pg>
+    <g><pg><w>and</w><model><pw><ss type="1"/><ph id="ph815">æ</ph><ph id="ph816">n</ph><ph id="ph817">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph818">æ</ph><ph id="ph819">n</ph><ph id="ph820">d</ph></pw></actual></pg><pg><w>the</w><model><pw><ss type="1"/><ph id="ph821">ð</ph><ph id="ph822">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph823">ð</ph><ph id="ph824">ʌ</ph></pw></actual></pg><pg><w type="fragment">p</w><model><pw><ss type="1"/><ph id="ph825">p</ph><ph id="ph826">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph827">p</ph><ph id="ph828">i</ph></pw></actual></pg><k type="retracing with correction"/></g>
+    <g><pg><w>and</w><model><pw><ss type="1"/><ph id="ph829">æ</ph><ph id="ph830">n</ph><ph id="ph831">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph832">æ</ph><ph id="ph833">n</ph><ph id="ph834">d</ph></pw></actual></pg><pg><w>the</w><model><pw><ss type="1"/><ph id="ph835">ð</ph><ph id="ph836">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph837">ð</ph><ph id="ph838">ʌ</ph></pw></actual></pg><pg><w>owl</w><model><pw><ss type="1"/><ph id="ph00838">a͡ʊ</ph><ph id="ph841">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph00841">a͡ʊ</ph><ph id="ph844">ɫ</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="2" head="1" relation="CONJ"/></mor></w><model><pw><ss type="1"/><ph id="ph845">æ</ph><ph id="ph846">n</ph><ph id="ph847">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph848">æ</ph><ph id="ph849">n</ph><ph id="ph850">d</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="3" head="5" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph851">ð</ph><ph id="ph852">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph853">ð</ph><ph id="ph854">ʌ</ph></pw></actual></pg>
+    <pg><w>owl<mor type="mor"><mw><pos><c>n</c></pos><stem>owl</stem></mw><gra type="gra" index="4" head="5" relation="MOD"/></mor></w><model><pw><ss type="1"/><ph id="ph00854">a͡ʊ</ph><ph id="ph857">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph00857">a͡ʊ</ph><ph id="ph860">ɫ</ph></pw></actual></pg>
+    <pg><w>baby<mor type="mor"><mw><pos><c>n</c></pos><stem>baby</stem></mw><gra type="gra" index="5" head="2" relation="COORD"/></mor></w><model><pw><ss type="1"/><ph id="ph861">b</ph><ph id="ph862">e</ph><ph id="ph863">b</ph><ph id="ph864">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph865">b</ph><ph id="ph866">e</ph><ph id="ph867">b</ph><ph id="ph868">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="1" relation="PUNCT"/></mor></t>
+    <media start="131.940" end="139.041" unit="s"/>
+  </u>
+  <u who="CLI" uID="u80">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="139.041" end="140.146" unit="s"/>
+  </u>
+  <u who="CLI" uID="u81">
+    <pg><w>wow<mor type="mor"><mw><pos><c>co</c></pos><stem>wow</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph869">w</ph><ph id="ph00869">a͡ʊ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph872">w</ph><ph id="ph00872">a͡ʊ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="140.146" end="141.032" unit="s"/>
+  </u>
+  <u who="CHI" uID="u82">
+    <pg><w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph875">ð</ph><ph id="ph876">ə</ph><ph id="ph877">s</ph></pw></model><actual><pw><ph id="ph878">ð</ph><ph id="ph879">ə</ph><ph id="ph880">s</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph881">*</ph></pw></model><actual><pw><ph id="ph882">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u83">
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph883">t</ph><ph id="ph884">ɛ</ph><ph id="ph885">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph886">t</ph><ph id="ph887">ɛ</ph><ph id="ph888">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph889">m</ph><ph id="ph890">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph891">m</ph><ph id="ph892">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="3" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph893">m</ph><ph id="ph00893">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph896">m</ph><ph id="ph00896">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media start="141.032" end="143.231" unit="s"/>
+  </u>
+  <u who="CHI" uID="u84">
+    <e><happening>vocalizations</happening></e>
+    <t type="p"/>
+    <media start="143.231" end="146.583" unit="s"/>
+  </u>
+  <u who="CHI" uID="u85">
+    <e><happening>vocalizations</happening></e>
+    <t type="p"/>
+    <media start="146.583" end="148.057" unit="s"/>
+  </u>
+  <u who="CHI" uID="u86">
+    <pg><w>he<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>he</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph899">h</ph><ph id="ph900">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph901">h</ph><ph id="ph902">i</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph903">*</ph></pw></model><actual><pw><ph id="ph904">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="148.057" end="149.767" unit="s"/>
+  </u>
+  <u who="CHI" uID="u87">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph905">*</ph></pw></model><actual><pw><ph id="ph906">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="149.767" end="151.816" unit="s"/>
+  </u>
+  <u who="CHI" uID="u88">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph907">*</ph></pw></model><actual><pw><ph id="ph908">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="151.816" end="154.035" unit="s"/>
+  </u>
+  <u who="CHI" uID="u89">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="154.035" end="155.288" unit="s"/>
+  </u>
+  <u who="CHI" uID="u90">
+    <g><pg><w>a</w><model><pw><ss type="1"/><ph id="ph909">e</ph></pw></model><actual><pw><ss type="1"/><ph id="ph910">e</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph911">e</ph></pw></model><actual><pw><ss type="1"/><ph id="ph912">e</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph913">*</ph></pw></model><actual><pw><ph id="ph914">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="155.288" end="157.474" unit="s"/>
+  </u>
+  <u who="CLI" uID="u91">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ph id="ph915">*</ph></pw></model><actual><pw><ph id="ph916">*</ph></pw></actual></pg>
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph917">k</ph><ph id="ph918">ʌ</ph><ph id="ph919">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph920">k</ph><ph id="ph921">ʌ</ph><ph id="ph922">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>prep</c></pos><stem>on</stem></mw><gra type="gra" index="3" head="2" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph923">ɑ</ph><ph id="ph924">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph925">ɑ</ph><ph id="ph926">n</ph></pw></actual></pg>
+    <g><pg><w>tell</w><model><pw><ss type="1"/><ph id="ph927">t</ph><ph id="ph928">ɛ</ph><ph id="ph929">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph930">t</ph><ph id="ph931">ɛ</ph><ph id="ph932">ɫ</ph></pw></actual></pg><pg><w>me</w><model><pw><ss type="1"/><ph id="ph933">m</ph><ph id="ph934">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph935">m</ph><ph id="ph936">i</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="4" head="3" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph937">t</ph><ph id="ph938">ɛ</ph><ph id="ph939">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph940">t</ph><ph id="ph941">ɛ</ph><ph id="ph942">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="5" head="4" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph943">m</ph><ph id="ph944">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph945">m</ph><ph id="ph946">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="2" relation="PUNCT"/></mor></t>
+    <media start="158.905" end="161.473" unit="s"/>
+  </u>
+  <u who="CHI" uID="u92">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph947">*</ph></pw></model><actual><pw><ph id="ph948">*</ph></pw></actual></pg>
+    <pg><w>told<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem><mk type="sfxf">PAST</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph949">t</ph><ph id="ph950">o</ph><ph id="ph951">ɫ</ph><ph id="ph952">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph953">t</ph><ph id="ph954">o</ph><ph id="ph955">ɫ</ph><ph id="ph956">d</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph957">m</ph><ph id="ph958">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph959">m</ph><ph id="ph960">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="161.473" end="163.650" unit="s"/>
+  </u>
+  <u who="CLI" uID="u93">
+    <pg><w>uhhuh<mor type="mor"><mw><pos><c>co</c></pos><stem>uhhuh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph961">ʌ</ph><ss type="1"/><ph id="ph962">h</ph><ph id="ph963">ʌ</ph></pw></model><actual><pw><ph id="ph964">ʌ</ph><ss type="1"/><ph id="ph965">h</ph><ph id="ph966">ʌ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="163.650" end="165.474" unit="s"/>
+  </u>
+  <u who="CHI" uID="u94">
+    <e><happening>vocalization</happening></e>
+    <t type="p"/>
+    <media start="165.474" end="167.545" unit="s"/>
+  </u>
+  <u who="CLI" uID="u95">
+    <e><happening>vocalization</happening></e>
+    <t type="p"/>
+    <media start="167.545" end="170.671" unit="s"/>
+  </u>
+  <u who="CHI" uID="u96">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph967">*</ph></pw></model><actual><pw><ph id="ph968">*</ph></pw></actual></pg>
+    <g><pg><w>what</w><model><pw><ss type="1"/><ph id="ph969">w</ph><ph id="ph970">ʌ</ph><ph id="ph971">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph972">w</ph><ph id="ph973">ʌ</ph><ph id="ph974">t</ph></pw></actual></pg><k type="retracing with correction"/></g>
+    <g><pg><w>I</w><model><pw><ss type="1"/><ph id="ph00974">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph00976">a͡ɪ</ph></pw></actual></pg><pg><w>want</w><model><pw><ss type="1"/><ph id="ph979">w</ph><ph id="ph980">ɑ</ph><ph id="ph981">n</ph><ph id="ph982">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph983">w</ph><ph id="ph984">ɑ</ph><ph id="ph985">n</ph><ph id="ph986">t</ph></pw></actual></pg><k type="retracing with correction"/></g>
+    <pg><w>what's<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>what</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/><mor-post><mw><pos><c>cop</c></pos><stem>be</stem><mk type="sfxf">3S</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph987">w</ph><ph id="ph988">ʌ</ph><ph id="ph989">t</ph><ph id="ph990">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph991">w</ph><ph id="ph992">ʌ</ph><ph id="ph993">t</ph><ph id="ph994">s</ph></pw></actual></pg>
+    <pg><w>that<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="3" head="2" relation="PRED"/></mor></w><model><pw><ss type="1"/><ph id="ph995">ð</ph><ph id="ph996">æ</ph><ph id="ph997">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph998">ð</ph><ph id="ph999">æ</ph><ph id="ph1000">t</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="4" head="2" relation="PUNCT"/></mor></t>
+    <media start="170.671" end="173.345" unit="s"/>
+  </u>
+  <u who="CLI" uID="u97">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ph id="ph1001">*</ph></pw></model><actual><pw><ph id="ph1002">*</ph></pw></actual></pg>
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1003">t</ph><ph id="ph1004">ɛ</ph><ph id="ph1005">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1006">t</ph><ph id="ph1007">ɛ</ph><ph id="ph1008">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="3" head="2" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1009">m</ph><ph id="ph1010">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1011">m</ph><ph id="ph1012">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>post</c></pos><stem>more</stem></mw><gra type="gra" index="4" head="2" relation="COMP"/></mor></w><model><pw><ss type="1"/><ph id="ph1013">m</ph><ph id="ph001013">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1016">m</ph><ph id="ph001016">ɔ͡ɚ</ph></pw></actual></pg>
+    <pg><w>about<mor type="mor"><mw><pos><c>prep</c></pos><stem>about</stem></mw><gra type="gra" index="5" head="4" relation="JCT"/></mor></w><model><pw><ph id="ph1019">ə</ph><ss type="1"/><ph id="ph1020">b</ph><ph id="ph001020">a͡ʊ</ph><ph id="ph1023">t</ph></pw></model><actual><pw><ph id="ph1024">ə</ph><ss type="1"/><ph id="ph1025">b</ph><ph id="ph001025">a͡ʊ</ph><ph id="ph1028">t</ph></pw></actual></pg>
+    <pg><w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="6" head="5" relation="POBJ"/></mor></w><model><pw><ph id="ph1029">ð</ph><ph id="ph1030">ə</ph><ph id="ph1031">s</ph></pw></model><actual><pw><ph id="ph1032">ð</ph><ph id="ph1033">ə</ph><ph id="ph1034">s</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="7" head="2" relation="PUNCT"/></mor></t>
+    <media start="173.345" end="176.447" unit="s"/>
+  </u>
+  <u who="CHI" uID="u98">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1035">*</ph></pw></model><actual><pw><ph id="ph1036">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="176.447" end="178.087" unit="s"/>
+  </u>
+  <u who="CLI" uID="u99">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph1037">*</ph></pw></model><actual><pw><ph id="ph1038">*</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="MOT" uID="u100">
+    <pg><w>we'll<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>we</stem></mw><gra type="gra" index="1" head="4" relation="SUBJ"/><mor-post><mw><pos><c>mod</c></pos><stem>will</stem></mw><gra type="gra" index="2" head="4" relation="AUX"/></mor-post></mor></w><model><pw><ss type="1"/><ph id="ph1039">w</ph><ph id="ph1040">i</ph><ph id="ph1041">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1042">w</ph><ph id="ph1043">i</ph><ph id="ph1044">ɫ</ph></pw></actual></pg>
+    <pg><w>get<mor type="mor"><mw><pos><c>aux</c></pos><stem>get</stem></mw><gra type="gra" index="3" head="4" relation="AUX"/></mor></w><model><pw><ss type="1"/><ph id="ph1045">g</ph><ph id="ph1046">ɪ</ph><ph id="ph1047">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1048">g</ph><ph id="ph1049">ɪ</ph><ph id="ph1050">t</ph></pw></actual></pg>
+    <pg><w>that<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>that</stem></mw><gra type="gra" index="4" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1051">ð</ph><ph id="ph1052">æ</ph><ph id="ph1053">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1054">ð</ph><ph id="ph1055">æ</ph><ph id="ph1056">t</ph></pw></actual></pg>
+    <pg><w>in<mor type="mor"><mw><pos><c>prep</c></pos><stem>in</stem></mw><gra type="gra" index="5" head="4" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1057">ɪ</ph><ph id="ph1058">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1059">ɪ</ph><ph id="ph1060">n</ph></pw></actual></pg>
+    <pg><w>a<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>a</stem></mw><gra type="gra" index="6" head="8" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1061">e</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1062">e</ph></pw></actual></pg>
+    <pg><w>few<mor type="mor"><mw><pos><c>n</c></pos><stem>few</stem></mw><gra type="gra" index="7" head="8" relation="MOD"/></mor></w><model><pw><ss type="1"/><ph id="ph1063">f</ph><ph id="ph1064">j</ph><ph id="ph1065">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1066">f</ph><ph id="ph1067">j</ph><ph id="ph1068">u</ph></pw></actual></pg>
+    <pg><w>minutes<mor type="mor"><mw><pos><c>n</c></pos><stem>minute</stem><mk type="sfx">PL</mk></mw><gra type="gra" index="8" head="5" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1069">m</ph><ph id="ph1070">ɪ</ph><ph id="ph1071">n</ph><ph id="ph1072">ə</ph><ph id="ph1073">t</ph><ph id="ph1074">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1075">m</ph><ph id="ph1076">ɪ</ph><ph id="ph1077">n</ph><ph id="ph1078">ə</ph><ph id="ph1079">t</ph><ph id="ph1080">s</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="9" head="4" relation="PUNCT"/></mor></t>
+    <media start="178.087" end="179.065" unit="s"/>
+  </u>
+  <u who="CHI" uID="u101">
+    <pg><w>mommy<mor type="mor"><mw><pos><c>n</c></pos><stem>mommy</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1081">m</ph><ph id="ph1082">ɑ</ph><ph id="ph1083">m</ph><ph id="ph1084">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1085">m</ph><ph id="ph1086">ɑ</ph><ph id="ph1087">m</ph><ph id="ph1088">i</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1089">*</ph></pw></model><actual><pw><ph id="ph1090">*</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="179.065" end="180.064" unit="s"/>
+  </u>
+  <u who="CLI" uID="u102">
+    <pg><w>yes<mor type="mor"><mw><pos><c>co</c></pos><stem>yes</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1091">j</ph><ph id="ph1092">ɛ</ph><ph id="ph1093">s</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1094">j</ph><ph id="ph1095">ɛ</ph><ph id="ph1096">s</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="180.064" end="181.166" unit="s"/>
+  </u>
+  <u who="CLI" uID="u103">
+    <pg><w>aw<mor type="mor"><mw><pos><c>co</c></pos><stem>aw</stem></mw><gra type="gra" index="1" head="2" relation="COM"/></mor></w><model><pw><ss type="1"/><ph id="ph1097">ɑ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1098">ɑ</ph></pw></actual></pg>
+    <pg><w>finish<mor type="mor"><mw><pos><c>v</c></pos><stem>finish</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1099">f</ph><ph id="ph1100">ɪ</ph><ph id="ph1101">n</ph><ph id="ph1102">ɪ</ph><ph id="ph1103">ʃ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1104">f</ph><ph id="ph1105">ɪ</ph><ph id="ph1106">n</ph><ph id="ph1107">ɪ</ph><ph id="ph1108">ʃ</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1109">ð</ph><ph id="ph1110">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1111">ð</ph><ph id="ph1112">ʌ</ph></pw></actual></pg>
+    <pg><w>story<mor type="mor"><mw><pos><c>n</c></pos><stem>story</stem></mw><gra type="gra" index="4" head="5" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1113">s</ph><ph id="ph1114">t</ph><ph id="ph1115">ɔ</ph><ph id="ph1116">ɹ</ph><ph id="ph1117">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1118">s</ph><ph id="ph1119">t</ph><ph id="ph1120">ɔ</ph><ph id="ph1121">ɹ</ph><ph id="ph1122">i</ph></pw></actual></pg>
+    <pg><w>please<mor type="mor"><mw><pos><c>v</c></pos><stem>please</stem></mw><gra type="gra" index="5" head="2" relation="COMP"/></mor></w><model><pw><ss type="1"/><ph id="ph1123">p</ph><ph id="ph1124">l</ph><ph id="ph1125">i</ph><ph id="ph1126">z</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1127">p</ph><ph id="ph1128">l</ph><ph id="ph1129">i</ph><ph id="ph1130">z</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="6" head="2" relation="PUNCT"/></mor></t>
+    <media start="181.166" end="183.366" unit="s"/>
+  </u>
+  <u who="CHI" uID="u104">
+    <pg><w>I<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>I</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph001130">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph001132">a͡ɪ</ph></pw></actual></pg>
+    <pg><w>sat<mor type="mor"><mw><pos><c>v</c></pos><stem>sit</stem><mk type="sfxf">PAST</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1135">s</ph><ph id="ph1136">æ</ph><ph id="ph1137">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1138">s</ph><ph id="ph1139">æ</ph><ph id="ph1140">t</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>prep</c></pos><stem>on</stem></mw><gra type="gra" index="3" head="2" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1141">ɑ</ph><ph id="ph1142">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1143">ɑ</ph><ph id="ph1144">n</ph></pw></actual></pg>
+    <pg><w>it<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="4" head="3" relation="POBJ"/></mor></w><model><pw><ph id="ph1145">ə</ph><ph id="ph1146">t</ph></pw></model><actual><pw><ph id="ph1147">ə</ph><ph id="ph1148">t</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CHI" uID="u105">
+    <pg><w>I<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>I</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph001148">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph001150">a͡ɪ</ph></pw></actual></pg>
+    <pg><w>sat<mor type="mor"><mw><pos><c>v</c></pos><stem>sit</stem><mk type="sfxf">PAST</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1153">s</ph><ph id="ph1154">æ</ph><ph id="ph1155">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1156">s</ph><ph id="ph1157">æ</ph><ph id="ph1158">t</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>prep</c></pos><stem>on</stem></mw><gra type="gra" index="3" head="2" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1159">ɑ</ph><ph id="ph1160">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1161">ɑ</ph><ph id="ph1162">n</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="4" head="3" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1163">ð</ph><ph id="ph1164">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1165">ð</ph><ph id="ph1166">ʌ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1167">*</ph></pw></model><actual><pw><ph id="ph1168">*</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u106">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="183.366" end="186.951" unit="s"/>
+  </u>
+  <u who="CLI" uID="u107">
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1169">j</ph><ph id="ph1170">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1171">j</ph><ph id="ph1172">u</ph></pw></actual></pg>
+    <pg><w>want<mor type="mor"><mw><pos><c>v</c></pos><stem>want</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1173">w</ph><ph id="ph1174">ɑ</ph><ph id="ph1175">n</ph><ph id="ph1176">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1177">w</ph><ph id="ph1178">ɑ</ph><ph id="ph1179">n</ph><ph id="ph1180">t</ph></pw></actual></pg>
+    <pg><w>to<mor type="mor"><mw><pos><c>inf</c></pos><stem>to</stem></mw><gra type="gra" index="3" head="4" relation="INF"/></mor></w><model><pw><ss type="1"/><ph id="ph1181">t</ph><ph id="ph1182">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1183">t</ph><ph id="ph1184">u</ph></pw></actual></pg>
+    <pg><w>sit<mor type="mor"><mw><pos><c>v</c></pos><stem>sit</stem></mw><gra type="gra" index="4" head="2" relation="COMP"/></mor></w><model><pw><ss type="1"/><ph id="ph1185">s</ph><ph id="ph1186">ɪ</ph><ph id="ph1187">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1188">s</ph><ph id="ph1189">ɪ</ph><ph id="ph1190">t</ph></pw></actual></pg>
+    <pg><w>here<mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="5" head="4" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1191">h</ph><ph id="ph001191">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1194">h</ph><ph id="ph001194">ɪ͡ɚ</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="6" head="2" relation="PUNCT"/></mor></t>
+    <media start="186.951" end="187.935" unit="s"/>
+  </u>
+  <u who="CHI" uID="u108">
+    <pg><w>no<mor type="mor"><mw><pos><c>co</c></pos><stem>no</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1197">n</ph><ph id="ph1198">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1199">n</ph><ph id="ph1200">o</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="187.935" end="189.136" unit="s"/>
+  </u>
+  <u who="CHI" uID="u109">
+    <g><pg><w>I</w><model><pw><ss type="1"/><ph id="ph001200">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph001202">a͡ɪ</ph></pw></actual></pg><pg><w>want</w><model><pw><ss type="1"/><ph id="ph1205">w</ph><ph id="ph1206">ɑ</ph><ph id="ph1207">n</ph><ph id="ph1208">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1209">w</ph><ph id="ph1210">ɑ</ph><ph id="ph1211">n</ph><ph id="ph1212">t</ph></pw></actual></pg><k type="retracing with correction"/></g>
+    <pg><w>I<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>I</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph001212">a͡ɪ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph001214">a͡ɪ</ph></pw></actual></pg>
+    <pg><w>sat<mor type="mor"><mw><pos><c>v</c></pos><stem>sit</stem><mk type="sfxf">PAST</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1217">s</ph><ph id="ph1218">æ</ph><ph id="ph1219">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1220">s</ph><ph id="ph1221">æ</ph><ph id="ph1222">t</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>prep</c></pos><stem>on</stem></mw><gra type="gra" index="3" head="2" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1223">ɑ</ph><ph id="ph1224">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1225">ɑ</ph><ph id="ph1226">n</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="4" head="3" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1227">ð</ph><ph id="ph1228">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1229">ð</ph><ph id="ph1230">ʌ</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1231">*</ph></pw></model><actual><pw><ph id="ph1232">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+    <media start="189.136" end="191.938" unit="s"/>
+  </u>
+  <u who="MOT" uID="u110">
+    <pg><w>okay<mor type="mor"><mw><pos><c>co</c></pos><stem>okay</stem></mw><gra type="gra" index="1" head="3" relation="COM"/></mor></w><model><pw><ss type="1"/><ph id="ph1233">o</ph><ph id="ph1234">k</ph><ph id="ph1235">e</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1236">o</ph><ph id="ph1237">k</ph><ph id="ph1238">e</ph></pw></actual></pg>
+    <pg><w>never<mor type="mor"><mw><pos><c>adv</c><s>tem</s></pos><stem>never</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1239">n</ph><ph id="ph1240">ɛ</ph><ph id="ph1241">v</ph><ph id="ph1242">ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1243">n</ph><ph id="ph1244">ɛ</ph><ph id="ph1245">v</ph><ph id="ph1246">ɚ</ph></pw></actual></pg>
+    <pg><w>mind<mor type="mor"><mw><pos><c>v</c></pos><stem>mind</stem></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1247">m</ph><ph id="ph001247">a͡ɪ</ph><ph id="ph1250">n</ph><ph id="ph1251">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1252">m</ph><ph id="ph001252">a͡ɪ</ph><ph id="ph1255">n</ph><ph id="ph1256">d</ph></pw></actual></pg>
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="4" head="3" relation="OBJ"/></mor></w><model><pw><ph id="ph1257">*</ph></pw></model><actual><pw><ph id="ph1258">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+    <media start="191.938" end="193.373" unit="s"/>
+  </u>
+  <u who="MOT" uID="u111">
+    <g><pg><w>we'll</w><model><pw><ss type="1"/><ph id="ph1259">w</ph><ph id="ph1260">i</ph><ph id="ph1261">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1262">w</ph><ph id="ph1263">i</ph><ph id="ph1264">ɫ</ph></pw></actual></pg><pg><w>just</w><model><pw><ph id="ph1265">ʤ</ph><ph id="ph1266">ə</ph><ph id="ph1267">s</ph><ph id="ph1268">t</ph></pw></model><actual><pw><ph id="ph1269">ʤ</ph><ph id="ph1270">ə</ph><ph id="ph1271">s</ph><ph id="ph1272">t</ph></pw></actual></pg><k type="retracing with correction"/></g>
+    <pg><w>we<mor type="mor"><mw><pos><c>pro</c><s>sub</s></pos><stem>we</stem></mw><gra type="gra" index="1" head="3" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1273">w</ph><ph id="ph1274">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1275">w</ph><ph id="ph1276">i</ph></pw></actual></pg>
+    <pg><w>can<mor type="mor"><mw><pos><c>mod</c></pos><stem>can</stem></mw><gra type="gra" index="2" head="3" relation="AUX"/></mor></w><model><pw><ss type="1"/><ph id="ph1277">k</ph><ph id="ph1278">æ</ph><ph id="ph1279">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1280">k</ph><ph id="ph1281">æ</ph><ph id="ph1282">n</ph></pw></actual></pg>
+    <pg><w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="3" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1283">g</ph><ph id="ph1284">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1285">g</ph><ph id="ph1286">o</ph></pw></actual></pg>
+    <pg><w>home<mor type="mor"><mw><pos><c>adv</c></pos><stem>home</stem></mw><gra type="gra" index="4" head="3" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1287">h</ph><ph id="ph1288">o</ph><ph id="ph1289">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1290">h</ph><ph id="ph1291">o</ph><ph id="ph1292">m</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="3" relation="PUNCT"/></mor></t>
+    <media start="193.373" end="195.082" unit="s"/>
+  </u>
+  <u who="CHI" uID="u112">
+    <pg><w>mommy<mor type="mor"><mw><pos><c>n</c></pos><stem>mommy</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1293">m</ph><ph id="ph1294">ɑ</ph><ph id="ph1295">m</ph><ph id="ph1296">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1297">m</ph><ph id="ph1298">ɑ</ph><ph id="ph1299">m</ph><ph id="ph1300">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="195.082" end="196.573" unit="s"/>
+  </u>
+  <u who="MOT" uID="u113">
+    <pg><w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="2" relation="LINK"/></mor></w><model><pw><ss type="1"/><ph id="ph1301">æ</ph><ph id="ph1302">n</ph><ph id="ph1303">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1304">æ</ph><ph id="ph1305">n</ph><ph id="ph1306">d</ph></pw></actual></pg>
+    <pg><w>finish<mor type="mor"><mw><pos><c>v</c></pos><stem>finish</stem></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1307">f</ph><ph id="ph1308">ɪ</ph><ph id="ph1309">n</ph><ph id="ph1310">ɪ</ph><ph id="ph1311">ʃ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1312">f</ph><ph id="ph1313">ɪ</ph><ph id="ph1314">n</ph><ph id="ph1315">ɪ</ph><ph id="ph1316">ʃ</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="3" head="4" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1317">ð</ph><ph id="ph1318">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1319">ð</ph><ph id="ph1320">ʌ</ph></pw></actual></pg>
+    <pg><w>story<mor type="mor"><mw><pos><c>n</c></pos><stem>story</stem></mw><gra type="gra" index="4" head="2" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1321">s</ph><ph id="ph1322">t</ph><ph id="ph1323">ɔ</ph><ph id="ph1324">ɹ</ph><ph id="ph1325">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1326">s</ph><ph id="ph1327">t</ph><ph id="ph1328">ɔ</ph><ph id="ph1329">ɹ</ph><ph id="ph1330">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u114">
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1331">k</ph><ph id="ph1332">ʌ</ph><ph id="ph1333">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1334">k</ph><ph id="ph1335">ʌ</ph><ph id="ph1336">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>adv</c></pos><stem>on</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1337">ɑ</ph><ph id="ph1338">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1339">ɑ</ph><ph id="ph1340">n</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="196.573" end="197.840" unit="s"/>
+  </u>
+  <u who="CHI" uID="u115">
+    <pg><w type="filler">um</w><model><pw><ss type="1"/><ph id="ph1341">ʌ</ph><ph id="ph1342">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1343">ʌ</ph><ph id="ph1344">m</ph></pw></actual></pg>
+    <pg><w>okay<mor type="mor"><mw><pos><c>co</c></pos><stem>okay</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1345">o</ph><ph id="ph1346">k</ph><ph id="ph1347">e</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1348">o</ph><ph id="ph1349">k</ph><ph id="ph1350">e</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="197.840" end="199.574" unit="s"/>
+  </u>
+  <u who="CHI" uID="u116">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1351">*</ph></pw></model><actual><pw><ph id="ph1352">*</ph></pw></actual></pg>
+    <pg><w>did<mor type="mor"><mw><pos><c>v</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1353">d</ph><ph id="ph1354">ɪ</ph><ph id="ph1355">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1356">d</ph><ph id="ph1357">ɪ</ph><ph id="ph1358">d</ph></pw></actual></pg>
+    <pg><w>this<mor type="mor"><mw><pos><c>det</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ph id="ph1359">ð</ph><ph id="ph1360">ə</ph><ph id="ph1361">s</ph></pw></model><actual><pw><ph id="ph1362">ð</ph><ph id="ph1363">ə</ph><ph id="ph1364">s</ph></pw></actual></pg>
+    <g><pg><w>and</w><model><pw><ss type="1"/><ph id="ph1365">æ</ph><ph id="ph1366">n</ph><ph id="ph1367">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1368">æ</ph><ph id="ph1369">n</ph><ph id="ph1370">d</ph></pw></actual></pg><pg><w>this</w><model><pw><ph id="ph1371">ð</ph><ph id="ph1372">ə</ph><ph id="ph1373">s</ph></pw></model><actual><pw><ph id="ph1374">ð</ph><ph id="ph1375">ə</ph><ph id="ph1376">s</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="3" head="2" relation="CONJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1377">æ</ph><ph id="ph1378">n</ph><ph id="ph1379">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1380">æ</ph><ph id="ph1381">n</ph><ph id="ph1382">d</ph></pw></actual></pg>
+    <pg><w>this<mor type="mor"><mw><pos><c>pro</c><s>dem</s></pos><stem>this</stem></mw><gra type="gra" index="4" head="3" relation="COORD"/></mor></w><model><pw><ph id="ph1383">ð</ph><ph id="ph1384">ə</ph><ph id="ph1385">s</ph></pw></model><actual><pw><ph id="ph1386">ð</ph><ph id="ph1387">ə</ph><ph id="ph1388">s</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1389">*</ph></pw></model><actual><pw><ph id="ph1390">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="1" relation="PUNCT"/></mor></t>
+    <media start="199.574" end="207.616" unit="s"/>
+  </u>
+  <u who="CLI" uID="u117">
+    <pg><w>mhm<mor type="mor"><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph1391">ə</ph><ph id="ph1392">m</ph><ph id="ph1393">h</ph><ph id="ph1394">m̩</ph></pw></model><actual><pw><ph id="ph1395">ə</ph><ph id="ph1396">m</ph><ph id="ph1397">h</ph><ph id="ph1398">m̩</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="207.616" end="208.078" unit="s"/>
+  </u>
+  <u who="CLI" uID="u118">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="208.078" end="209.094" unit="s"/>
+  </u>
+  <u who="CLI" uID="u119">
+    <pg><w>wow<mor type="mor"><mw><pos><c>co</c></pos><stem>wow</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1399">w</ph><ph id="ph001399">a͡ʊ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1402">w</ph><ph id="ph001402">a͡ʊ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="209.094" end="210.129" unit="s"/>
+  </u>
+  <u who="CLI" uID="u120">
+    <pg><w>mhm<mor type="mor"><mw><pos><c>co</c></pos><stem>mhm</stem></mw><menx>yes</menx><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph1405">ə</ph><ph id="ph1406">m</ph><ph id="ph1407">h</ph><ph id="ph1408">m̩</ph></pw></model><actual><pw><ph id="ph1409">ə</ph><ph id="ph1410">m</ph><ph id="ph1411">h</ph><ph id="ph1412">m̩</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="210.129" end="213.697" unit="s"/>
+  </u>
+  <u who="CLI" uID="u121">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+    <media start="213.697" end="215.898" unit="s"/>
+  </u>
+  <u who="CLI" uID="u122">
+    <pg><w>it<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="1" head="2" relation="SUBJ"/></mor></w><model><pw><ph id="ph1413">ə</ph><ph id="ph1414">t</ph></pw></model><actual><pw><ph id="ph1415">ə</ph><ph id="ph1416">t</ph></pw></actual></pg>
+    <pg><w>did<mor type="mor"><mw><pos><c>v</c></pos><stem>do</stem><mk type="sfxf">PAST</mk></mw><gra type="gra" index="2" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1417">d</ph><ph id="ph1418">ɪ</ph><ph id="ph1419">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1420">d</ph><ph id="ph1421">ɪ</ph><ph id="ph1422">d</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+    <media start="215.898" end="218.100" unit="s"/>
+  </u>
+  <u who="CHI" uID="u123">
+    <pg><w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="2" relation="LINK"/></mor></w><model><pw><ss type="1"/><ph id="ph1423">æ</ph><ph id="ph1424">n</ph><ph id="ph1425">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1426">æ</ph><ph id="ph1427">n</ph><ph id="ph1428">d</ph></pw></actual></pg>
+    <pg><w>it<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>it</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph1429">ə</ph><ph id="ph1430">t</ph></pw></model><actual><pw><ph id="ph1431">ə</ph><ph id="ph1432">t</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1433">*</ph></pw></model><actual><pw><ph id="ph1434">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CHI" uID="u124">
+    <e><happening>gasps</happening></e>
+    <t type="p"/>
+  </u>
+  <u who="CHI" uID="u125">
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="1" head="2" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1435">ð</ph><ph id="ph1436">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1437">ð</ph><ph id="ph1438">ʌ</ph></pw></actual></pg>
+    <pg><w>frogs<mor type="mor"><mw><pos><c>n</c></pos><stem>frog</stem><mk type="sfx">PL</mk></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1439">f</ph><ph id="ph1440">ɹ</ph><ph id="ph1441">ɑ</ph><ph id="ph1442">g</ph><ph id="ph1443">z</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1444">f</ph><ph id="ph1445">ɹ</ph><ph id="ph1446">ɑ</ph><ph id="ph1447">g</ph><ph id="ph1448">z</ph></pw></actual></pg>
+    <t type="e"><mor type="mor"><mt type="e"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+    <media start="218.100" end="223.630" unit="s"/>
+  </u>
+  <u who="CLI" uID="u126">
+    <pg><w>oh<mor type="mor"><mw><pos><c>co</c></pos><stem>oh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1449">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1450">o</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CHI" uID="u127">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1451">*</ph></pw></model><actual><pw><ph id="ph1452">*</ph></pw></actual></pg>
+    <t type="p"/>
+    <media start="223.630" end="225.070" unit="s"/>
+  </u>
+  <u who="CLI" uID="u128">
+    <pg><w>wow<mor type="mor"><mw><pos><c>co</c></pos><stem>wow</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1453">w</ph><ph id="ph001453">a͡ʊ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1456">w</ph><ph id="ph001456">a͡ʊ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="225.070" end="226.753" unit="s"/>
+  </u>
+  <u who="CLI" uID="u129">
+    <pg><w>in<mor type="mor"><mw><pos><c>prep</c></pos><stem>in</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1459">ɪ</ph><ph id="ph1460">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1461">ɪ</ph><ph id="ph1462">n</ph></pw></actual></pg>
+    <pg><w>here<mor type="mor"><mw><pos><c>n</c></pos><stem>here</stem></mw><gra type="gra" index="2" head="1" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1463">h</ph><ph id="ph001463">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1466">h</ph><ph id="ph001466">ɪ͡ɚ</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="226.753" end="227.904" unit="s"/>
+  </u>
+  <u who="CLI" uID="u130">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph1469">*</ph></pw></model><actual><pw><ph id="ph1470">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="227.904" end="229.211" unit="s"/>
+  </u>
+  <u who="CLI" uID="u131">
+    <pg><w>here<mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1471">h</ph><ph id="ph001471">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1474">h</ph><ph id="ph001474">ɪ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="MOT" uID="u132">
+    <pg><w>Childsname<mor type="mor"><mw><pos><c>n</c><s>prop</s></pos><stem>Childsname</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph1477">*</ph></pw></model><actual><pw><ph id="ph1478">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="229.211" end="230.836" unit="s"/>
+  </u>
+  <u who="CHI" uID="u133">
+    <pg><w>hm<mor type="mor"><mw><pos><c>co</c></pos><stem>hm</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ph id="ph1479">*</ph></pw></model><actual><pw><ph id="ph1480">*</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="230.836" end="232.406" unit="s"/>
+  </u>
+  <u who="MOT" uID="u134">
+    <pg><w>finish<mor type="mor"><mw><pos><c>v</c></pos><stem>finish</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1481">f</ph><ph id="ph1482">ɪ</ph><ph id="ph1483">n</ph><ph id="ph1484">ɪ</ph><ph id="ph1485">ʃ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1486">f</ph><ph id="ph1487">ɪ</ph><ph id="ph1488">n</ph><ph id="ph1489">ɪ</ph><ph id="ph1490">ʃ</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="2" head="3" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1491">ð</ph><ph id="ph1492">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1493">ð</ph><ph id="ph1494">ʌ</ph></pw></actual></pg>
+    <pg><w>story<mor type="mor"><mw><pos><c>n</c></pos><stem>story</stem></mw><gra type="gra" index="3" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1495">s</ph><ph id="ph1496">t</ph><ph id="ph1497">ɔ</ph><ph id="ph1498">ɹ</ph><ph id="ph1499">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1500">s</ph><ph id="ph1501">t</ph><ph id="ph1502">ɔ</ph><ph id="ph1503">ɹ</ph><ph id="ph1504">i</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media start="232.406" end="233.807" unit="s"/>
+  </u>
+  <u who="CLI" uID="u135">
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1505">t</ph><ph id="ph1506">ɛ</ph><ph id="ph1507">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1508">t</ph><ph id="ph1509">ɛ</ph><ph id="ph1510">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1511">m</ph><ph id="ph1512">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1513">m</ph><ph id="ph1514">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="3" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1515">m</ph><ph id="ph001515">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1518">m</ph><ph id="ph001518">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u136">
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1521">k</ph><ph id="ph1522">ʌ</ph><ph id="ph1523">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1524">k</ph><ph id="ph1525">ʌ</ph><ph id="ph1526">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>adv</c></pos><stem>on</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1527">ɑ</ph><ph id="ph1528">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1529">ɑ</ph><ph id="ph1530">n</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="233.807" end="235.109" unit="s"/>
+  </u>
+  <u who="CHI" uID="u137">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1531">*</ph></pw></model><actual><pw><ph id="ph1532">*</ph></pw></actual></pg>
+    <pg><w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1533">g</ph><ph id="ph1534">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1535">g</ph><ph id="ph1536">o</ph></pw></actual></pg>
+    <pg><w>under<mor type="mor"><mw><pos><c>prep</c></pos><stem>under</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1537">ʌ</ph><ph id="ph1538">n</ph><ph id="ph1539">d</ph><ph id="ph1540">ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1541">ʌ</ph><ph id="ph1542">n</ph><ph id="ph1543">d</ph><ph id="ph1544">ɚ</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u138">
+    <e><happening>makes_playful_sounds</happening></e>
+    <t type="p"/>
+    <media start="235.109" end="236.808" unit="s"/>
+  </u>
+  <u who="MOT" uID="u139">
+    <pg><w>after<mor type="mor"><mw><pos><c>conj</c></pos><stem>after</stem></mw><gra type="gra" index="1" head="3" relation="LINK"/></mor></w><model><pw><ss type="1"/><ph id="ph1545">æ</ph><ph id="ph1546">f</ph><ph id="ph1547">t</ph><ph id="ph1548">ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1549">æ</ph><ph id="ph1550">f</ph><ph id="ph1551">t</ph><ph id="ph1552">ɚ</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="2" head="3" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1553">j</ph><ph id="ph1554">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1555">j</ph><ph id="ph1556">u</ph></pw></actual></pg>
+    <pg><w>finish<mor type="mor"><mw><pos><c>v</c></pos><stem>finish</stem></mw><gra type="gra" index="3" head="8" relation="CJCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1557">f</ph><ph id="ph1558">ɪ</ph><ph id="ph1559">n</ph><ph id="ph1560">ɪ</ph><ph id="ph1561">ʃ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1562">f</ph><ph id="ph1563">ɪ</ph><ph id="ph1564">n</ph><ph id="ph1565">ɪ</ph><ph id="ph1566">ʃ</ph></pw></actual></pg>
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="4" head="5" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1567">ð</ph><ph id="ph1568">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1569">ð</ph><ph id="ph1570">ʌ</ph></pw></actual></pg>
+    <pg><w>story<mor type="mor"><mw><pos><c>n</c></pos><stem>story</stem></mw><gra type="gra" index="5" head="3" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1571">s</ph><ph id="ph1572">t</ph><ph id="ph1573">ɔ</ph><ph id="ph1574">ɹ</ph><ph id="ph1575">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1576">s</ph><ph id="ph1577">t</ph><ph id="ph1578">ɔ</ph><ph id="ph1579">ɹ</ph><ph id="ph1580">i</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="6" head="8" relation="SUBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1581">j</ph><ph id="ph1582">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1583">j</ph><ph id="ph1584">u</ph></pw></actual></pg>
+    <pg><w>can<mor type="mor"><mw><pos><c>mod</c></pos><stem>can</stem></mw><gra type="gra" index="7" head="8" relation="AUX"/></mor></w><model><pw><ss type="1"/><ph id="ph1585">k</ph><ph id="ph1586">æ</ph><ph id="ph1587">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1588">k</ph><ph id="ph1589">æ</ph><ph id="ph1590">n</ph></pw></actual></pg>
+    <pg><w>go<mor type="mor"><mw><pos><c>v</c></pos><stem>go</stem></mw><gra type="gra" index="8" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1591">g</ph><ph id="ph1592">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1593">g</ph><ph id="ph1594">o</ph></pw></actual></pg>
+    <pg><w>under<mor type="mor"><mw><pos><c>prep</c></pos><stem>under</stem></mw><gra type="gra" index="9" head="8" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1595">ʌ</ph><ph id="ph1596">n</ph><ph id="ph1597">d</ph><ph id="ph1598">ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1599">ʌ</ph><ph id="ph1600">n</ph><ph id="ph1601">d</ph><ph id="ph1602">ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="10" head="8" relation="PUNCT"/></mor></t>
+    <media start="236.808" end="238.641" unit="s"/>
+  </u>
+  <u who="CLI" uID="u140">
+    <pg><w>come<mor type="mor"><mw><pos><c>v</c></pos><stem>come</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1603">k</ph><ph id="ph1604">ʌ</ph><ph id="ph1605">m</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1606">k</ph><ph id="ph1607">ʌ</ph><ph id="ph1608">m</ph></pw></actual></pg>
+    <pg><w>on<mor type="mor"><mw><pos><c>adv</c></pos><stem>on</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1609">ɑ</ph><ph id="ph1610">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1611">ɑ</ph><ph id="ph1612">n</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="238.641" end="240.126" unit="s"/>
+  </u>
+  <u who="CLI" uID="u141">
+    <pg><w>sit<mor type="mor"><mw><pos><c>v</c></pos><stem>sit</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1613">s</ph><ph id="ph1614">ɪ</ph><ph id="ph1615">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1616">s</ph><ph id="ph1617">ɪ</ph><ph id="ph1618">t</ph></pw></actual></pg>
+    <pg><w>here<mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1619">h</ph><ph id="ph001619">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1622">h</ph><ph id="ph001622">ɪ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="240.126" end="241.176" unit="s"/>
+  </u>
+  <u who="CLI" uID="u142">
+    <pg><w>sit<mor type="mor"><mw><pos><c>v</c></pos><stem>sit</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1625">s</ph><ph id="ph1626">ɪ</ph><ph id="ph1627">t</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1628">s</ph><ph id="ph1629">ɪ</ph><ph id="ph1630">t</ph></pw></actual></pg>
+    <pg><w>here<mor type="mor"><mw><pos><c>adv</c></pos><stem>here</stem></mw><gra type="gra" index="2" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1631">h</ph><ph id="ph001631">ɪ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1634">h</ph><ph id="ph001634">ɪ͡ɚ</ph></pw></actual></pg>
+    <pg><w>where<mor type="mor"><mw><pos><c>pro</c><s>int</s></pos><stem>where</stem></mw><gra type="gra" index="3" head="1" relation="JCT"/></mor></w><model><pw><ss type="1"/><ph id="ph1637">w</ph><ph id="ph001637">ɛ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1640">w</ph><ph id="ph001640">ɛ͡ɚ</ph></pw></actual></pg>
+    <g><pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="4" head="3" relation="POBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1643">m</ph><ph id="ph1644">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1645">m</ph><ph id="ph1646">i</ph></pw></actual></pg><error/></g>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="5" head="1" relation="PUNCT"/></mor></t>
+    <media start="241.176" end="242.153" unit="s"/>
+  </u>
+  <u who="CLI" uID="u143">
+    <pg><w>tell<mor type="mor"><mw><pos><c>v</c></pos><stem>tell</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1647">t</ph><ph id="ph1648">ɛ</ph><ph id="ph1649">ɫ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1650">t</ph><ph id="ph1651">ɛ</ph><ph id="ph1652">ɫ</ph></pw></actual></pg>
+    <pg><w>me<mor type="mor"><mw><pos><c>pro</c><s>obj</s></pos><stem>me</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1653">m</ph><ph id="ph1654">i</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1655">m</ph><ph id="ph1656">i</ph></pw></actual></pg>
+    <pg><w>more<mor type="mor"><mw><pos><c>pro</c><s>indef</s></pos><stem>more</stem></mw><gra type="gra" index="3" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1657">m</ph><ph id="ph001657">ɔ͡ɚ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1660">m</ph><ph id="ph001660">ɔ͡ɚ</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="4" head="1" relation="PUNCT"/></mor></t>
+    <media start="242.153" end="244.255" unit="s"/>
+  </u>
+  <u who="CHI" uID="u144">
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1663">*</ph></pw></model><actual><pw><ph id="ph1664">*</ph></pw></actual></pg>
+    <g><pg><w>and</w><model><pw><ss type="1"/><ph id="ph1665">æ</ph><ph id="ph1666">n</ph><ph id="ph1667">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1668">æ</ph><ph id="ph1669">n</ph><ph id="ph1670">d</ph></pw></actual></pg><pg><w>then</w><model><pw><ss type="1"/><ph id="ph1671">ð</ph><ph id="ph1672">ɛ</ph><ph id="ph1673">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1674">ð</ph><ph id="ph1675">ɛ</ph><ph id="ph1676">n</ph></pw></actual></pg><k type="retracing"/></g>
+    <pg><w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="2" relation="LINK"/></mor></w><model><pw><ss type="1"/><ph id="ph1677">æ</ph><ph id="ph1678">n</ph><ph id="ph1679">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1680">æ</ph><ph id="ph1681">n</ph><ph id="ph1682">d</ph></pw></actual></pg>
+    <pg><w>then<mor type="mor"><mw><pos><c>adv</c><s>tem</s></pos><stem>then</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1683">ð</ph><ph id="ph1684">ɛ</ph><ph id="ph1685">n</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1686">ð</ph><ph id="ph1687">ɛ</ph><ph id="ph1688">n</ph></pw></actual></pg>
+    <pg><w untranscribed="unintelligible">xxx</w><model><pw><ph id="ph1689">*</ph></pw></model><actual><pw><ph id="ph1690">*</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+    <media start="244.255" end="250.632" unit="s"/>
+  </u>
+  <u who="CLI" uID="u145">
+    <pg><w>oh<mor type="mor"><mw><pos><c>co</c></pos><stem>oh</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1691">o</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1692">o</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="250.632" end="251.431" unit="s"/>
+  </u>
+  <u who="CLI" uID="u146">
+    <pg><w>and<mor type="mor"><mw><pos><c>coord</c></pos><stem>and</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1693">æ</ph><ph id="ph1694">n</ph><ph id="ph1695">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1696">æ</ph><ph id="ph1697">n</ph><ph id="ph1698">d</ph></pw></actual></pg>
+    <t type="q"><mor type="mor"><mt type="q"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+    <media start="251.431" end="252.833" unit="s"/>
+  </u>
+  <u who="CHI" uID="u147">
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="1" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1699">ð</ph><ph id="ph1700">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1701">ð</ph><ph id="ph1702">ʌ</ph></pw></actual></pg>
+    <t type="interruption"><mor type="mor"><mt type="interruption"/><gra type="gra" index="2" head="1" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CLI" uID="u148">
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="1" head="2" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1703">ð</ph><ph id="ph1704">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1705">ð</ph><ph id="ph1706">ʌ</ph></pw></actual></pg>
+    <pg><w>end<mor type="mor"><mw><pos><c>n</c></pos><stem>end</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1707">ɛ</ph><ph id="ph1708">n</ph><ph id="ph1709">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1710">ɛ</ph><ph id="ph1711">n</ph><ph id="ph1712">d</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+  </u>
+  <u who="CHI" uID="u149">
+    <pg><w>the<mor type="mor"><mw><pos><c>det</c><s>art</s></pos><stem>the</stem></mw><gra type="gra" index="1" head="2" relation="DET"/></mor></w><model><pw><ss type="1"/><ph id="ph1713">ð</ph><ph id="ph1714">ʌ</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1715">ð</ph><ph id="ph1716">ʌ</ph></pw></actual></pg>
+    <pg><w>end<mor type="mor"><mw><pos><c>n</c></pos><stem>end</stem></mw><gra type="gra" index="2" head="0" relation="INCROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1717">ɛ</ph><ph id="ph1718">n</ph><ph id="ph1719">d</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1720">ɛ</ph><ph id="ph1721">n</ph><ph id="ph1722">d</ph></pw></actual></pg>
+    <t type="p"><mor type="mor"><mt type="p"/><gra type="gra" index="3" head="2" relation="PUNCT"/></mor></t>
+    <media start="252.833" end="255.190" unit="s"/>
+  </u>
+  <u who="CLI" uID="u150">
+    <pg><w>thank<mor type="mor"><mw><pos><c>v</c></pos><stem>thank</stem></mw><gra type="gra" index="1" head="0" relation="ROOT"/></mor></w><model><pw><ss type="1"/><ph id="ph1723">θ</ph><ph id="ph1724">æ</ph><ph id="ph1725">ŋ</ph><ph id="ph1726">k</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1727">θ</ph><ph id="ph1728">æ</ph><ph id="ph1729">ŋ</ph><ph id="ph1730">k</ph></pw></actual></pg>
+    <pg><w>you<mor type="mor"><mw><pos><c>pro</c><s>per</s></pos><stem>you</stem></mw><gra type="gra" index="2" head="1" relation="OBJ"/></mor></w><model><pw><ss type="1"/><ph id="ph1731">j</ph><ph id="ph1732">u</ph></pw></model><actual><pw><ss type="1"/><ph id="ph1733">j</ph><ph id="ph1734">u</ph></pw></actual></pg>
+    <t type="e"><mor type="mor"><mt type="e"/><gra type="gra" index="3" head="1" relation="PUNCT"/></mor></t>
+    <media start="255.190" end="257.063" unit="s"/>
+  </u>
+</CHAT>
