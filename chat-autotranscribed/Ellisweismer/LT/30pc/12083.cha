@@ -527,6 +527,8 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|PRED 4|2|PUNCT
 %wor:	what 225698_226208 are 226208_226238 those 226238_226588 ?
 *CHI:	&~pumpk .
+%mod:	*
+%pho:	*
 %wor:	&~pumpk .
 *MOT:	pumpkins . 229111_229501
 %mor:	n|pumpkin-PL .
@@ -664,8 +666,8 @@
 %wor:	xxx .
 *MOT:	one &~t +... 286855_287585
 %mor:	det:num|one +...
-%mod:	ˈwʌn
-%pho:	ˈwʌn
+%mod:	ˈwʌn ˈti
+%pho:	ˈwʌn ˈti
 %gra:	1|0|INCROOT 2|1|PUNCT
 %wor:	one 286855_287585 &~t +...
 *CHI:	&=sounds .
@@ -913,10 +915,10 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|2|JCT 4|6|DET 5|6|MOD 6|3|POBJ 7|2|PUNCT
 %wor:	he 374805_374815 fell 374815_374885 into 374885_374985 the 374985_374995 cow's 374995_376905 spot 378255_379095 .
 %com:	c plays noisily with toys
-*MOT:	can you shut it &~c [/] Cader ? 380506_381886
+*MOT:	can you shut it <&~c> [/] Cader ? 380506_381886
 %mor:	mod|can pro:per|you v|shut&ZERO pro:per|it n:prop|Cader ?
-%mod:	ˈkæn ˈju ˈʃʌt ət *
-%pho:	ˈkæn ˈju ˈʃʌt ət *
+%mod:	ˈkæn ˈju ˈʃʌt ət ˈsi *
+%pho:	ˈkæn ˈju ˈʃʌt ət ˈsi *
 %gra:	1|3|AUX 2|3|SUBJ 3|0|ROOT 4|3|OBJ 5|3|JCT 6|3|PUNCT
 %wor:	can you shut 380506_381266 it 381266_381326 &~c [/] Cader ? 381326_381886
 *MOT:	Cader just shut the barn . 381934_383364

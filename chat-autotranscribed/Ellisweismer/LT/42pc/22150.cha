@@ -769,8 +769,12 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %wor:	what 225280_225600 ?
 *FAT:	&~ma .
+%mod:	ˈmɑ
+%pho:	ˈmɑ
 %wor:	&~ma .
 *FAT:	&~ma .
+%mod:	ˈmɑ
+%pho:	ˈmɑ
 %wor:	&~ma .
 *FAT:	mare . 230900_231210
 %mor:	n|mare .
@@ -1124,10 +1128,10 @@
 %mod:	*
 %pho:	*
 %wor:	xxx .
-*FAT:	can a sheep &~car [//] can a pig carry a sheep ? 371109_375619
+*FAT:	can a sheep <&~car> [//] can a pig carry a sheep ? 371109_375619
 %mor:	mod|can det:art|a n|sheep mod|can det:art|a n|pig v|carry det:art|a n|sheep ?
-%mod:	ˈkæn ˈe ˈʃip ˈkæn ˈe ˈpɪg ˈkæɹi ˈe ˈʃip
-%pho:	ˈkæn ˈe ˈʃip ˈkæn ˈe ˈpɪg ˈkæɹi ˈe ˈʃip
+%mod:	ˈkæn ˈe ˈʃip ˈkɑ͡ɚ ˈkæn ˈe ˈpɪg ˈkæɹi ˈe ˈʃip
+%pho:	ˈkæn ˈe ˈʃip ˈkɑ͡ɚ ˈkæn ˈe ˈpɪg ˈkæɹi ˈe ˈʃip
 %gra:	1|7|AUX 2|3|DET 3|7|SUBJ 4|7|AUX 5|6|DET 6|7|SUBJ 7|0|ROOT 8|9|DET 9|7|OBJ 10|7|PUNCT
 %wor:	can 371109_371989 a sheep 373619_374279 &~car [//] can a pig carry a sheep ? 374279_375619
 *FAT:	no . 377411_377971
@@ -1517,10 +1521,10 @@
 %pho:	ˈoke
 %gra:	1|0|INCROOT 2|1|PUNCT
 %wor:	okay 545260_545710 .
-*CHI:	<and> [/] and all of <my> [//] and all of my &~hus [//] and my husband . 546006_550376
+*CHI:	<and> [/] and all of <my> [//] and all of my <&~hus> [//] and my husband . 546006_550376
 %mor:	coord|and pro:indef|all prep|of coord|and pro:indef|all prep|of det:poss|my coord|and det:poss|my n|husband .
-%mod:	ˈænd ˈænd ˈɑɫ ˈʌv ˈma͡ɪ ˈænd ˈɑɫ ˈʌv ˈma͡ɪ ˈænd ˈma͡ɪ ˈhʌzbn̩d
-%pho:	ˈænd ˈænd ˈɑɫ ˈʌv ˈma͡ɪ ˈænd ˈɑɫ ˈʌv ˈma͡ɪ ˈænd ˈma͡ɪ ˈhʌzbn̩d
+%mod:	ˈænd ˈænd ˈɑɫ ˈʌv ˈma͡ɪ ˈænd ˈɑɫ ˈʌv ˈma͡ɪ * ˈænd ˈma͡ɪ ˈhʌzbn̩d
+%pho:	ˈænd ˈænd ˈɑɫ ˈʌv ˈma͡ɪ ˈænd ˈɑɫ ˈʌv ˈma͡ɪ * ˈænd ˈma͡ɪ ˈhʌzbn̩d
 %gra:	1|0|INCROOT 2|1|COORD 3|2|NJCT 4|3|CONJ 5|4|COORD 6|5|NJCT 7|6|POBJ 8|7|CONJ 9|10|DET 10|8|COORD 11|1|PUNCT
 %wor:	and [/] 546006_546326 and 546326_546466 all 546466_546556 of 546556_546636 my [//] 546636_546986 and 547216_547606 all 547606_547776 of 547776_547836 my 547836_548026 &~hus [//] and my husband . 548406_550376
 *FAT:	that's your husband . 550441_551551
@@ -1619,8 +1623,8 @@
 %wor:	xxx boy 594259_594869 .
 *FAT:	<are they &~play> [/?] are they fighting or wrestling ? 595330_601680
 %mor:	cop|be&PRES pro:sub|they part|fight-PRESP coord|or part|wrestle-PRESP ?
-%mod:	ɚ ˈðe ɚ ˈðe ˈfa͡ɪɾɪŋ ɚ ˈɹɛslɪŋ
-%pho:	ɚ ˈðe ɚ ˈðe ˈfa͡ɪɾɪŋ ɚ ˈɹɛslɪŋ
+%mod:	ɚ ˈðe ˈple ɚ ˈðe ˈfa͡ɪɾɪŋ ɚ ˈɹɛslɪŋ
+%pho:	ɚ ˈðe ˈple ɚ ˈðe ˈfa͡ɪɾɪŋ ɚ ˈɹɛslɪŋ
 %gra:	1|0|ROOT 2|1|PRED 3|2|XMOD 4|3|CONJ 5|4|COORD 6|1|PUNCT
 %wor:	<are 595330_595500 they &~play> [/?] are they fighting or wrestling ? 597500_601680
 *FAT:	do they like to wrestle ? 602181_603131
@@ -1809,6 +1813,8 @@
 %gra:	1|2|SUBJ 2|0|ROOT 3|5|DET 4|5|QUANT 5|2|OBJ 6|8|LINK 7|8|SUBJ 8|2|CJCT 9|10|JCT 10|8|PRED 11|2|PUNCT
 %wor:	he 678675_678815 likes 678815_679105 the 679105_679275 other 679275_679505 chickens 679505_679975 and 679975_680315 he 680315_680325 was 680325_680415 all 680415_680585 lonely 680585_681265 .
 *FAT:	&~aw .
+%mod:	ˈɑ
+%pho:	ˈɑ
 %wor:	&~aw .
 *FAT:	or she was all lonely . 683177_684167
 %mor:	coord|or pro:sub|she cop|be&PAST&13S adv|all adj|lonely .
@@ -1829,6 +1835,8 @@
 %gra:	1|0|INCROOT 2|1|PUNCT
 %wor:	no 686149_686709 .
 *FAT:	&~aw .
+%mod:	ˈɑ
+%pho:	ˈɑ
 %wor:	&~aw .
 *FAT:	do you like to be lonely ? 687745_688305
 %mor:	mod|do pro:per|you v|like inf|to cop|be adj|lonely ?
